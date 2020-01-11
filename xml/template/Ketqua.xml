@@ -1,0 +1,448 @@
+<GOC>
+  <MUC_TU Noi_dung="ác," Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Qu?" Minh_hoa="Ác t?m th? ráo, sáo t?m th? mýa(tng.)." />
+    <Y_NGHIA Noi_dung="B? ph?n h?nh con qu? ð? m?c dây go khung c?i." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="M?t tr?i (theo sách xýa, trên m?t tr?i có con qu? ba chân)" Minh_hoa="Trông ra ác ð? ng?m gýõng non ðoái(Truy?n Ki?u)," />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác," Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ác ôn" Minh_hoa="phong trào di?t ác phá k?m(di?t ác ôn phá k?m k?p)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác," Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Có ? ngh?, l?i nói, hành ð?ng x?u, thý?ng gây ra tai h?a, ðau kh?" Minh_hoa="ác nhý hùm•ði?u ác•? hi?n th? l?i g?p lành, H? ai ? ác t?i dành vào thân(cd.)." />
+    <Y_NGHIA Noi_dung="(agha) Hung d?, ð?c, x?u, không lành không thi?n, theo quan ni?m ð?o Ph?t, th? hi?n ? nh?ng hành vi c? th? sau ðây mà ngý?i tu hành c?n tránh" Minh_hoa=" sát sinh, dâm lo?n, ác kh?u, si mê, tham lam, d?i trá, nói ð?t ði?u, th?u d?t chuy?n, oán thù, hi?m khích, nh?n th?c sai, nh?n nh?n sai s? th?t mà ?ng x? sai l?m." />
+    <Y_NGHIA Noi_dung="Có tác d?ng x?u, d?n ð?n h?u qu? x?u" Minh_hoa="Ác quá, s?p thi th? l?i ?m°Ôm ðúng ba ngày t?t, ác th?t" />
+    <Y_NGHIA Noi_dung="?-m?c ð? cao khác thý?ng, ghê g?m, d? d?i" Minh_hoa="ãn r?t ác(ãn r?t kh?e ho?c ãn toàn th? ngon b?) •di?n ác l?m(ãn m?c r?t di?n)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ch?i c?a cây" Minh_hoa="ðãm ác•tr? ác." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác bá" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="K? có c?a c?i, quy?n th?, làm ði?u gian ác v?i ngý?i dân lao ð?ng?nông thôn trý?c ðây" Minh_hoa="b?n cý?ng hào,ác bá." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác báo" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Qu? báo x?u ph?i ch?u do có nh?ng ? ngh? x?u, l?i nói ð?c ð?a (ác kh?u), làm ði?u ác v?i ngý?i khác" Minh_hoa="Kè gi?t ngý?i b? ác báo•ác giá ác báo." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác c?m" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="C?m giác, ?n tý?ng không hay, không ýa thích ð?i v?i ai ðó:Cách ãn m?c gây ác cám cho ngý?i xung quanh•có ác c?m v?i nhau.ác chi?nðgt.Chi?n ð?u ác li?t" Minh_hoa="tr?n ác chi?n." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác chúng" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ch?ng b?nh nguy k?ch" Minh_hoa="m?c ác ch?ng." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác-coóc" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ac-coóc-ðê-ông." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác-coóc-ðê-ông (accordéon)" Loai_tu="">
+    <Y_NGHIA Noi_dung="Nh?c c? h?nh kh?i h?p ch? nh?t, có bàn phím, co gi?n, kéo ð?y các ngãn h?p ch?a không khí v?i các th? tích khác nhau phát ra âm thanh. C?n g?i là phong c?m (ðàn gió)." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác danh" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ti?ng ác, ti?ng x?u" Minh_hoa="ð? ác danh cho ð?i." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác duyên" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="M?i ði?u ki?n d?n ngý?i ta ð?n ch? ph?m t?i ác, theo ð?o Ph?t," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ð?ng" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="M?t nhóm ngý?i h?p l?i chuyên làm ði?u ác mang tính t?p th?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ð?o" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Con ðý?ng ác, c?i ác, mi?n ác, theo quan ni?m c?a ð?o Ph?t, ngý?i tu hành c?n ph?i luôn luôn tránh ð? kh?i roi vào." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ði?u" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Chim d? hay ãn th?t muông thú khác." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ð?c" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ð?c ác." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ð?c" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Có cách ãn ?, ð?i x? x?u, ác, không có ð?o ð?c; th?t ð?c" Minh_hoa="quân ác ð?c ° ði?u ác ð?c." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác gi? ác báo" Loai_tu="">
+    <Y_NGHIA Noi_dung="Làm ði?u ác th? s? g?p ði?u ác" Minh_hoa="Ac giá ác báo v?n xoay, H?i nhân nhân h?i s? nay ð? thý?ng(cd.)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác gi? ác lai" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ác g?i ác báo." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác h?i" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Có h?i, gây thi?t h?i, tai h?a" Minh_hoa="tr?n l?t ác h?i°V?a ð? thóc ra sân phõi th? tr?i mýa, th?t ác h?i!" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác hi?m" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Ð?c ác m?t cách ng?m ng?m, nguy hi?m; hi?m ác" Minh_hoa="l?ng ác hi?m." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác kh?u" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="(ðgt.) Mi?ng hay nói nh?ng l?i ð?c ác, hay ch?i, r?a ð?c ð?a; ác mi?ng" Minh_hoa="M? già ngoa ngo?t ác kh?u•S?p ði xa ð?ng có mà ác khãu." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác kh?u th? chi" Loai_tu="">
+    <Y_NGHIA Noi_dung="Nh?ng ngý?i hay ch?i r?a, buông ra nh?ng l?i ð?c ð?a th? r?i nh?ng ði?u ác l?i v?n vào chính m?nh." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác khí" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Khí b?t thý?ng trong tr?i ð?t, ?nh hý?ng x?u ð?n s? s?ng c?a sinh v?t." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="V?t n?i lên ? cõ th? ngý?i do khí huy?t b? ? tr?, ðý?c coi là m?t hi?n tý?ng b?nh lí." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác là" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Chim qu? hi?m, g?p ? B?c và Trung B?, c? to v?a ph?i, lông ðen, m?t vài nõi có ánh tím và l?c, sý?n b?ng trên và hông tr?ng, m?t nâu th?m, m? và chân ðen, ðuôi dài, làm t? trên cây cao ? nh?ng sinh c?nh khác nhau, thý?ng ki?m ãn trên m?t ð?t, ð? 4-5 tr?ng màu xanh có v?t nâu hung ð?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác li?t" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="D? d?i và gây nhi?u thi?t h?i, tai h?i" Minh_hoa="Chi?n tranh ngày càng ác li?t ° tr?n ðánh ác li?t." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác m?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="V?t." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Ngý?i cay nghi?t" Minh_hoa="qu?m qu?m nhý ác m?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác-mô-ni-ca" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ac-mô-ni-ca." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác m?ng" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Gi?c mõ th?y ði?u d?, gây ho?ng h?t, kinh s?." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Tai h?a l?n, rùng r?n ð? tr?i qua" Minh_hoa="sau cõn ác m?ng c?a v? cý?p vàng&quot;Ác m?ng c?a chi?n tranh luôn hi?n v?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác (m?t) cái là" Loai_tu="">
+    <Y_NGHIA Noi_dung="Có ði?u ch?ng may là, r?i m?t n?i là (t? ? luy?n ti?c v? không th?c hi?n ðý?c)" Minh_hoa="Mu?n mua quá nhýng ác cái là không mang theo ti?n." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác (m?t) n?i là" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ác (m?t) cái là." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ngh?ch" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ði?u ác, trái v?i ð?o lí th? hi?n ? vi?c ðánh ho?c mýu gi?t ngý?i ru?t th?t nhý ông bà, cha m?, chú bác, ho?c ông bà cha m? ð?ng nhà ch?ng, nhà v?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác nghi?p" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Mý?i hành ð?ng, vi?c làm ác mà chính ngu?i gây ra s? ph?i gánh ch?u ác báo nhý sát sinh, tr?m c?p, tà dâm, nói d?i, nói ác, nói chia r?, nói vô ngh?a, tham lam, gi?n oán và ngu mê, theo quan ni?m c?a ð?o Ph?t." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Có tác d?ngx?u làm d?n ð?n h?u qu? x?u; ?c" Minh_hoa="Ác nghi?p quá, ð?n gi? ði r?i mã chýa th?y m?t ðâu cá!" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác nghi?p cõ c?u" Loai_tu="">
+    <Y_NGHIA Noi_dung="Có hành ð?ng vi?c làm ác và mýu mô x?o trá" Minh_hoa="m?t con ngý?i ãn ? ác nghi?p cõ c?u." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác nghi?t" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Ð?c ác và cay nghi?t" Minh_hoa="M? ch?ng ð?i x? ác nghi?t v?i nàng dâu." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ngôn" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ác kh?u." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác nhý hùm" Loai_tu="">
+    <Y_NGHIA Noi_dung="Ð?c ác tàn b?o ch?ng khác g? thú d?, ví nhý hùm (...), tên g?i dân gian c?a h? là loài thú d? b?c nh?t trong r?ng" Minh_hoa="B?n chúng ác nhý hùm, ðánh cá nh?ng ð?a tr? vô t?i." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ôn" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="K? gây nhi?u t?i ác, gi?t ngý?i m?t cách dâ man:" Minh_hoa="B?n ác ôn u?ng máu ãn th?t ngý?i không tanh." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ôn" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Có nh?ng hành ð?ng tàn ác:" Minh_hoa="hành ð?ng r?t ác ôn•Th?ng ?y ác ôn l?m." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác quán m?n doanh" Loai_tu="">
+    <Y_NGHIA Noi_dung="Có nhi?u t?i ác, nhi?u mýa hi?m" Minh_hoa="Ð?n khi ác quán mãn doanh, Phanh tháy, lóc th?t ð? ðành oan ðâu(thõ c?)," />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác-quy (acquy, accu, accumulateur)" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Thi?t b? tích tr? nãng lý?ng ði?n ð? s? d?ng v? sau" Minh_hoa="b?nh ác-quy ' n?p ác-quy•th?p sáng b?ng ác-quy." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác-quy khô" Loai_tu="">
+    <Y_NGHIA Noi_dung="Ác-quy có c?c dýõng làm b?ng b?c m? m?t l?p ô-xít b?c, c?c âm làm b?ng k?m, ch?t ði?n phân là dung d?ch ki?m, kích thý?c bé, ðý?c dùng trong các thi?t b? ði?n t?, trong các máy v? tr?, có lo?i ðý?c n?p ði?n b?ng pin m?t tr?i," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác qu?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Qu? d?" Minh_hoa="tàn b?o nhý loài ác qu?," />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác qu? thán" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Qu? th?n làm h?i ngý?i, ch?ngl?i Ph?t pháp (ð?o Ph?t)," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác tà" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="X?chi?u, lúc m?t tr?i s?p l?n" Minh_hoa="Tr?i bao thó l?n ác tà(Truy?n Ki?u)," />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác t?m th? ráo, sáo t?m th? mua" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Qu? t?m th? ráo, sáo t?m th? mýa." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác tãng" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="K? ð?i l?t sý th?y chùa ð? làm ði?u ác." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Sý, th?y chùa không chân tu hay làm ði?u trái v?i Ph?t pháp." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác tâm" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="L?ng d? ð?c ác" Minh_hoa="k? ác tãm." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác t?t" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ch?ng b?nh hi?m nghèo, khó ch?a," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác-ten (artel)" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="H?nh th?c kinh t? t?p th?, ho?t ð?ng trên cõ s? công h?u hóa v? tý li?u s?n xu?t và phân ph?i theo lao ð?ng," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác th?n" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Th?n chuyên theo d?i ði?u ác do con ngý?i gây ra ð? tr?ng ph?t; ông ác." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Nh. Hung th?n." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác th?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ð?i ð?y r?y t?i ác (ð?o Ph?t)," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác th? không" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="Khãng khãng quan ni?m sai l?m cho ràng không có thi?n ác, nhân qu?, theo quan ni?m ð?o Ph?t." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác thú" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Thú d? ãn th?t ngý?i (nhý h?, báo...)." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Nh. Ác ð?o." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác-ti-sô (artichaut)" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Cây tr?ng nhi?u ? Ðà L?t, Sa Pa, Tam Ð?o cao g?n1m ho?c hõn, thânvà lá có lông tr?ng nhý bông, lá m?c cách, b? khía sâu, có gai, hoa màu tím nh?t, ðý?c dùng làm thu?c thông ti?u ti?n, thông m?t, các b?nh kém gan, th?n, viêm th?n c?p tính và kinh niên, sýng kh?p xýõng, nhu?n và t?y máu nh? ð?i vói tr?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác tính" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Tính ác, m?t trong ba tính thu?c ð?o ð?c c?a Ph?t giáo (thi?n tính, ác tính, vô lí tính). II." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Có tính ch?t hi?m nghèo, nguy k?ch ð?n tính m?ng (nói v? b?nh t?t):" Minh_hoa="s?t rét ác tính." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác tr?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ch?ng thèm chua, bi?ng ãn, hay nôn l?m ? ph? n? th?i k? ð?u mang thai (tháng th? nh?t ð?n tháng th? ba); ?m nghén," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác vàng" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="M?t tr?i" Minh_hoa=" Ácvàng ð? khu?t non ðoái(Truy?n Ki?u)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ác ?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="? ð?nh x?u, nh?m gây h?i ngý?i khác" Minh_hoa="câu nói b? l?ng ð?y ác ? • phê b?nh vô tý không ác ?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ách" Loai_tu=", dt.">
+    <Y_NGHIA Noi_dung="Ðo?n g? cong m?c lên c? trâu b? ð? bu?c dây kéo xe, cày, b?a" Minh_hoa=" b?c ách ° quàng ách vào c? trâu • tháo ách." />
+    <Y_NGHIA Noi_dung="Gông cùm, xi?ng xích" Minh_hoa=" ách áp b?c ° ách ðô h? • phá ách k?m k?p." />
+    <Y_NGHIA Noi_dung="Tai h?a vi?c r?c r?i ph?i gánh ch?u: ách gi?a ðàng quàng vào c? (tng.) ° ách gi?c giã cý?p bóc.ách3ðgt. Ngãn, ch?n l?i, làm cho ph?i ng?ng, d?ng l?i" Minh_hoa=" ách xe gi?a ðý?ng ð? h?i gi?y t? &quot; ách vi?c sán xu?t l?i ch? l?nh m?i ° Chuy?n ði du l?ch ný?c ngoài b? ách r?i." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ách">
+    <Y_NGHIA Noi_dung="ðgt.(B?ng) b? ð?y ? gây khó ch?u" Minh_hoa="Ách cáb?ng v? ãn quá nhi?u • no ách." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ách t?c" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="T?c, ngh?n, ð?nh tr?:" Minh_hoa="giao thôngách t?c • Công vi?c ðang suôn s? b?ng ách tác." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ách t?c" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="S? t?c ngh?n, s? khó khãn c?n tr?:" Minh_hoa="Trênðý?ng ði liên t?c g?p ách t?c." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ách v?n" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="V?n x?u, v?n r?i ro" Minh_hoa="Ð?u tháng g?pách v?n." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ách y?u" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Hi?m tr? và quan tr?ng (v? m?t ph?ng th?, b? trí binh tr?n)" Minh_hoa="b? trí quán nõi ách y?u." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="?ch" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="O?ch." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai," Loai_tu="ðt.">
+    <Y_NGHIA Noi_dung="Ngý?i nào ðó chýa ðý?c bi?t r?" Minh_hoa="Ai ð?y?&quot;ch?ng bi?t ai ð? làm chuy?n ðó" />
+    <Y_NGHIA Noi_dung="Ngý?i b?t k? nào ðó" Minh_hoa="Ai ði c?ng ðý?c•Ai có thân ngý?i ?y lo(tng.) •T?t cá, không tr? m?t ai" />
+    <Y_NGHIA Noi_dung="Ngý?i nào ðó, có th? là chính b?n thân m?nh mà không mu?n nói r? ra" Minh_hoa="Ai bi?t ðâu ð?y - Ð? ai trãng túi hoa s?u v? ai(cd.)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai">
+    <Y_NGHIA Noi_dung="Ti?ng phát ra t? ngý?i nào ðó khi b? ðánh ðau" Minh_hoa="Ai, ð?ng c?u ° Ai ðau quá." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai">
+    <Y_NGHIA Noi_dung="*B?i, b?i b?m, ch? s? t?ng tr?i" Minh_hoa="tr?n ai." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai">
+    <Y_NGHIA Noi_dung="* Bu?n thýõng, ðau thýõng" Minh_hoa="ai ca&quot;ai ði?u ‘ ai hoài°b? ai." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai ai" Loai_tu="ðt.">
+    <Y_NGHIA Noi_dung="M?i ngý?i, t?t c? m?i ngý?i (dùng làm ch? ng?, thý?ng k?t h?p v?ic?ng)" Minh_hoa=" Ai ai cang chãm chi&quot;Ai ai c?ng ð?u nói th?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai ãn m?n n?y khát ný?c" Loai_tu="">
+    <Y_NGHIA Noi_dung="Ai làm ði?u kh?ng t?t th? ngý?i ?y ph?i ch?u h?u qu?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai b?o" Loai_tu="">
+    <Y_NGHIA Noi_dung="V?, t?i v? (dùng ? ð?u câu nói ð? gi?i thích v? nguyên nhân cùa k?t qu? không mu?n v?i ngh?a trách móc)" Minh_hoa="Nghèo là phái, ai b?o không ch?u làm vi?c•B? m?ng phái ch?u thôi, ai báo không nghe l?i m?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai bi?t ma ãn c?" Loai_tu="">
+    <Y_NGHIA Noi_dung="Khó mà bi?t ðý?c nh?ng vi?c làm (thý?ng là x?u) khi ngý?i làm c? t?nh che gi?u, ví nhý làm sao bi?t ðý?c ma (m?t quái v?t không có th?c ch? do tý?ng tý?ng ra) ãn c? lúc nào." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai bi?t ch? nào ng?a mà g?i" Loai_tu="">
+    <Y_NGHIA Noi_dung="Không ðáp ?ng, không l?m th?a m?n ho?c ðáp ?ng không ðúng yêu c?u c?n thi?t, ví nhý không bi?t ch? nào ðang ng?a ð? mà g?i cho trúng," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai bi?t ph?n n?y">
+    <Y_NGHIA Noi_dung="M?i ngý?i m?t c?nh, m?t s? ph?n (kh? có th? giúp ð? ho?c thay th? ðý?c)." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Ngý?i nào th? lo vi?c ngý?i ?y, không can thi?p vào công vi?c cùa ngý?i khác," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai bi?t u?n câu cho v?a mi?ng cá">
+    <Y_NGHIA Noi_dung="Không th? nào l?a cho v?a ?, v?a l?ng ngu?i ðý?c, ví nhý cá ? dý?i ný?c, không th? nào bi?t ðý?c mi?ng c?a t?ng con ð? u?n lý?i câu cho d? câu trúng." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Không th? hi?u h?t ðý?c l?ng ngý?i ho?c không th? lý?ng trý?c ðý?c m?i s? vi?c x?y ra." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai c?m" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="T?nh c?m thýõng xót." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai cáo" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Thông báo v? chuy?n thýõng xót có ngu?i nhà ch?t; cáo phó." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai ch?" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="(L?nh trong xý?ng t? ðám ma) thôi, t?m ng?ng khóc lóc (thý?ng ð? cúng ho?c có ngý?i ð?n phúng vi?ng, chia bu?n)," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai chi?u" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="L?nh, chi?u c?a vua thông báo v? qu?c tang, qu?c n?n." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai có thân ngý?i ?y lo" Loai_tu="">
+    <Y_NGHIA Noi_dung="Ch? ð?ng lo toan và ch?u trách nhi?m v? cu?c s?ng, vi?c làm c?a b?n thân, không th? trông ch? vào ho?c không c?n t?i ngý?i khác." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai dây v?i h?i" Loai_tu="">
+    <Y_NGHIA Noi_dung="Không ai mu?n va ch?m, ho?c có liên quan ð?n k? x?u ð? tránh phi?n nhi?u, ?nh hý?ng x?u t?i m?nh, ví nhý không ai mu?n g?n v?i h?i ð? v?a b?n th?u l?i v?a lo m?c b?nh," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai ðè" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ai ng?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai ði?u" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Bài vãn vi?ng ngý?i ch?t ð? bày t? l?ng thýõng xót; ði?u vãn?" Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai ð?i" Loai_tu="">
+    <Y_NGHIA Noi_dung="Ch?ng có ai l?i nhý th? (nh?n m?nh ? không ng? t?i v? tr?i v?i l? thý?ng)" Minh_hoa="Aið?i m?i ba tu?i ranh mà ð? ð?i l?y v? ? riêng." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai hoài" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Bu?n thýõng và nh? ti?c" Minh_hoa="Du Th?n xem th?y ai hoài, Xét trong m?nh g? có bài phù tiên(L?c Vân Tiên)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai kh?o mà xung" Loai_tu="">
+    <Y_NGHIA Noi_dung="T? nói r? ði?u th?m kín ho?c bí m?t, trong khi không ai tra kh?o, xét h?i, yêu c?u nói ra" Minh_hoa="Ngh? ðà býng bít mi?ng b?nh, Nào ai có kháo mà m?nh l?i xýng(Truy?n Ki?u)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai khi?n" Loai_tu="">
+    <Y_NGHIA Noi_dung="Ch?ng có ai nh? ai b?o làm h? c? mà c? t? ði làm" Minh_hoa="T? ch? cho th?ng bé ãn ch? ai khi?n ' C? ð? ð?y không phái nói nhi?u, ai khi?n!" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai l?i" Loai_tu="">
+    <Y_NGHIA Noi_dung="Ch?ng có ngý?i nào l?i làm (ði?u không hay, vô lí) nhý th?" Minh_hoa="Ai l?i ð? m? ãn u?ng kh? nhý v?y ” Ngày l?, ai l?i ãn m?c th?!" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai màng ðgt." Loai_tu="">
+    <Y_NGHIA Noi_dung="Không ngh? t?i, không màng t?i, không thèm chú ? ð?n" Minh_hoa="ít ngý?i trong tuy?t ðýa than, Khó ng?i gi?a ch? ai màng ðoái thýõng (L?c Vân Tiên)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai mý?n" Loai_tu="">
+    <Y_NGHIA Noi_dung="Không ai b?o làm, nh? làm mà t? ? làm ð? x?y ra ði?u không hay (v?i ? trách móc không c?n)" Minh_hoa="Ai mý?n ch? ð?n ðây•T?i nó thích làm ch? ai mý?n." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="aí n?y" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ngý?i nào c?ng v?y, m?i ngý?i, t?t c?, không tr? m?t ai (thý?ng k?t h?p v?ið?u)" Minh_hoa=" Ai n?y chãm chi&quot;Ai n?y c?ng ð?u nói th?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai ng?" Loai_tu="">
+    <Y_NGHIA Noi_dung="Không có ai ng? (nhý th?); ch?ng ng?, không ng?, ng? ðâu, ðâu ng?" Minh_hoa="H?c d?t, ai ng? l?i ð? vào lo?i khá•B?nh tý?ng ch?t ð?n nõi ai ng? l?i khói." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai nhý" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ai báo." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ai oán" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="Thýõng xót và oán gi?n" Minh_hoa="ti?ng than ai oán." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="?i," Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ch? qua l?i, gi?a hai ný?c (có núi non và hi?m tr?; ái Chi Lãng • B?y nay trèo ái trèo non, L?y ðâu mà ð?p mà gi?n h?i em (cd.)." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Bý?c th? thách, khó khãn l?n" Minh_hoa=" vý?t qua ái thi cu?i cùng &quot; Phái qua bao ái m?i xin ðý?c m?t ch? kí." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="?i">
+    <Y_NGHIA Noi_dung="(Tre n?a, g?, rõm r?..) d? nát, m?c do tr?i mýa n?ng lâu ngày" Minh_hoa="T?m phên ð? ngoài sân lâu ngày ð? ?i ° B? chê rõm di" />
+    <Y_NGHIA Noi_dung="(Ð?t tr?ng tr?t ðá ðý?c cày x?i) khô và d? tõi nát:ð?t ái•cày ái.II.ðgt.Làm cho ð?t tr?ng tr?t ðý?c ?i" Minh_hoa="chuy?n ái sang d?m." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="?i">
+    <Y_NGHIA Noi_dung="* Th?t c? ch?t" Minh_hoa="t? ái." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="?i quan" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="C?a ?i, ch? qua l?i, hi?m tr? gi?a hai ný?c, thý?ng có binh lính trái gi?" Minh_hoa="Tính r?i xong xá chý?c m?u, Phút nghe huy?n ð? ð?n ð?u ?i quan(L?c Vân Tiên)." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="?i sát ðgt." Loai_tu="">
+    <Y_NGHIA Noi_dung="Gi?t ngý?i b?ng cách th?t c?" Minh_hoa="Tào Tháo ?i sát L? B?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="?i t?" Loai_tu="tt.">
+    <Y_NGHIA Noi_dung="T? t? b?ng cách th?t c?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái,*" Loai_tu="">
+    <Y_NGHIA Noi_dung="Yêu" Minh_hoa="ái ân ° ái h? ° ái h?u &quot; ái khanh • ái khí &quot; ái l?c ° ái m? • ái n? • ái qu?n • ái qu?c • ái t?nh • ân ái&quot; bác ái&quot; h?a ái?h?u ái • kh? ái • kiêm ái • l?nh ái ° luy?n ái &quot; nhân ái ° phi?m ái * s?ng ái • thân ái&quot; t?nh ái ° t? ái ° t? ái&quot; týõng thân týõng ái ° ýu ái." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="Ýa thích, ðam mê ngý?i và v?t, chi th? nãm thu?c mý?i hai nguyên nhân (nhân duyên) trong cõ ch? luân h?i sinh t? c?a chúng sinh, theo quan ni?m ð?o Ph?t." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái," Loai_tu="tht.">
+    <Y_NGHIA Noi_dung="Ti?ng kêu khi b? ðau" Minh_hoa="Ái! Ðau quá!" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái ân" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="T?nh yêu thýõng ðàm th?m, m?n n?ng c?a nam n?:" Minh_hoa="K? làm sao xi?t muôn vàn ái ân" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái ân" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="1. Yêu thýõng ð?m th?m, m?n n?ng. 2. Chung s?ng chãn g?i; ãn n?m:" Minh_hoa="chuy?n ái ãn." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái chà" Loai_tu="tht.">
+    <Y_NGHIA Noi_dung="Ti?ng t? ? ng?c nhiên, thích thú" Minh_hoa="Ái chà, di?n nhi•Ái chà, tuy?t quá!" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái chà chà" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ái chà(m?c ð? nh?n m?nh)," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái khanh" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="T? vua chúa g?i hoàng h?u, phi t?n mà m?nh yêu qu?." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái ki?n" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="Nh?n th?y r?i ðam mê." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Mê ho?c ð?i v?i b?n thân s? v?t (cho nên sinh ra tham, gi?n) và mê ho?c ð?i v?i chân lí (nên sinh ra quan ni?m sai l?m) (ð?o Ph?t)," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái luân" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="L?ng ýa thích, ðam mê và thèm mu?n gi?ng nhý chi?c xe ch? con ngý?i ði m?i trong c?is?ngch?t luân h?i, không ðý?c gi?i thoát (ð?o Ph?t)." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái l?c" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="S?c, kh? nãng k?t h?p v?i ch?t khác" Minh_hoa="ái l?c c?a ô-xi v?i s?t." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái l?c hóa h?c" Loai_tu="">
+    <Y_NGHIA Noi_dung="Kh? nãng c?a các ch?t có th? ph?n ?ng hóa h?c v?i nhau," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái m?" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="M?n chu?ng và kính tr?ng" Minh_hoa="tó l?ng ái m?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái nam ái n?">
+    <Y_NGHIA Noi_dung="Có b? ph?n sinh d?c không hoàn ch?nh, n?a gi?ng nam, n?a gi?ng n?." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="(Ngý?i ðàn ông) có tính t?nh, cách ?ng x?, sinh ho?t hoi gi?ng v?i tính t?nh, cách ?ng x?, sinh ho?t c?a n? gi?i," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái ng?i" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="Thýõng c?m, có ph?n lo l?ng và không ðành l?ng trý?c t?nh c?nh c?a ngý?i khác" Minh_hoa="ái ng?i cho l? tr? m? côi•Trý?c cánh thýõng tãm ai mà kh?ng ái ng?i" />
+    <Y_NGHIA Noi_dung="C?m th?y phi?n hà ð?nngý?ikhác mà không ðành l?ng trý?c s? ýu ái c?a ngý?i ðó ð?i v?i b?n thân m?nh" Minh_hoa="nh?n quá cúa b?n, th?t ái ng?i•Bác r?ng lý?ng th? khi?n tôi ái ng?i quá." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái ng?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="L?i nói d?u dàng, d? thýõng, là m?t trong b?n bi?n pháp thu ph?c qu?n chúng ði theo • ð?o Ph?t." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái nhi" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="L?i cha m? g?i con cái trong gia ð?nh quy?n qu? (phong ki?n)." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái n?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ngý?i con gái yêu qu?, ðý?c cýng chi?u:Công r?ng" Minh_hoa=" H?i m? Qu?nh Trang, D? l?ng ái n? Th? Loan th? nào(L?c Vân Tiên)," />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái qu?n" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="Yêu thýõng qu?n chúng nhân dân" Minh_hoa="l?ng ái qu?c, ái qu?n." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái qu?c ðgt." Loai_tu="">
+    <Y_NGHIA Noi_dung="Yêu ný?c" Minh_hoa="giàu l?ng ái qu?c ” nhà ái qu?c v? ð?i." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái thê" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="T? ch?ng g?i v? theo l?i xýng hô trong gia ð?nh quy?n qu? (phong ki?n)," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái thi?p" Loai_tu="d?.">
+    <Y_NGHIA Noi_dung="T? ch?ng g?i v? th? theo l?i xýng hô trong gia ðinh quy?n qu? (phong ki?n)." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="ái t?nh" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="T?nh yêu, thý?ng là tành yêu nam n?" Minh_hoa="say ái t?nh ‘ ti?u thuy?t ái t?nh." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am," Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Noi th? cúng, chùa nh?, mi?u nh?,c?ng là nõi ?, tu hành c?a ngý?i ði tu." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Nhà?nõi h?o lánh, t?ch m?ch c?a ngý?i ? ?n th?i xýa" Minh_hoa="am B?ch Vân c?a c? Tr?ng Tr?nh &quot; t? b? l?uson gác tía v? ? am." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am">
+    <Y_NGHIA Noi_dung="* Hi?u r?" Minh_hoa="am hi?u°am tý?ng." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="AM (Amplitude Modulation" Loai_tu="">
+    <Y_NGHIA Noi_dung="Sóng trung AM." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am bóng vía" Loai_tu="Nh.">
+    <Y_NGHIA Noi_dung="Ám ánh." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am hi?u" Loai_tu="ðgt.">
+    <Y_NGHIA Noi_dung="Hi?u bi?t rành r?, tý?ng t?n" Minh_hoa="am hi?u âm nh?c&quot;am hi?u v?n ð?." />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am ma la th?c" Loai_tu="">
+    <Y_NGHIA Noi_dung="Tâm th?c trong s?ch v?n có trong m?i chúng sinh, theo quan ni?m ð?o Ph?t," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am mây" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Am l?p trên núi cao, nhý l?n vào trong mây (ch? noi ngý?i xýa tu hành ho?c ?n d?t cách bi?t v?i m?i ngý?i)" Minh_hoa="L?o Ti?u tr? l?i lâm son, Tiên, Minh hai g? ð?u hoán am mây(L?c Vân Tiên)&quot;G?i thân vào ch?n am mây, Mu?i dýa ð?p ð?i tháng ngày ung dung(Truy?n Ki?u)," />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am-pe (ampère)" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ðõn v? ðo cý?ng ð? d?ng ði?n, là m?t trong sáu ðõn v? cõ b?n c?a h? ðõn v? qu?c t?; kí hi?u là A." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am-pe gi?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Ðõn v? bi?u th? lý?ng ði?n tích chuy?n qua ti?t di?n ngang c?a dây d?n khi d?ng ði?n có cý?ng ð? 1 am-pe ch?y qua trong 1 gi?; kí hi?u là A.h." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am-pe k?" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="D?ng c? ðo cý?ng ð? d?ng ði?n (m?t chi?u và xoay chi?u) tính b?ng ðõn v? ðo am-pe." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am-pe k? nhi?t" Loai_tu="">
+    <Y_NGHIA Noi_dung="Am-pe k? ho?t ð?ng d?a trên nguyên lí n? dài c?a m?t dây kim lo?i khi nhi?t ð? tãng lên, do có d?ng ði?n c?n ðo ði qua, thý?ng ðý?c l?p ? các b?ng phân ph?i ði?n, khi không c?n ðo v?i ð? chính xác cao, dùng cho c? d?ng m?t chi?u l?n d?ng xoay chi?u," Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am-pi-xi-lin (ampixilin)" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Thu?c u?ng kháng sinh, dùng trong các trý?ng h?p b? nhi?m khu?n tai m?i h?ng, ph?i và ph? qu?n, ðý?ng ti?t ni?u, ðý?ng tiêu hóa và gan, ðý?ng ru?t, viêm túi m?t, nhi?m khu?n trong s?n ph? khoa, viêm màng n?o, viêm màng trong tim, nhi?m khu?n huy?t; c?n g?i làam-pi-xin." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am-pli (amplificateur)" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="Thi?t b? khu?ch ð?i âm thanh máy tãng âm; b? khu?ch ð?i." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am-pun (ampoule)" Loai_tu="dt.">
+    <Y_NGHIA Noi_dung="?ng th?y tinh ð?ng ch?t l?ng d? bay hõi, dùng trong phân tích hóa h?c, v?t lí ho?c ð?ng thu?c tiêm ? d?ng l?ng, d?ng b?t, hàn kín hai ð?u ð? tránh ti?p xúc v?i không khí." Minh_hoa="" />
+    <Y_NGHIA Noi_dung="Bóng ði?n nh? thý?ng dùng trong thi?t b? chi?u sáng y?u nhý ðèn pin." Minh_hoa="" />
+  </MUC_TU>
+  <MUC_TU Noi_dung="am thanh c?nh v?ng" Loai_tu="">
+    <Y_NGHIA Noi_dung="Noi v?ng v?, t?nh m?ch, thý?ng là ? chùa chi?n ho?c nõi ?n d?t c?a các ?n s? th?i xýa" Minh_hoa="ngôi chùa am thanh cánh v?ng*Hay là ? v?i l?o tãng, Am thanh c?nh v?ng l?i b?ng ? ðâu(Truy?n Tây Sýõng)." />
+  </MUC_TU>
+</GOC>
