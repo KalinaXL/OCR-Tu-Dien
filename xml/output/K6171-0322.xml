@@ -1,0 +1,152 @@
+<GOC>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khả kính">
+  <Y_NGHIA Minh_hoa="Con người khả kính về đức độ." Noi_dung="(cũ). Đáng kính trọng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khả năng">
+  <Y_NGHIA Minh_hoa="Dự kiến các khả năng. Bão có khả năng đổ bộ uào đất liều." Noi_dung="Cái có thể xuất hiện, có thể xảy ra trong điều kiện nhất định." />
+  <Y_NGHIA Minh_hoa="Người có khả năng. Việc làm hợp khả năng. Sứ dụng tốt mọi khả năng đất đai." Noi_dung="Cái vốn có về vật chất hoặc tỉnh thần để có thể làm được việc gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khả nghỉ">
+  <Y_NGHIA Minh_hoa="Không thấy có gì khả nghỉ. Thái độ khả nghỉ." Noi_dung="Đáng ngờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khả ố">
+  <Y_NGHIA Minh_hoa="Giớ trò khả ố. Bộ mặt khả ố." Noi_dung="Xấu xa, đáng khinh ghét." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khả quan">
+  <Y_NGHIA Minh_hoa="Kiểu nhà mới trông cũng khả quan." Noi_dung="(ít dùng). Trông được, dễ coi." />
+  <Y_NGHIA Minh_hoa="Kết quả khả quan. Tình hình khả quan." Noi_dung="Tương đối tốt đẹp, đáng hài lòng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="khả thi">
+  <Y_NGHIA Minh_hoa="nghiên cứu khả thi." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khả thủ">
+  <Y_NGHIA Minh_hoa="Bản đồ án có một số điểm khả thủ." Noi_dung="(ít dùng). Có thể chấp nhận, tiếp thu, có thể dùng được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khá,">
+  <Y_NGHIA Minh_hoa="Tình cảnh khá thương." Noi_dung="(cũ; thường dùng không có chủ ngữ). Đáng, cũng đáng: Khá khen thái độ ấy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khá,">
+  <Y_NGHIA Minh_hoa="Được xếp loại khá. Học sinh khá. Làm ăn khá." Noi_dung="Ở trình độ trên trung bình một ít." />
+  <Y_NGHIA Minh_hoa="Sức khoẻ có khá hơn trước. Mức sống ngày một khá. /! Lây: kha khá (ý mức độ í). l phụ từ (thường dùng phụ trước tính từ). Ở mức độ cao một cách tương đối. Năng suất khá cao. Bỏ khá nhiều công sức. Công uiệc khá uất uá." Noi_dung="Ở mức cao tương đối, so với cái đưa ra để so sánh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="khá,">
+  <Y_NGHIA Minh_hoa="Các người khá nói cho ta rõ." Noi_dung="(cũ; dùng phụ trước động từ). Từ biểu thị ý yêu cầu, thuyết phục làm việc gì; như hãy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khá giả">
+  <Y_NGHIA Minh_hoa="Con nhà khá giả. Làm ăn khá giả." Noi_dung="ở tình trạng có tương đối đây đủ những gì thuộc yêu cầu của đời sống vật chất, dư ăn, dư tiêu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khác">
+  <Y_NGHIA Minh_hoa="Hai chiếc áo khác màu. Hai người chỉ khác nhau ở giọng nói. Quê hương đã đối khác. Làm khác đi." Noi_dung="Không giống, có thể phân biệt được với nhau khi so sánh." />
+  <Y_NGHIA Minh_hoa="Cho tôi cái cốc khác. Lúc khác hãy nói chuyện. !! Láy: khang khác (nghĩa .1; ý mức độ ít)." Noi_dung="Không phải là cái đã biết, đã nói đến, tuy là cùng loại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khác biệt">
+  <Y_NGHIA Minh_hoa="Những nét khác biệt của hai hiện tượng. Sự khác biệt giữa thành thị uà nông thôn." Noi_dung="(hoặc danh từ). Khác nhau, làm cho có thể phân biệt với nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="khác máu tanh lòng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Không cùng máu mủ ruột thịt cho nên đối xử với nhau tàn tệ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khác thường">
+  <Y_NGHIA Minh_hoa="Khác với bình thường, với điều thường thấy. Tướng mạo khác thường. Tình hình có cái gì khác thường." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khạc">
+  <Y_NGHIA Minh_hoa="Khạc xương. Khạc đờm. Đại bác khạc ra lửa (bóng (nghĩa bóng))." Noi_dung="Bật mạnh hơi để đẩy vật bị vướng trong họng ra ngoài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khách,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chim cỡ bằng chim sáo, lông đen tuyển, đuôi dài, ăn sâu bọ, có tiếng kêu &quot;khách, khách”." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khách, I">
+  <Y_NGHIA Minh_hoa="Nhà có khách. Tiễn khách ra u. Khách du lịch." Noi_dung="Người từ nơi khác đến với tính cách xã giao, trong quan hệ với người đón tiếp, tiếp nhận." />
+  <Y_NGHIA Minh_hoa="Cửa hàng đông khách. Khách hàng. Khách trọ." Noi_dung="Người đến với mục đích mua bán, giao dịch trong quan hệ với cửa hiệu, cửa hàng, v.v." />
+  <Y_NGHIA Minh_hoa="đi tàu. Xe khách." Noi_dung="Người đi tàu xe, tro ng quan hệ với nhân viên phục vụ; hành khách. Khách" />
+  <Y_NGHIA Minh_hoa="Khách uăn chương Khách anh hùng. li danh từ (cũ, kng,). Tên gọi chung người Hoa kiều ở Việt Nam. Chú khách. Ăn ở một hiệu khách." Noi_dung="(cũ; vch.; dùng có kèm định ngữ). Người có tài, sắc được xã hội hâm mộ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khách khí">
+  <Y_NGHIA Minh_hoa="Quen biết rồi, không nên khách khí. Nhận lời ngay, không khách khí." Noi_dung="Có vẻ như là khách, tỏ ra giữ gìn, dè dặt, không tự nhiên trong việc làm, cách cư xử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khách khứa">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khách đến thăm (nói khái khách qua đường danh từ Người từ nơi khác đến, chỉ đi qua thôi; thường dùng để chỉ người xa lạ, về mặt không có quan hệ gì cả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khách quan I">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cái tồn tại bên ngoài, không phụ thuộc vào ý thức, ý chí của" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Điều kiện khách quan thuận lợi. Thực tế khách quan." Noi_dung="con người, trong quan hệ đối lập với chủ quan; thế giới bên ngoài. II tính từ Thuộc về khách quan, không thuộc về chủ quan." />
+  <Y_NGHIA Minh_hoa="Một cách đánh giá rất khách quan." Noi_dung="Có tính chất xuất phát từ thực tế, biểu hiện thực tế một cách trung thực, không thiên lệch." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khách quan chủ nghĩa">
+  <Y_NGHIA Minh_hoa="Quan điểm khách quan chủ nghĩa." Noi_dung="Có tính chất chủ nghĩa khách quan." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khách sạn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhà có phòng cho thuê, có đủ tiện nghi phục vụ việc ở, ăn của khách trọ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khách sáo">
+  <Y_NGHIA Minh_hoa="Lối mời mọc rất khách sáo. Không khách sáo với bạn bề." Noi_dung="Có tính chất xã giao, lịch sự bề ngoài, không thật lòng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khách thể">
+  <Y_NGHIA Minh_hoa="Sự phản ánh của khách thể vào ý thức." Noi_dung="Thế giới bên ngoài, độc lập với ý thức của con người, về mặt là đối tượng nhận thức của con người, gọi là chủ thể." />
+  <Y_NGHIA Minh_hoa="Đối tượng chịu sự chỉ phối của hành động, trong quan hệ đối lập với đối tượng gây ra hành động, gọi là chủ thê." Noi_dung="(chuyên môn)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khách tỉnh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Khách sáo, không thực tình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="khách vãng lai">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người nơi khác, đến để rồi đi (nói khái quát); phân biệt với người sở tại. Cửa hàng ăn uống phục vụ cho khách uãng lai." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Mở cho thông lối thoát, bằng cách gạt bỏ những vật chắn, vật căn trở. Khai cống rãnh." />
+  <Y_NGHIA Minh_hoa="Khai mương. Trọng tài nổi hồi còi khai trận." Noi_dung="(kết hợp hạn chế). Mở ra, làm cho bắt đầu tổn tại hoặc hoạt động." />
+  <Y_NGHIA Minh_hoa="thác (nói tắt). Khai mỏ." Noi_dung="(khẩu ngữ). Khai" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai,">
+  <Y_NGHIA Minh_hoa="Khai lí lịch. Khai trước toà." Noi_dung="Nói hoặc viết ra cho biết TÕ điều cần biết về mình hoặc điều mình biết, theo yêu cầu của tổ chức có trách nhiệm." />
+  <Y_NGHIA Minh_hoa="nhưng không khai một lời." Noi_dung="Nói hoặc viết ra điều bí mật khi bị tra hỏi. Bị tra tấn," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="khai,">
+  <Y_NGHIA Minh_hoa="Khí qammorntac có mùi khai." Noi_dung="Có mùi như mùi nước đái." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai báo">
+  <Y_NGHIA Minh_hoa="Người làm chứng khai báo đầy đủ." Noi_dung="Khai với cơ quan có thẩm quyền những việc có liên quan đến mình hay những việc mình biết. Khai báo với công an." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai bút">
+  <Y_NGHIA Minh_hoa="Đâu năm khai bút. Câu thơ khai bút." Noi_dung="Cầm bút viết hoặc vẽ lằn đầu tiên vào dịp đầu năm, theo tục xưa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai căn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tìm căn của một biểu thức hoặc một số." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai chiến">
+  <Y_NGHIA Minh_hoa="Bắt đầu đánh nhau, mở đầu cuộc chiến tranh. Hai nước đã khai chiến với nhau." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai cơ lập nghiệp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Gây dựng cơ nghiệp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai diễn">
+  <Y_NGHIA Minh_hoa="Khai diễn một uở kịch mới." Noi_dung="Đưa tiết mục lên sân khấu lần đầu, trước khi công diễn rộng rãi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai để">
+  <Y_NGHIA Minh_hoa="Câu khai đề rất độc đáo. Lối khai đề quen khai giảng động từ Bắt đầu năm học, khoá học. Các trường sắp khai giảng. Khai giảng lớp huấn luyện." Noi_dung="(cũ). Mở đầu bài văn, bài thơ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai hạ">
+  <Y_NGHIA Minh_hoa="Ngày khai hạ (mồng bảy tháng giêng âm lịch)." Noi_dung="Làm lễ hạ nêu sau những ngày Tết, theo tục xưa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai hấn">
+  <Y_NGHIA Minh_hoa="(cũ). Gây hấn." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai hoa">
+  <Y_NGHIA Minh_hoa="Nở hoa. Cây phong lan đã khai hoa." Noi_dung="(văn chương)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai hoả">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bắt đầu nổ súng. Khai hoả pào giờ W." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai hoá">
+  <Y_NGHIA Minh_hoa="Chính sách khai hoá” của thực dân." Noi_dung="(cũ). Mở mang văn hoá cho một dân tộc lạc hậu (từ thường dùng để tô vẽ cho chủ nghĩa thực dân)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai hoang">
+  <Y_NGHIA Minh_hoa="Khai hoang để mở rộng diện tích canh tác. Đất mới khai hoang." Noi_dung="Khai phá vùng đất hoang." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như khai trường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="khai hội">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Họp hội nghị." />
+  </MUC_TU>
+ </GOC>

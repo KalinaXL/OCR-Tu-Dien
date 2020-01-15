@@ -1,0 +1,136 @@
+<GOC>
+ <MUC_TU Loai_tu="động từ" Noi_dung="đựng">
+  <Y_NGHIA Minh_hoa="Hòm đựng quần áo. Thiếu đô đựng." Noi_dung="Chứa ở trong lòng của đồ vật. Đựng nước trong chai." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đước">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây cao mọc ở rừng nước mặn, hoa vàng, hạt nảy mầm ngay trên cây." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="được !">
+  <Y_NGHIA Minh_hoa="Được của rơi, trả lại cho người mất. Em được thì cho anh xin, Hay là em để làm tin trong nhà? (ca dao)." Noi_dung="Trở nên có một vật nào đó không phải của mình, do tình cờ đưa lại." />
+  <Y_NGHIA Minh_hoa="vui. Được giải thưởng. Được lòng mọi người. Được tiếng thơm. Cầu được ước thấy (cầu mong, ao ước cái gì thì được ngay cái đó)." Noi_dung="Tiếp nhận, hưởng cái gì đó tốt lành đối với mình. Được tin" />
+  <Y_NGHIA Minh_hoa="nhanh. Lúa được nắng đang chín rộ. Được đà. Được thể*." Noi_dung="Hưởng điều kiện thuận lợi nào đó cho hoạt động, cho sự phát triển. Thuyền được gió lướt" />
+  <Y_NGHIA Minh_hoa="hữu nghị, được hay thua không quan trọng." Noi_dung="Thắng trong một hoạt động nào đó có tranh nhau hơn thua; trái với thua. Được cuộc. Được kiện. Đấu" />
+  <Y_NGHIA Minh_hoa="Làm cho kì được. Đám ruộng này được" Noi_dung="Đạt kết quả của hoạt động." />
+  <Y_NGHIA Minh_hoa="là chắc chắn." Noi_dung="tấn thóc" />
+  <Y_NGHIA Minh_hoa="Trẻ em đến tuổi được đi học. Không ai được uắng mặt. T7 (hay tính từ). (dùng trước danh từ số lượng). Đạt một mức nào đó về số lượng. Thêm năm trăm nữa là được một nghìn. Anh ấy vừa ra uỗ được mười phút. Trẻ đã được một tháng." Noi_dung="Có quyền, có phép, có điều kiện khách quan làm việc gì đó." />
+  <Y_NGHIA Minh_hoa="Vở kịch được hoan nghênh. Vấn đề cần được giải quyết. II tính từ Đạt tiêu chuẩn, đạt yêu cầu, làm cho có thể hài lòng, có thể đồng ý. Cô ấy được người, được nết. Loại chè này được nước. Bán được giá. Thế nào cũng được. Được! Anh cứyên tâm. lII phụ từ (dùng phụ sau đại từ). Từ biểu thị việc vừa nói đến đã đạt kết quả. Chữa được cái máy. Nghe lõm bõm câu được câu chăng." Noi_dung="(dùng trước một động từ). Từ biểu thị chủ thể là đối tượng của hoạt động coi là phù hợp lợi ích hoặc mong muốn của mình. Được khen thưởng." />
+  <Y_NGHIA Minh_hoa="vừa nói đến là có khả năng thực hiện. Việc khó, nhưng làm được. Quả ăn được. Nó bằng thế nào được anh. lV trợ từ (dùng liền sau động từ). Từ biểu thị ý nhấn mạnh sự may mắn, thuận lợi. Gặp được người tốt. Có được một số thành tích nhất định. Bệnh đã đỡ được phần nào." Noi_dung="(dùng phụ sau động từ và một vài tính từ). Từ biểu thị điều" />
+  <Y_NGHIA Minh_hoa="Người không được khoẻ. Chất lượng chưa được tốt lắm." Noi_dung="(dùng liền sau phụ từ phủ định). Từ biểu thị ý giảm nhẹ sự phủ định, làm cho sự phủ định về điều có ý nghĩa tốt, tích cực trở thành bớt nặng nề." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="được bữa nào xào bữa ấy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ví tình trạng làm ra được bao nhiêu thì ăn tiêu ngay hết bấy nhiêu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="được chăng hay chớ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ví lối làm việc thiếu trách nhiệm, không cố gắng, kết quả ra sao cũng mặc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="được đằng chân lân đằng đầu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ví thái độ không biết điều, được người ta nhượng bộ phần nào thì lại lấn tới, đòi hỏi phải tiếp tục nhượng bộ thêm nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="được giá">
+  <Y_NGHIA Minh_hoa="Trả được giá là bán. Mặt hàng đang được giá." Noi_dung="Đạt giá cao, có phần lợi cho người bán." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="được lòng">
+  <Y_NGHIA Minh_hoa="Mất lòng trước, được lòng sau (tục ngữ)." Noi_dung="Được sự yêu mến, tin cậy của ai đó. Được lòng dân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="được">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(một) cái (là) (khẩu ngữ). Có được một mặt tốt cơ bản (bù cho những mặt khác nói chung có hạn chế, không được tốt). Chậm chạp, nhưng được cái rất chịu khó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="được mùa">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thu hoạch trong mùa được nhiều hơn bình thường. Năm nay thời tiết thuận lợi, nên được mùa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="được thể">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Có được ưu thế nào đó (càng hành động mạnh mẽ hơn, ráo riết hơn). Được thể càng làm già." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="được việc">
+  <Y_NGHIA Minh_hoa="Có khả năng làm nhanh, tốt những việc cụ thể hằng ngày được giao. Trông lù khù thế mà được uiệc." Noi_dung="(khẩu ngữ)." />
+  <Y_NGHIA Minh_hoa="Nhận quách đi cho được uiệc." Noi_dung="(dùng sau cho). Xong việc, yên việc, không còn phải lôi thôi, mất thì giờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="được voi đòi tiên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ví thái độ tham lam, được cái này tốt rồi, lại muốn cái khác nữa, tốt hơn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đười ươi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khí lớn có hình dạng giống như người, có bộ lông màu nâu rất dài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đượm">
+  <Y_NGHIA Minh_hoa="Lò than cháy rất đượn. Củi khô đượm lửa." Noi_dung="(Chất đốt) cháy tốt, đều và lâu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="đượm">
+  <Y_NGHIA Minh_hoa="Đượm mỗ hôi. Đượm tình quê hương. 2 Pha lẫn và như được ẩn giấu, bao hàm bên trong một cái gì. Nụ cười đượm buồn. Câu chuyện đượm màu sắc thần bí." Noi_dung="4 Thấm sâu, đậm vào bên trong." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đượm đà">
+  <Y_NGHIA Minh_hoa="Tình bạn ngày càng đượm đà." Noi_dung="Nông nàn sâu sắc mà bền lâu; như đậm đà (nghĩa 2)." />
+  <Y_NGHIA Minh_hoa="Câu chuyện cổ đượm đà phong uị dân gian. đườn tính từ (ít dùng). (Nằm) dài và thẳng đờ, có vẻ mệt nhọc. Nằm đườn ra." Noi_dung="Có pha lẫn một cái gì sâu đậm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đườn đưỡn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem đưỡn (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đưỡn">
+  <Y_NGHIA Minh_hoa="Đứng đưỡn ra như khúc gỗ. !! Láy: đườn đưỡn (ý nhấn mạnh)." Noi_dung="(danh từ). Thẳng và cứng đờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="đương,">
+  <Y_NGHIA Minh_hoa="Đương uiệc nước." Noi_dung="(văn chương). Nhận lấy về mình để làm (nói về công việc, trách nhiệm to lớn, nặng nề). Năng lực kém, khó mà đương nổi công việc." />
+  <Y_NGHIA Minh_hoa="Đủ sức đương với một đại đội địch." Noi_dung="Chống cự với một lực lượng mạnh hơn; đương đầu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="đương; (ph.; cũ).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="đan." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="đương;">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ph.).x. đang;" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="đương cai (cũ; id.).">
+  <Y_NGHIA Minh_hoa="đăng cai." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đương chức">
+  <Y_NGHIA Minh_hoa="Một bộ trưởng đương chức." Noi_dung="Hiện đang giữ chức vụ; tại chức." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(ít dùng)." Noi_dung="đương cục d">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhà đương cục (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="đương cuộc (ph.).">
+  <Y_NGHIA Minh_hoa="đương cục." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đương đại">
+  <Y_NGHIA Minh_hoa="Nền uăn học đương đại." Noi_dung="Thuộc về thời đại hiện nay." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="đương đầu">
+  <Y_NGHIA Minh_hoa="Đương đầu với đội quân đông gấp bội. Dám đương đầu với mọi khó khăn." Noi_dung="Chống lại một cách trực diện (thường là với lực lượng mạnh hơn hẳn hoặc việc khó khăn, nặng nề quá sức)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đương kim">
+  <Y_NGHIA Minh_hoa="Đương kim tổng thống. Đương kim uô địch thế giới." Noi_dung="(thường dùng phụ trước d., trong một số tổ hợp). (Người đang giữ địa vị, chức vụ đứng đầu) hiện nay." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đương lượng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vật hoặc lượng bằng về trị số hoặc tương ứng về một phương diện nào đó với một vật hoặc một lượng khác, có thể thay thế cho vật nói sau đó hoặc dùng để biểu thị nó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đương nhiệm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Đương chức." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đương nhiên">
+  <Y_NGHIA Minh_hoa="Trong đấu tranh cách mạng, đương nhiên có hỉ sinh uà tổn thất. Lễ đương nhiên." Noi_dung="(có thể dùng làm phần phụ trong câu). Rõ ràng là như vậy, ai cũng thừa nhận." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="đương qui">
+  <Y_NGHIA Minh_hoa="đương quy. |" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đương quy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây nhỏ cùng họ với raui cần, rễ củ có mùi thơm, dùng làm thuốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đương sự">
+  <Y_NGHIA Minh_hoa="Báo cho đương sự biết." Noi_dung="Người là đối tượng trong một sự việc nào đó được đưa ra giải quyết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đương thì">
+  <Y_NGHIA Minh_hoa="Gái đương thì." Noi_dung="(khẩu ngữ). Đang giữa tuổi trẻ, đầy sức sống (thường nói về con gái)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đương thời">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(dùng phụ cho d., hoặc dùng làm phần phụ trong câu). Thời bấy giờ. Người đương thời. Việc ấy đương thời ít người biết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đương triểu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Triều vua thời bấy giờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường, I">
+  <Y_NGHIA Minh_hoa="Ca; đường&quot;. Bưởi đường*." Noi_dung="Chất kết tỉnh vị ngọt, thường chế từ mía hoặc củ cải đường. Ngọt như đường. ll tính từ (đùng trong tên gọi một số hoa quả). Thuộc loại có vị ngọt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường,">
+  <Y_NGHIA Minh_hoa="Con đường qua làng. Đường xe lửa Đi đường biển. Đường uào vũ trụ. Ăn bát cơm dẻo nhớ nẻo đường đi (tng,). Con đường tiến thân (bóng (nghĩa bóng))." Noi_dung="Lối đi nhất định được tạo ra để nối liền hai địa điểm, hai nơi." />
+  <Y_NGHIA Minh_hoa="đi đường. Tiếng lành đồn xa, tiếng dữ đồn xa, Tiếng lành tiếng dữ đồn ba ngày đường (ca dao)." Noi_dung="Khoảng không gian phải vượt qua để đi từ một địa điểm này đến một địa điểm khác. Đường còn xa. Những ngày" />
+  <Y_NGHIA Minh_hoa="dẫn dầu. Đường cống Đường mương Đường điện" Noi_dung="Cái nối liền hai địa điểm, làm phương tiện truyền đi, chuyển đi cái gì đó. Đường ống" />
+  </MUC_TU>
+ </GOC>

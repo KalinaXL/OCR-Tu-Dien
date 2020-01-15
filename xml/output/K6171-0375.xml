@@ -1,0 +1,193 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="bình thường, tự nhiên.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nói cười líu tíu. Líu tíu chạy ra đón khách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lậu địu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Vướng bận, không được rảnh rang. Lúc nào cũng lịu địu việc nhà." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo">
+  <Y_NGHIA Minh_hoa="Con ốm, mẹ lo cuống quýt. Chẳng có gì đáng lo. Nỗi lo." Noi_dung="Ở trong trạng thái phải bận tâm không yên lòng về việc gì đó vì cho rằng có thể xảy ra điều không hay." />
+  <Y_NGHIA Minh_hoa="Lo xa*. Một người hay lo bằng kho người hay làm (tng,)." Noi_dung="Suy tính, định liệu, chuẩn bị điều kiện, biện pháp để có thể làm tốt việc gì đó thuộc về trách nhiệm của mình." />
+  <Y_NGHIA Minh_hoa="Lo vợ cho con. Lo chạy chữa thuốc thang cho chồng." Noi_dung="Để cả tâm trí và sức lực vào nhằm làm tốt hoặc thực hiện cho được một công việc cụ thế nào đó. Lo học." />
+  <Y_NGHIA Minh_hoa="(kng,). Lo lót. Phải lo mấy chỉ uàng mới xong." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo âu">
+  <Y_NGHIA Minh_hoa="Thấp thỏm lo âu. Nỗi lo âu." Noi_dung="Ở trong trạng thái không yên lòng về việc gì đến mức thường xuyên và sâu sắc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="lo bò trắng răng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lo chuyện không đâu, vu vơ, không đáng phải lo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo buổn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Buồn rầu lo nghĩ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="Jo-ga">
+  <Y_NGHIA Minh_hoa="" Noi_dung="logarithm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="lo-ga-rit">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Jogarithm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo lắng">
+  <Y_NGHIA Minh_hoa="Mẹ quá lo lắng cho con. Đêm ngày lo lắng. Sống trong tâm trạng lo lăng." Noi_dung="Ở trong trạng thái rất không yên lòng và phải để hết tâm sức vào cho công việc gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo liệu">
+  <Y_NGHIA Minh_hoa="Mọi việc giao cho nó lo liệu. Để tôi tự lo liệu lấy." Noi_dung="Tìm mọi cách thu xếp, sắp đặt, chuẩn bị sẵn để đáp ứng với yêu cầu của công việc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo lót">
+  <Y_NGHIA Minh_hoa="Lo lót với giám đốc để xin Uiệc." Noi_dung="Tìm cách hối lộ cho được việc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo lường">
+  <Y_NGHIA Minh_hoa="Như Ðo liệu." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo ngại">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lo lắng và e ngại. Bệnh tình đáng lo ngại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo nghĩ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lo lắng và nghĩ ngợi. Mối lo nghĩ hằng ngày." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo phiền">
+  <Y_NGHIA Minh_hoa="Lo phiền uì có đứa con hư." Noi_dung="Lo lắng và buồn phiền." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo sốt vó">
+  <Y_NGHIA Minh_hoa="Lo sốt uó uì thời hạn sắp hết." Noi_dung="(khẩu ngữ). Lo đến mức cuống lên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo sợ">
+  <Y_NGHIA Minh_hoa="Lo sợ uiễn pông." Noi_dung="Lo lắng và có phần sợ hãi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo tính">
+  <Y_NGHIA Minh_hoa="Lo tính cho tương lai của con cái." Noi_dung="Lo liệu, tính toán." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo toan">
+  <Y_NGHIA Minh_hoa="Lo toan gánh vác công uiệc chung. Sớm biết lo toan uiệc nhà." Noi_dung="Lo liệu công việc với tỉnh thần trách nhiệm cao." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lo xa">
+  <Y_NGHIA Minh_hoa="Tính hay lo xa. Người biết lo xa." Noi_dung="Suy tính để đề phòng trước việc bất trắc sau này có thể xảy ra." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò,">
+  <Y_NGHIA Minh_hoa="Công nhân lò. Khai thác than dưới lò." Noi_dung="Khoảng trống nhân tạo trong lòng đất, dùng để thông gió hoặc khai thác khoáng sản." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="lò,d.">
+  <Y_NGHIA Minh_hoa="Lò gạch. Lò đúc*. Bếp lò. Bánh mới ra lò. Lò lửa chiến tranh (bóng (nghĩa bóng)). Lò đào tạo cán bộ (b.; nơi rèn luyện, đào tạo cán bộ)." Noi_dung="Dụng cụ, thiết bị dùng tạo nên nhiệt độ cao để nung nóng, nấu chảy, nấu nướng hay sưởi ấm." />
+  <Y_NGHIA Minh_hoa="C4 lò nhà nó." Noi_dung="(thợt). Nhóm người cùng họ hàng, nguồn gốc hay phe cánh (hàm ý khinh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò cao">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lò đứng có chiều cao lớn hơn nhiều so với chiều ngang, dùng để luyện gang từ quặng sắt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò chð">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lò đứng nhỏ để nấu chảy gang." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò chợ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nơi chủ yếu khai thác khoáng sản trong mỏ hâm lò." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lò cò">
+  <Y_NGHIA Minh_hoa="Đau một chân phải nháy lò cò. Vịn thành giường lò cò tập đt." Noi_dung="Co một chân lên và nhảy bằng chân còn lại từng quãng ngắn một." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò cừ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; vch.; ít dùng). Lò lớn; thường dùng để ví trời đất, vũ trụ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lò dò">
+  <Y_NGHIA Minh_hoa="Bước lò dò chỉ sợ ngã." Noi_dung="Đi lần từng bước như thể vừa đi vừa dò đường." />
+  <Y_NGHIA Minh_hoa="ở đâu lò dò uề." Noi_dung="(khẩu ngữ). Lần mò tìm đến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò đúc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lò nấu chảy kim loại để đúc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò đứng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lò để xử lí những sản phẩm dài ở vị trí thẳng đứng hoặc những dải kim loại chuyển động thẳng đứng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò hồ quang">
+  <Y_NGHIA Minh_hoa="Lò dùng nhiệt của hồ quang để nấu chảy kim loại và các vật liệu khác." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò luyện kim">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tên gọi chung các loại lò dùng để nung nấu chảy và luyện kim loại. lò Mác-tanh xem lò Martin." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò Martin">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lò sản xuất thép từ gang và thép vụn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lò mò">
+  <Y_NGHIA Minh_hoa="Lò mò đi qua cánh đồng trong đêm." Noi_dung="Đi lại hoặc làm việc mò mẫm, khó khăn (thường là trong bóng tối)." />
+  <Y_NGHIA Minh_hoa="Tên phỉ lò mò uề nhà." Noi_dung="(khẩu ngữ). Đi đến nơi nào đó một cách thận trọng và không đàng hoàng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò mổ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="cũng nói lò sát sinh. Nơi chuyên việc giết thịt gia súc hàng loạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò rèn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nơi chế tạo đồ dùng bằng sắt, thép, như dao, cuốc, liềm, v.v. theo phương pháp thủ công." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò sát sinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem lò mổ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò sưởi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khí cụ đốt nóng để sưởi ấm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lò xo">
+  <Y_NGHIA Minh_hoa="Lò xo bật lửa. Giường lò xo. Bật dậy như chiếc lò xo." Noi_dung="Vật thường bằng thép, có sức đàn hồi, dùng để giữ những vật khác (thường là những chỉ tiết máy) nào đó ở vị trí cần có." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lõ">
+  <Y_NGHIA Minh_hoa="Gây lõ xương. Mũi lõ." Noi_dung="(Đầu xương hoặc mũi) cao gỗ hẳn lên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(phương ngữ)." Noi_dung="ló,d.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lúa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ló,">
+  <Y_NGHIA Minh_hoa="Ló đầu trên bức tường. Mặt trời vừa ló lên sau dãy núi. lọ, danh từ Đồ đựng bằng thuỷ tỉnh hoặc sành, sứ, v.v., cổ thấp, đáy thường rộng hơn miệng. Lọ mực. Lọ nước hoa." Noi_dung="Để lộ một phần nhỏ (thường là cao nhất) ra khỏi vật che khuất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(phương ngữ)." Noi_dung="lọt.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhọ. Mặt lọ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="lọ,k.">
+  <Y_NGHIA Minh_hoa="Sắt đá cũng xiêu lọ người." Noi_dung="(cũ). Huống nữa, huống chỉ." />
+  <Y_NGHIA Minh_hoa="Văn hay, lọ phải uiết nhiều." Noi_dung="Cần gì, chẳng cần gà." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lọ lem">
+  <Y_NGHIA Minh_hoa="Mặt mũi lọ lem." Noi_dung="cũng nói nhọ nhem. Có nhiều vết nhọ, trông lem luốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lọ mẹ">
+  <Y_NGHIA Minh_hoa="Như lò mò." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lọ nghẹ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Nhọ nồi. Dính lọ nghẹ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="lọ nổi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Nhọ nồi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="loa">
+  <Y_NGHIA Minh_hoa="Nghe loa phát tin. Nói loa." Noi_dung="Dụng cụ hình phễu, có tác dụng định hướng làm âm đi xa hơn và nghe rõ hơn." />
+  <Y_NGHIA Minh_hoa="Loa lên cho mọi người cùng biết." Noi_dung="(chuyên môn). Dụng cụ biến các dao động điện thành dao động âm và phát to ra. lI động từ (khẩu ngữ). Truyền tin cho mọi người biết, thường bằng loa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="loa">
+  <Y_NGHIA Minh_hoa="Bát loa. Miệng cốc hơi loa." Noi_dung="tt. Có hình loe ra tựa cái loa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="loa kèn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây thảo mọc đứng, lá dài, bóng, hoa to, mọc thành chùm nằm ngả ra, bao hoa hình loa kèn dài, màu trắng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="loa loá">
+  <Y_NGHIA Minh_hoa="Joá (láy)." Noi_dung="(hay tính từ). xem" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="loà">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Mắt) không còn nhìn rõ nữa, mà chỉ còn có thể nhìn thấy mọi vật lờ mờ, không rõ nét. Mắt loà, chân chậm." />
+  <Y_NGHIA Minh_hoa="Gương loà." Noi_dung="(Gương) không còn phản chiếu được rõ nét, soi chỉ thấy hình ảnh mờ mờ." />
+  <Y_NGHIA Minh_hoa="Chớp loà. Chói loà ánh nắng. loà xoà động từ (Vật mềm dài) buông xuống và toả ra không đều, không gọn. Áo dài loà xoà chấm gót. Cành lá loà xoà. Tóc rủ loà xoà trên trán. |" Noi_dung="Có độ sáng chói quá mức bình thường, đến mức như làm loá mắt, không nhìn được rõ nét." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="loả toả">
+  <Y_NGHIA Minh_hoa="Tóc bay loả toả. Gió thổi, l4 khô rơi loá tod." Noi_dung="(Rơi xuống hay buông rủ xuống) không gọn, không đều, mỗi cái mỗi hướng, mỗi nơi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="loã">
+  <Y_NGHIA Minh_hoa="Máu cháy loã đầu." Noi_dung="(ít dùng). (Máu) chảy tràn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="loä lổ">
+  <Y_NGHIA Minh_hoa="Thân thể loã lồ. Ăn mặc toa 10." Noi_dung="(Thân thể con người) để hở ra bộ phận cần che kín." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="loã thể">
+  <Y_NGHIA Minh_hoa="Bức tranh loã thể." Noi_dung="Ở trạng thái thân thể trần truồng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="loã xoã">
+  <Y_NGHIA Minh_hoa="Tóc loã xoã trước trán." Noi_dung="Như loà xoà." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="loá">
+  <Y_NGHIA Minh_hoa="Mắt loá vì ánh đèn pha. Loá mắt pì tiền (bóng (nghĩa bóng))." Noi_dung="(hay tính từ). Ở trạng thái thị giác bị Tối loạn do tác động của ánh sáng có cường độ quá mạnh." />
+  <Y_NGHIA Minh_hoa="đèn pha sáng loá. Nắng loá. !/ Láy: loa loá (ý liên tiếp)." Noi_dung="(dùng sau đg., tính từ). Có tác dụng làm cho loá mắt Ánh" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="loá mắt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ở trạng thái bị choáng ngợp trước sức cám dỗ, khiến cho mất cả sáng" />
+  </MUC_TU>
+ </GOC>

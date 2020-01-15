@@ -1,0 +1,175 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng hoá">
+  <Y_NGHIA Minh_hoa="Giá cá hàng hoá. Lưu thông hàng hoá." Noi_dung="Sản phẩm do lao động làm ra, dùng để buôn bán trên thị trường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng khô">
+  <Y_NGHIA Minh_hoa="Bán hàng khô ở chợ. Quây hàng khô." Noi_dung="Các thứ hàng thực phẩm khô (như lạc, vừng, miến, hạt tiêu, v.v.) nói chung." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng không">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kĩ thuật điều khiển máy bay." />
+  <Y_NGHIA Minh_hoa="Ngành hàng không dân dụng. Câu hàng không*." Noi_dung="Vận tải đường không." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng không mẫu hạm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tàu sân bay." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng không vũ trụ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoa học và kĩ thuật về việc bay trong vũ trụ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng loạt">
+  <Y_NGHIA Minh_hoa="Hàng loạt nhà máy đã được xây dựng." Noi_dung="Một số lượng lớn có trong cùng một lúc. Sản xuất hàng loạt. Vũ khí giết người hàng loạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng lối">
+  <Y_NGHIA Minh_hoa="Không ra hàng lối gì cá." Noi_dung="Hàng do được sắp xếp, tổ chức (nói khái quát). Cây trồng có hàng lối." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng ngũ">
+  <Y_NGHIA Minh_hoa="Hàng ngũ chỉnh tê. Hàng ngũ cách mạng. Rời bỏ hàng ngũ." Noi_dung="Tập thể người được sắp xếp theo đội hình nhất định hoặc được tổ chức chặt chẽ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng phố">
+  <Y_NGHIA Minh_hoa="Người hàng phố. La hét ằm ï, đánh thức hàng phố dậy." Noi_dung="Người ở cùng một dãy phố, trong quan hệ với nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hàng phục">
+  <Y_NGHIA Minh_hoa="Quân phiến loạn đã hàng phục." Noi_dung="Chịu thua và chịu theo về phía đối phương." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng quán">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Quán nhỏ dọc đường (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng rào">
+  <Y_NGHIA Minh_hoa="Hàng rào râm bụt quanh nhà. Hàng rào dây thép gai. Hàng rào lông nhím (bằng tre nứa vót nhọn, cắm xiên ra ngoài)." Noi_dung="Dãy tre, nứa, hoặc. cây trồng, v.v. bao quanh một khu vực để che chở, bảo vệ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng rào danh dự">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hàng người đứng hai bên đường để đón tiếp theo nghỉ thức long trọng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng rào thuế quan">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hệ thống thuế đánh nặng vào hàng nhập khẩu, thường để bảo vệ sản xuất trong nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng tấm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vải đã gấp hoặc cuộn thành súc, đem bán ở thị trường (nói khái quát). Bán hàng tâm. ?" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng thần">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kẻ đã hàng phục chịu làm tôi một vua. ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng thùng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Đồ dùng (thường là hàng may mặc) cũ, nhập từ nước ngoài theo từng kiện. Chiếc áo hàng thùng nhưng còn mới." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng tiêu dùng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hàng dùng cho sinh hoạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(thông tục)." Noi_dung="hàng tôm hàng cá">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tả lối nói năng, chửi bới một cách thô bỉ, thiếu văn hoá." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng xách">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nghề buôn bằng cách đứng giữa trao hàng để kiếm lãi, không phải bỏ vốn ra. Chạy hàng xách. Buôn hàng xách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng xáo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nghề đong thóc về xay giã, kiếm lãi bằng cách bán gạo và thu các sản phẩm phụ như tấm, cám. Làm hàng xáo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng xén">
+  <Y_NGHIA Minh_hoa="Gánh hàng xén." Noi_dung="Hàng tạp hoá bán ở vỉa hè, ở chợ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng xóm">
+  <Y_NGHIA Minh_hoa="Hàng xóm tối lửa tắt đèn có nhau." Noi_dung="Người ở cùng một xóm hoặc nói chung người láng giềng, trong quan hệ với nhau. Người hàng xóm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hàng xứ">
+  <Y_NGHIA Minh_hoa="Người ở cùng một xứ, trong quan hệ với nhau. Lấy chồng hàng xứ." Noi_dung="(ít dùng)." />
+  <Y_NGHIA Minh_hoa="người hàng xứ." Noi_dung="Người ở đâu đến, xa lạ, không quen biết. Ngơ ngác như" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hãng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tổ chức sản xuất hàng hoá, kinh doanh lớn. Hãng buôn. Hãng làm phim." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="háng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần cơ thể ở chỗ tiếp giáp của mặt trong đùi với bụng dưới. Đứng giang háng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hạng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tập hợp người hoặc vật cùng loại, được đánh giá và xếp theo cao thấp, lớn nhỏ, tốt xấu khác nhau. Hạng người xấu. Vé hạng nhất. Xếp hạng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hạng mục">
+  <Y_NGHIA Minh_hoa="Một công trình lớn với gần năm mươi hạng mục." Noi_dung="(thường nói hạng mục công trình). Công trình kiến trúc nhỏ, riêng lẻ, nằm trong một tổ hợp công trình lớn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hạng ngạch">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Mức vốn đầu tư quy định để biểu thị tầm cỡ của một công trình xây dựng. Công trình trên hạng ngạch." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hanh">
+  <Y_NGHIA Minh_hoa="Trời hanh. Nắng hanh. hanh hao tính từ Hanh (nói khái quát). Tiết trời hanh hao." Noi_dung="(Thời tiết) khô và hơi lạnh, có thể làm nứt nẻ da thịt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hanh thông">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Có nhiều may mắn, làm việc gì cũng dễ dàng. Vận hanh thông." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="cũng nói hành ta. Cây thân ngầm, hình dẹp, mang nhiều lá mọng nước xếp úp vào nhau thành một khối hình củ, dùng làm gia vị." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành;">
+  <Y_NGHIA Minh_hoa="Bị cơn sốt hành suốt đêm." Noi_dung="Làm cho khổ sở." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành;">
+  <Y_NGHIA Minh_hoa="Học đi đôi uới hành." Noi_dung="(kết hợp hạn chế, đi đôi với học). Thực hành (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành binh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Hành quân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hành chính">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thường dùng phụ sau danh từ). Thuộc phạm vi chỉ đạo, quản lí việc chấp hành luật pháp, chính sách của nhà nước. Cơ quan hành chính các cấp." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thuộc về những công việc sự vụ, như văn thư, tổ chức, kế toán, v.v., trong cơ quan nhà nước. Công tác hành chính. Cán bộ hành chính." />
+  <Y_NGHIA Minh_hoa="Biện pháp hành chính." Noi_dung="Có tính chất giấy tờ, mệnh lệnh, khác với giáo dục, thuyết phục." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành cung">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cung để vua nghỉ khi đi các nơi xa kinh đô." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành dịch">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đi làm những công việc nghĩa vụ nặng nhọc thời phong kiến, như đi phu, đi lính, v.v." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành dinh cũng nói hành doanh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chỗ tướng chỉ huy đóng khi đưa quân đi đánh trận." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành đạo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Thực hiện đạo lí, thi hành đường lối." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Làm những việc thuộc về tôn giáo của người tu hành. Tự do hành đạo. Nhà sư đang hành đạo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành động">
+  <Y_NGHIA Minh_hoa="Thống nhất ý chí uà hành động." Noi_dung="Việc làm cụ thể của con người nhằm một mục đích nhất định. Một hành động dũng cảm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành động">
+  <Y_NGHIA Minh_hoa="Bắt đầu hành động. Giờ hành động đã đến." Noi_dung="Làm việc cụ thể nào đó, ít nhiều quan trọng, một cách có ý thức, có mục đích." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành động sân khấu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sự hoạt động có mục đích của nhân vật kịch mà diễn viên phải đóng khi diễn trên sân khấu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành giả">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhà sư đi khuyên giáo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành hạ">
+  <Y_NGHIA Minh_hoa="Bị cơn đau hành hạ. Đi ở, bị chủ hành hạ." Noi_dung="Làm cho đau đớn, khổ sở." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành hạt">
+  <Y_NGHIA Minh_hoa="Tri phủ đi hành hạt. hành hình động từ Giết để thị hành án tử hình. Tử tù bị đem hành hình." Noi_dung="(Quan lại) đi thanh tra trong khu vực mình cai trị." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành hoa">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hành củ nhỏ, dùng làm gia vị và làm thuốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành hung">
+  <Y_NGHIA Minh_hoa="Giở thói hành hung." Noi_dung="Làm những điều hung dữ trái phép, xâm phạm đến người khác, như đánh đập, phá phách, v.v. Hành hung để tẩu thoát." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành hương">
+  <Y_NGHIA Minh_hoa="Các tín đồ đi hành hương." Noi_dung="(Người sùng đạo) đi đến những nơi xa được coi là linh thiêng, như đền, chùa, để cúng bái cho thoả sự ngưỡng vọng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành khách">
+  <Y_NGHIA Minh_hoa="Hành khách đi xe lửa." Noi_dung="Khách đi xe, đi tàu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành khất">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kiểu cách). Đi ăn xin. Người hành khất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành khiển">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chức quan to thời xưa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hành khúc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bản nhạc, bài hát theo nhịp đi đều bước của đoàn người tổ chức thành hàng ngũ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành kinh">
+  <Y_NGHIA Minh_hoa="Thời kì hành kinh." Noi_dung="Đang có kinh nguyệt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hành lạc">
+  <Y_NGHIA Minh_hoa="Lao uào cuộc hành lạc. hành lang danh từ Lối đi chạy dài trong nhà, trước các dãy phòng. Câu chuyện ngoài hành lang (trao đối bên ngoài, không chính thức)." Noi_dung="Vui chơi, tiêu khiển bằng những thú vui vật chất tầm thường, không lành mạnh." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lối đi có mái che để nối hai ngôi nhà lớn; nhà cầu." />
+  <Y_NGHIA Minh_hoa="ở hai bên ngôi nhà chính của chùa." Noi_dung="Nhà đài cất" />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Dài giao thông tương đối an toàn nối liền các khu vực trên mặt đất hoặc trên không, trên biển, có giới hạn được quy định về chiều rộng." />
+  </MUC_TU>
+ </GOC>

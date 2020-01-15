@@ -1,0 +1,176 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="đã khuất.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Không hình dung nổi công uiệc Sẽ ra SaO." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình dung từ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Tính từ." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(danh từ). Từ dùng để làm tăng tính hình ảnh của lời văn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình hài">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(văn chương). Thân thể con người." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình hoạ">
+  <Y_NGHIA Minh_hoa="Bức hình hoạ con nai." Noi_dung="Thể loại hội hoạ, vẽ một vật có thực trước mắt; phân biệt với tranh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngành toán học nghiên cứu tính chất, quan hệ và phép biến đổi của các hình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình học Eucliid [ơ-clít]">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình học dựa trên tiên đề Euclid về đường song song, thừa nhận rằng qua một điểm ở ngoài một đường thẳng cho trước, chỉ có một đường thẳng song song với đường thẳng đã cho." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình học giải tích">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngành toán học nghiên cứu các đối tượng hình học bằng công cụ của đại số, dựa trên cơ sở phương pháp toạ độ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình học hoạ hình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bộ môn hình học nghiên cứu các phương pháp biểu diễn các hình không gian trên mặt phẳng và giải các bài toán không gian trên mặt phẳng nhờ các phép biểu diễn đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình học không gian">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bộ môn hình học nghiên cứu các tính chất của các hình trong không gian." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình học phẳng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bộ môn hình học nghiên cứu các tính chất của các hình nằm trong cùng một mặt phẳng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình học phi Euclid">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tên gọi chung các hệ thống hình học khác với hình học Euclid, không thừa nhận tiên đề Euclid về đường song song." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình hộp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình lăng trụ có đáy là hình bình hành." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình hộp chữ nhật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình hộp có tất cả các mặt là hình chữ nhật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình không gian">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình không nhất thiết nằm trọn trong một mặt phằng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình khối">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường và mặt bao quanh một vật, tạo nên hình dạng một vật thể nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình lăng trụ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đa diện có hai mặt (đáy) song song với nhau, còn các mặt khác (mặt bên) đều là những hình bình hành." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình lập phương">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình hộp có sáu mặt đều vuông." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình luật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Luật hình sự." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình mẫu">
+  <Y_NGHIA Minh_hoa="Hình mẫu từng bộ phận của máy." Noi_dung="Cái được tạo ra dùng làm mẫu để phỏng theo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình nhân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình người bằng giấy, dùng để cúng rồi đốt đi, theo tục lệ mê tín." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình nhi hạ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngành triết học chuyên nghiên cứu những vật cụ thể, có hình dạng; trái với hình nhỉ thượng (siêu hình học)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình nhi thượng">
+  <Y_NGHIA Minh_hoa="Siêu hình học." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hình như">
+  <Y_NGHIA Minh_hoa="Trông quen quen, hình như đã có gặp." Noi_dung="Tổ hợp biểu thị ý phỏng đoán một cách đè dặt, dựa trên những gì trực tiếp cảm thấy được; dường như." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình nón">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khối được tạo nên do cắt một mặt nón bởi một mặt phẳng không đi qua đỉnh của nó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình nón cụt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khối tạo nên do cắt cụt một hình nón bởi một mặt phẳng song song với đầy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình nộm">
+  <Y_NGHIA Minh_hoa="Hình nộm bằng rơm. Đốt hình nộm." Noi_dung="Hình người giả, tượng trưng cho kẻ bị căm ghét." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình pháp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Luật hình sự." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình phạt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình thức trừng trị người phạm tội. Chịu hình phạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình phẳng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình nằm trọn trong một mặt phăng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình quạt tròn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần hình tròn nằm giữa hai bán kính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình sắc">
+  <Y_NGHIA Minh_hoa="Toàn thể nói chung những nét về hình thức bên ngoài và màu sắc đặc trưng. Hình sắc quê hương." Noi_dung="(ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình sự">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Việc trừng trị những tội xâm phạm nghiêm trọng đến an ninh quốc" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="" Noi_dung="gia, trật tự xã hội (nói khái quát). Bộ luật hình sự." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình tam giác">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem fam giác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thái">
+  <Y_NGHIA Minh_hoa="Hình thái địa lí. Phân loại theo đặc trưng hình thái." Noi_dung="Toàn thể nói chung những gì thuộc về cái bên ngoài, có thể quan sát được của sự vật." />
+  <Y_NGHIA Minh_hoa="là một hình thái ý thức xã hội." Noi_dung="Hình thức biểu hiện ra. Văn nghệ" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thái học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoa học nghiên cứu về hình dạng bên ngoài của sinh vật." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bộ môn ngôn ngữ học chuyên nghiên cứu về cấu tạo từ và những biến đổi về hình thức của từ trong câu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thái kinh tế - xã hội">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem hình thái xã hội - kinh tế." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thái xã hội - kinh tế">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kiểu xã hội ở một giai đoạn phát triển lịch sử nhất định, có chế độ kinh tế nhất định và kiến trúc thượng tẳng phù hợp với chế độ kinh tế ấy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thang">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tứ giác lồi có hai cạnh song song (thường chỉ trường hợp hai cạnh song song này không bằng nhau)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hình thành">
+  <Y_NGHIA Minh_hoa="Hình thành một tổ chức. Một ý nghĩ mới hình thành trong óc." Noi_dung="Thành hình và bắt đầu tồn tại như một thực thể." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thể">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Toàn thể nói chung những đường nét bên ngoài của một vật thể. Vận động uiên có hình thể đẹp. Hình thể khúc khuỷu của bờ biển." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thế">
+  <Y_NGHIA Minh_hoa="Bản đổ hình thế nước Việt Nam." Noi_dung="Hình dáng mặt đất." />
+  <Y_NGHIA Minh_hoa="sang một hình thế mới." Noi_dung="Tình hình chính trị hoặc quân sự có những nét đặc biệt nào đó. Cách mạng chuyển" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thoi">
+  <Y_NGHIA Minh_hoa="Hình thù kì dị. Không còn ra hình thù gì nữa." Noi_dung="Hình bình hành có bốn cạnh bằng nhau (thường được hiểu là không có bốn góc vuông, không phải hình vuông). hình thù danh từ Hình dạng cụ thể và riêng biệt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình thức">
+  <Y_NGHIA Minh_hoa="Một hình thức mâu thuẫn với nội dung. Chuộng hình thức. Phô trương hình thức." Noi_dung="Toàn thể nói chung những gì làm thành mặt bề ngoài của sự vật, cái chứa đựng hoặc biểu hiện nội dung." />
+  <Y_NGHIA Minh_hoa="Dùng nhiều hình thức quảng cáo. Áp dụng các hình thức giáo dục." Noi_dung="Cách thể hiện, cách tiến hành một hoạt động." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hình thức">
+  <Y_NGHIA Minh_hoa="Một uiệc làm hình thức." Noi_dung="Có tính chất hình thức, chỉ có trên danh nghĩa, không có nội dung, không có thực chất." />
+  <Y_NGHIA Minh_hoa="hình thức." Noi_dung="(khẩu ngữ). Hình thức chủ nghĩa (nói tắt). Tránh hình thức. Bệnh" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hình thức chủ nghĩa l">
+  <Y_NGHIA Minh_hoa="Kẻ gian đã lộ hình tích." Noi_dung="Có tính chất của chủ nghĩa hình thức, theo chủ nghĩa hình thức. Xu hướng hình thức chủ nghĩa trong văn học. II danh từ danh từ). xem chủ nghĩa hình thức. hình tích danh từ Hành động, cử chỉ qua đó một con người có thể để lộ ra cho người ta nhận biết được (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình trạng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như hình dạng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình tròn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần mặt phẳng giới hạn bởi một đường tròn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình tròn xoay">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình được tạo ra bằng cách cho một hình quay quanh một trục cố định." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình trụ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khối tạo nên do cắt một mặt trụ bằng hai mặt phẳng song song." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình tượng">
+  <Y_NGHIA Minh_hoa="Hình tượng nghệ thuật." Noi_dung="Sự phản ánh hiện thực một cách khái quát bằng nghệ thuật dưới hình thức những hiện tượng cụ thể, sinh động, điển hình, nhận thức trực tiếp bằng cảm tính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình vành khăn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần mặt phẳng nằm giữa hai đường tròn đồng tâm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình vẽ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tập hợp các đường nét, mảng màu theo những nguyên tắc hội hoạ nhất định trên mặt phẳng, phản ánh hình dạng một vật thể nào đó trong tự nhiên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình vị">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị ngôn ngữ nhỏ nhất có nghĩa. Từ &quot;hình ảnh&quot; có hai hình uị." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình viên phân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần của hình tròn giới hạn bởi một cung và dây cung của nó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hình vóc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thân thể con người, về mặt hình dáng và to nhỏ, cao thấp. Hình vóc nhỏ nhằn." />
+  </MUC_TU>
+ </GOC>

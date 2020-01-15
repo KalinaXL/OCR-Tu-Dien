@@ -11,8 +11,8 @@
  <MUC_TU Loai_tu="xem" Noi_dung="a-trô-pin”">
   <Y_NGHIA Minh_hoa="" Noi_dung="atropin." />
   </MUC_TU>
- <MUC_TU Loai_tu="xem" Noi_dung="a-xenx. arsenic.">
-  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+ <MUC_TU Loai_tu="xem" Noi_dung="a-xen">
+  <Y_NGHIA Minh_hoa="" Noi_dung="arsenic." />
   </MUC_TU>
  <MUC_TU Loai_tu="xem" Noi_dung="a-xô-ti-len">
   <Y_NGHIA Minh_hoa="" Noi_dung="qcetylen." />
@@ -20,7 +20,7 @@
  <MUC_TU Loai_tu="xem" Noi_dung="a-xê-ton">
   <Y_NGHIA Minh_hoa="" Noi_dung="acetoni." />
   </MUC_TU>
- <MUC_TU Loai_tu="xem" Noi_dung="axitx acid.">
+ <MUC_TU Loai_tu="" Noi_dung="axitx acid.">
   <Y_NGHIA Minh_hoa="" Noi_dung="" />
   </MUC_TU>
  <MUC_TU Loai_tu="xem" Noi_dung="a-xít a-min">
@@ -49,14 +49,14 @@
   <Y_NGHIA Minh_hoa="Nói thế nào á cũng không nghe." Noi_dung="(khẩu ngữ). Từ dùng trong đối thoại để chỉ người con gái nào đó với ý coi thường." />
   <Y_NGHIA Minh_hoa="Chị. Tại anh tại dá, tại cả đôi bên (tục ngữ)." Noi_dung="(phương ngữ)." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ả đào danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ả đào">
   <Y_NGHIA Minh_hoa="" Noi_dung="Người phụ nữ làm nghề hát ca trù trong các nhà hát riêng thời trước." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ả đầu danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ả đầu">
   <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Á đào." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ả hoàn danh từ">
-  <Y_NGHIA Minh_hoa="" Noi_dung="(id). Như a hoàn." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ả hoàn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như a hoàn." />
   </MUC_TU>
  <MUC_TU Loai_tu="cảm từ" Noi_dung="á">
   <Y_NGHIA Minh_hoa="Á đau!" Noi_dung="Tiếng thốt ra biểu lộ sự sửng sốt hoặc cảm giác đau đớn đột ngột." />
@@ -64,58 +64,61 @@
  <MUC_TU Loai_tu="cảm từ" Noi_dung="á à">
   <Y_NGHIA Minh_hoa="Áà, thì ra là thể!" Noi_dung="(Kng; thường dùng ở đầu câu). Tiếng thốt ra biểu thị ý ngạc nhiên như mới vỡ lẽ ra điều gì." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á hậu danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á hậu">
   <Y_NGHIA Minh_hoa="" Noi_dung="Người phụ nữ chiếm giải nhì trong một cuộc thi sắc đẹp, sau hoa hậu." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á khôi danh từ 1">
-  <Y_NGHIA Minh_hoa="" Noi_dung="Như ó nguyên. 2 Người con gái chiếm giải nhì trong một cuộc thi người đẹp, sau hoa khôi." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á khôi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như ó nguyên." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người con gái chiếm giải nhì trong một cuộc thi người đẹp, sau hoa khôi." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á kim danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á kim">
   <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Tên gọi chung các đơn chất không phải kim loại; nguyên tố không kim loại." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á nguyên danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á nguyên">
   <Y_NGHIA Minh_hoa="" Noi_dung="Người đỗ thứ hai trong một khoa thi thời phong kiến (thường nói về thi hương)." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á nhiệt đới danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á nhiệt đới">
   <Y_NGHIA Minh_hoa="" Noi_dung="(cũ.). Cận nhiệt đới." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á phiện danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á phiện">
   <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Thuốc phiện." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á quân danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á quân">
   <Y_NGHIA Minh_hoa="Đội á quân kém đội quán quân hai điểm. Chiếm giải á quân." Noi_dung="Đội (hoặc người) đứng thứ hai trong một giải thi đấu thể thao chính thức." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á sừng danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á sừng">
   <Y_NGHIA Minh_hoa="" Noi_dung="Bệnh ngoài da, thường ở lòng bàn tay, lòng bàn chân, có từng đám, ngứa và đau khiến da dày lên." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="á thánh danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="á thánh">
   <Y_NGHIA Minh_hoa="Mạnh Tử được các nhà nho tôn là á thánh." Noi_dung="Danh hiệu người đời tặng cho bậc có vốn hiểu biết rộng, có phẩm chất đạo đức cao, đứng sau bậc thánh trong nho giáo." />
   </MUC_TU>
  <MUC_TU Loai_tu="trợ từ" Noi_dung="ạ">
   <Y_NGHIA Minh_hoa="Anh cũng đi chứ ạ? Chào bác ạ! Thôi, anh ạ, đừng nói nữa." Noi_dung="(dùng ở cuối câu hoặc ở liền sau từ chỉ ngôi thứ hai). Từ biểu thị ý kính trọng hoặc thân mật khi nói chuyện với ai." />
   </MUC_TU>
- <MUC_TU Loai_tu="trợ từ" Noi_dung="aơix.aơi.">
+ <MUC_TU Loai_tu="" Noi_dung="aơix.aơi.">
   <Y_NGHIA Minh_hoa="" Noi_dung="" />
   </MUC_TU>
- <MUC_TU Loai_tu="(phương ngữ)." Noi_dung="ác, danh từ 1">
-  <Y_NGHIA Minh_hoa="Ác tắm thì ráo, sáo tắm thì mưa (tục ngữ). Gửi trứng cho ác*. 2 Miếng gỗ đẽo hình con quạ để mắc dây go trong khung cửi. 3 (cũ; văn chương). Từ dùng để chỉ mặt trời. Thỏ lặn, ác tà." Noi_dung="Quạ." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác,">
+  <Y_NGHIA Minh_hoa="Quạ. Ác tắm thì ráo, sáo tắm thì mưa (tục ngữ). Gửi trứng cho ác*." Noi_dung="(phương ngữ)." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Miếng gỗ đẽo hình con quạ để mắc dây go trong khung cửi." />
+  <Y_NGHIA Minh_hoa="Thỏ lặn, ác tà." Noi_dung="(cũ; văn chương). Từ dùng để chỉ mặt trời." />
   </MUC_TU>
  <MUC_TU Loai_tu="tính từ" Noi_dung="ác;">
   <Y_NGHIA Minh_hoa="K¿ ác. Làm điều ác. Đối xử ác." Noi_dung="(Người hoặc việc) gây hoặc thích gây đau khổ, tai hoạ cho người khác." />
   <Y_NGHIA Minh_hoa="Năm nay rét ác hơn mọi năm. Trận đánh ác." Noi_dung="Có tác dụng gây nhiều tai hại; dữ dội." />
   <Y_NGHIA Minh_hoa="Đạo này cô ta diện ác lắm." Noi_dung="(kng.; thường dùng phụ sau động từ). (Làm việc gì) ở mức độ cao khác thường, gây ấn tượng mạnh." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác bá danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác bá">
   <Y_NGHIA Minh_hoa="" Noi_dung="Địa chủ hoặc cường hào có nhiều tội ác với nông dân." />
   </MUC_TU>
  <MUC_TU Loai_tu="xem" Noi_dung="ác-bít hối đoái">
   <Y_NGHIA Minh_hoa="" Noi_dung="arbit hối đoái." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác cảm danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác cảm">
   <Y_NGHIA Minh_hoa="Có ác cảm. Gây ác cảm." Noi_dung="Cảm giác không ưa thích đối với ai." />
   </MUC_TU>
  <MUC_TU Loai_tu="động từ" Noi_dung="ác chiến">
-  <Y_NGHIA Minh_hoa="Trận ác chiến." Noi_dung="(thường dùng phụ sau danh từ). Chiến đấu ác liệt." />
+  <Y_NGHIA Minh_hoa="Chiến đấu ác liệt. Trận ác chiến." Noi_dung="(thường dùng phụ sau danh từ)." />
   </MUC_TU>
  <MUC_TU Loai_tu="tính từ" Noi_dung="ác độc">
   <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như độc ác." />
@@ -132,7 +135,7 @@
  <MUC_TU Loai_tu="tính từ" Noi_dung="ác khẩu">
   <Y_NGHIA Minh_hoa="" Noi_dung="Hay nói những lời độc địa." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác là danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác là">
   <Y_NGHIA Minh_hoa="" Noi_dung="Chim cỡ vừa, đuôi dài, lông đen, riêng bụng và vai có lông trắng, hay đi kiếm ăn trên ruộng." />
   </MUC_TU>
  <MUC_TU Loai_tu="tính từ" Noi_dung="ác liệt">
@@ -141,16 +144,16 @@
  <MUC_TU Loai_tu="tính từ" Noi_dung="ác miệng">
   <Y_NGHIA Minh_hoa="" Noi_dung="Như ác khẩu." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác mỏ danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác mỏ">
   <Y_NGHIA Minh_hoa="" Noi_dung="Vẹt; thường dùng để ví người cay nghiệt. Quấm quặm như con ác mỏ." />
   </MUC_TU>
- <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="ác mó danh từ">
-  <Y_NGHIA Minh_hoa="" Noi_dung="Ác mỎ." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác mó">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Ác mỎ." />
   </MUC_TU>
- <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="ác mô ni cax. harmontca.">
+ <MUC_TU Loai_tu="" Noi_dung="ác mô ni cax. harmontca.">
   <Y_NGHIA Minh_hoa="" Noi_dung="" />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác mộng danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác mộng">
   <Y_NGHIA Minh_hoa="" Noi_dung="Giấc mơ ghê sợ; thường dùng để ví tai hoạ lớn đã trải qua, nghĩ đến còn thấy rùng rợn. Cơn ác mộng." />
   </MUC_TU>
  <MUC_TU Loai_tu="" Noi_dung="ác">
@@ -159,53 +162,57 @@
  <MUC_TU Loai_tu="tính từ" Noi_dung="ác nghiệt">
   <Y_NGHIA Minh_hoa="" Noi_dung="Dộc ác và cay nghiệt. Sự đối xu ác nghiệt." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác nhân danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác nhân">
   <Y_NGHIA Minh_hoa="Kẻ làm điều ác." Noi_dung="(cũ)." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác ôn I danh từ">
-  <Y_NGHIA Minh_hoa="" Noi_dung="Kẻ tham gia nguy quyền có nhiều tội ác với nhân dân. II tính từ (khẩu ngữ). Có nhiều hành động tàn ác, dã man." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác ôn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kẻ tham gia nguy quyền có nhiều tội ác với nhân dân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ác ôn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Có nhiều hành động tàn ác, dã man." />
   </MUC_TU>
  <MUC_TU Loai_tu="xem" Noi_dung="ác qui">
   <Y_NGHIA Minh_hoa="ác quỷ." Noi_dung="" />
   </MUC_TU>
- <MUC_TU Loai_tu="xem" Noi_dung="ác-quyx. acquy.">
-  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+ <MUC_TU Loai_tu="xem" Noi_dung="ác-quy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="acquy." />
   </MUC_TU>
- <MUC_TU Loai_tu="(ít dùng)." Noi_dung="ác quý danh từ">
-  <Y_NGHIA Minh_hoa="Quỷ dữ." Noi_dung="" />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác quý">
+  <Y_NGHIA Minh_hoa="Quỷ dữ." Noi_dung="(ít dùng)." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác tăng danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác tăng">
   <Y_NGHIA Minh_hoa="" Noi_dung="Kẻ đội lốt nhà sư để làm điều ác." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác tâm danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác tâm">
   <Y_NGHIA Minh_hoa="" Noi_dung="Lòng dạ độc ác." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác tật danh từ">
-  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Chứng bệnh nguy hiểm, khó &quot;ác-ten nông nghiệp&quot; xem artel nông nghiệp. ác thú danh từ Thú dữ lớn có thể làm hại người." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác tật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Chứng bệnh nguy hiểm, khó ác-ten nông nghiệp xem artel nông nghiệp. ác thú danh từ Thú dữ lớn có thể làm hại người." />
   </MUC_TU>
  <MUC_TU Loai_tu="tính từ" Noi_dung="ác tính">
   <Y_NGHIA Minh_hoa="Cơn sốt ác tính. Khối u ác tính (ung thư)." Noi_dung="(Bệnh) có tính chất hiểm nghèo." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác vàng danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác vàng">
   <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; văn chương). Mặt trời." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ác ý danh từ Ÿ định xấu, muốn gây điều không">
-  <Y_NGHIA Minh_hoa="Câu nói đùa có ác ý." Noi_dung="hay cho người khác." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ác ý">
+  <Y_NGHIA Minh_hoa="Câu nói đùa có ác ý." Noi_dung="Ÿ định xấu, muốn gây điều không hay cho người khác." />
   </MUC_TU>
  <MUC_TU Loai_tu="xem" Noi_dung="acbit hối đoái">
   <Y_NGHIA Minh_hoa="arbit hối đoái." Noi_dung="" />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="accordeon cũng viết äccoocđêông. danh từ cũng nói phong">
-  <Y_NGHIA Minh_hoa="cầm, đàn xếp. Đàn gồm một hộp chứa hơi có thể gấp xếp làm co dãn thế tích của hộp khiến cho hơi đi qua hệ thống lưỡi gà phát ra tiếng nhạc." Noi_dung="" />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="accordeon cũng viết äccoocđêông.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="cũng nói phong cầm, đàn xếp. Đàn gồm một hộp chứa hơi có thể gấp xếp làm co dãn thế tích của hộp khiến cho hơi đi qua hệ thống lưỡi gà phát ra tiếng nhạc." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="aceton cũng viết axeton. danh từ lợp chất lỏng không">
-  <Y_NGHIA Minh_hoa="" Noi_dung="màu, dễ bay hơi, dễ cháy, dễ tan trong nước, dùng làm dung môi và đề tổng hợp nhiều chất hữu cơ." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="aceton cũng viết axeton.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="lợp chất lỏng không màu, dễ bay hơi, dễ cháy, dễ tan trong nước, dùng làm dung môi và đề tổng hợp nhiều chất hữu cơ." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="acetylen cũng viết axetilen. danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="acetylen cũng viết axetilen.">
   <Y_NGHIA Minh_hoa="" Noi_dung="Hợp chất khí không màu, dễ gây nổ, khi cháy có ngọn lửa sáng trắng, thường dùng để hàn xì, cắt kim loại." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ách, danh từ 1">
-  <Y_NGHIA Minh_hoa="Ách giữa đàng, quàng uào cố (tục ngữ)." Noi_dung="Đoạn gỗ cong mắc trên vai trâu bò để buộc dây kéo cày, kéo xe. 2 Tai hoạ nặng nể phải gánh chịu. ích nô lộ." />
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ách,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đoạn gỗ cong mắc trên vai trâu bò để buộc dây kéo cày, kéo xe." />
+  <Y_NGHIA Minh_hoa="Ách giữa đàng, quàng uào cố (tục ngữ)." Noi_dung="Tai hoạ nặng nể phải gánh chịu. ích nô lộ." />
   </MUC_TU>
  <MUC_TU Loai_tu="động từ" Noi_dung="ách; I">
   <Y_NGHIA Minh_hoa="Công việc bị ách lại." Noi_dung="Ngừng, dồn ứ lại, không tiếp tục tiến hành được." />
@@ -214,13 +221,13 @@
  <MUC_TU Loai_tu="động từ" Noi_dung="ách tắc">
   <Y_NGHIA Minh_hoa="Lò gang bị ách tắc." Noi_dung="(ít dùng). Tắc, nghẽn, đình trệ." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="ách vận danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ách vận">
   <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Vận xấu, vận không may." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="acid cũng viết axit. danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="acid cũng viết axit.">
   <Y_NGHIA Minh_hoa="" Noi_dung="Hợp chất có thể tác dụng với một base làm sinh ra một chất muối." />
   </MUC_TU>
- <MUC_TU Loai_tu="" Noi_dung="acid acetic cũng viết axit axetic. danh từ">
+ <MUC_TU Loai_tu="danh từ" Noi_dung="acid acetic cũng viết axit axetic.">
   <Y_NGHIA Minh_hoa="" Noi_dung="Acid không màu, thành phần chính của giấm, dùng trong công nghiệp thực phẩm, trong sản xuất được phẩm." />
   </MUC_TU>
  </GOC>

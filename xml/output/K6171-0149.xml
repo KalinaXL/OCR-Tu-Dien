@@ -1,0 +1,176 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ,">
+  <Y_NGHIA Minh_hoa="Đánh cờ. Người cao cờ." Noi_dung="Trò chơi, hai bên đi các quân trên một bàn kẻ ô theo những quy tắc nhất định, để tranh được thua." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ bạc">
+  <Y_NGHIA Minh_hoa="Nạn cờ bạc. Cờ gian bạc lận." Noi_dung="Các trò chơi ăn thua bằng tiền (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ bỏi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cờ tướng dùng những biển gỗ có cán cằm làm quân, cắm trên khoảng đất kẻ ô làm bàn cờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ chân chó">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem cờ chó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ chó">
+  <Y_NGHIA Minh_hoa="Cờ chơi bằng bốn quân bày ở bốn góc một hình vuông khuyết một cạnh và có hai đường chéo, bên nào dồn được quân của đối phương vào thế bí là thắng." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ đuôi nheo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cờ xẻ ra thành hai phần hình tam giác dài, thường dùng để trang trí trong ngày lề." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ gánh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cờ có mười sáu quân bày thành hai phía sấp, ngửa, khi một quân đi lọt được vào giữa hai quân của đối phương thì được lật hai quân ấy, biến thành quân của mình (gọi là gánh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ lô">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Chìa vặn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ lông công">
+  <Y_NGHIA Minh_hoa="Chạy như cờ lông công (kng,; ví việc chạy tất tả, ngược xuôi)." Noi_dung="Cờ hiệu của lính trạm chạy công văn khẩn ngày xưa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ mao">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cờ tượng trưng cho quyên lực của nhà vua thời phong kiến, thường dùng để ban cho khâm sai, sứ thần." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ người">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cờ tướng dùng người mặc sắc phục khác nhau làm quân, đi trên khoảng đất kẻ ô làm bàn cờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ quạt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Các thứ như cờ, quạt, v.v. dùng để đón rước theo nghỉ lễ thời phong kiến (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ trắng">
+  <Y_NGHIA Minh_hoa="Địch kéo cờ trắng xin hàng." Noi_dung="Cờ màu trắng, dùng để báo hiệu sự đầu hàng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ tướng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cờ có ba mươi hai quân (gồm có tướng, sĩ, tượng, xe, pháo, mã, tốt), mỗi loại quân có một cách đi riêng, bên nào ăn được tướng của bên kia là thắng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ vây">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cờ có ba trăm quân, khi chơi đặt từng quân một để vây nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ vua">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Môn thể thao bắt nguồn từ Ấn Độ, mỗi bên có 16 quân, lần lượt đi quân nhằm tấn công đưa vua của đối phương vào thế không được bảo vệ, để giành phần thắng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cờ xí">
+  <Y_NGHIA Minh_hoa="Cờ xí rợp đường." Noi_dung="Các thứ cờ bằng vải thường dùng trong các dịp lễ lớn (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cỡ">
+  <Y_NGHIA Minh_hoa="Quần áo đủ các cỡ. Một người bằng cỡ tuổi anh. Nhà uăn cỡ lớn." Noi_dung="Loại, phân theo lớn nhỏ." />
+  <Y_NGHIA Minh_hoa="7o quá cỡ. Lên dây cót hết cỡ." Noi_dung="Độ lớn, mức thông thường, theo ước định." />
+  <Y_NGHIA Minh_hoa="Lấy gang tay làm cỡ để đo." Noi_dung="Khoảng cách dùng làm chuẩn; cữ." />
+  <Y_NGHIA Minh_hoa="Độ, chừng. Số người đến họp cỡ trên một trăm. Còn cỡ ba cây số nữa thì tới." Noi_dung="(kng, hoặc ph.; dùng trước danh từ số lượng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cớ">
+  <Y_NGHIA Minh_hoa="Lấy cớ bận để uê trước. Viện hết cớ này đến cớ khác." Noi_dung="Lí do trực tiếp của việc làm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="cớ sao">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vì lí do gì; tại sao." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơi,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây nhỡ vỏ màu nâu đen, lá kép lông chim, lá và vỏ có thể dùng làm thuốc hoặc để nhuộm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơi,">
+  <Y_NGHIA Minh_hoa="Chén nước, cơi trầu." Noi_dung="Đỏ dùng để đựng trầu cau, đáy cạn và thường có nắp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cơi,">
+  <Y_NGHIA Minh_hoa="Cơi bờ đề." Noi_dung="Đắp hoặc xây cho cao thêm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cơi nới">
+  <Y_NGHIA Minh_hoa="Cơi rới thêm gian bếp. Lấn chiếm đất lưu không để cơi nới nhà cửa." Noi_dung="Can thêm, nới rộng thêm chút ít diện tích nhà cửa (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cời,">
+  <Y_NGHIA Minh_hoa="Cời củ sắn nướng. Que cời (dùng đề cời tro, than)." Noi_dung="Dùng que gạt vật vụn (thường là tro, than) ra để khơi thông hoặc để kéo lấy cái nằm bên trong. Cời than cho cháy to." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cời,">
+  <Y_NGHIA Minh_hoa="Lúa ít bông cời. Thóc cời." Noi_dung="(Thóc, lúa) có nhiều hạt lép, xấu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cời,">
+  <Y_NGHIA Minh_hoa="Nón cời, tơi rách." Noi_dung="(ít dùng). (Nón) rách xơ ra ở vành." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cởi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Gỡ, tháo chỗ buộc ra. Cới mối lạt Cởi nút." />
+  <Y_NGHIA Minh_hoa="Cới giày. Cởi balô. Yêu nhau cởi áo cho nhau... (ca dao). Cởi trân." Noi_dung="Tháo, bỏ ra khỏi người cái đang mang, đang mặc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cởi mở">
+  <Y_NGHIA Minh_hoa="Cởi mở nỗi lòng cho nhau. Tâm tình đã được cởi mở." Noi_dung="Bày tỏ tâm tình một cách dễ dàng và hồn nhiên." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hoặc t)). Dễ dàng để cho người khác hiểu biết tâm" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Tính tình cởi mở. Trò chuyện rất cởi mở. Sống cởi mở với mọi người." Noi_dung="tình của mình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cỡi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Cươỡi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơlê">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Chìa vặn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="cơm">
+  <Y_NGHIA Minh_hoa="Thổi cơm. Nhường cơm sẽ áo*. Đổi bát mồ hôi lấy bát cơm." Noi_dung="danh từ Gạo nấu chín, ráo nước, dùng làm món chính trong bữa ăn hằng ngày." />
+  <Y_NGHIA Minh_hoa="Làm cơm thết khách. II danh từ Cùi của một số quả cây. Quả uái dày cơm. lI\ tính từ (kết hợp hạn chế). (Thứ quả) có vị nhạt, không chua hoặc chỉ hơi ngọt. Cam cơm. Khế cơm”." Noi_dung="Những thức làm thành một bữa ăn (nói tổng quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơm áo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cơm ăn, áo mặc, những thứ cần thiết nhất cho đời sống vật chất (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="cơm áo gạo tiền">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Những thứ tối cần thiết cho đời sống vật chất hằng ngày (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơm bụi">
+  <Y_NGHIA Minh_hoa="Ăn cơm bụi, ngủ uta hệ." Noi_dung="(khẩu ngữ). Cơm bình dân, thường bán trong hàng quán nhỏ, tạm bợ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơm bữa">
+  <Y_NGHIA Minh_hoa="Cửa hàng bán cơm bữa. Cãi nhau như cơm bữa. Chuyện cơm bữa (chuyện thường xảy ra, không có gì lạ)." Noi_dung="Cơm ăn mỗi bữa hằng ngày." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơm cháo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cái ăn thường ngày, như cơm, cháo, v.v. (nói khái quát). 1o thuốc thang, cơm cháo cho người ốm. Cơm cháo gì chưa? (kng,; ăn uống gì chưa?." />
+  <Y_NGHIA Minh_hoa="Chẳng làm nên cơm cháo gì. cơm chim danh từ (ít dùng). Cơm rất ít ỏi (tựa như để cho chim); thường dùng để ví cái cần thiết để nuôi sống mà ít ỏi, không đáng là bao. Cướp cơm chim của người nghềo." Noi_dung="(kng; dùng trong câu có ý phủ định). Kết quả việc làm; trò trống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơm đen">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Thuốc phiện (hàm ý hài hước)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="cơm hàng cháo chợ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tả cảnh sống tạm bợ, không có nơi ăn ở cố định." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="cơm lam d.x. lam.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="cơm niêu nước lọ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tả cảnh sống ăn ở một mình, lẻ loi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơm nước">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cái ăn, cái uống thường ngày (nói khái quát). Lo cơm nước. Cơm nước xong (ăn uống xong)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơm thừa canh cặn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đồ ăn thừa (nói khái quát); dùng để ví những lợi ích vật chất đê tiện mà kẻ làm tay sai được hưởng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cớm,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thông tục). Mật thám." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cớm,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Cây cối) thiếu ánh mặt trời, không phát triển tốt được. Cây bị cớm." />
+  <Y_NGHIA Minh_hoa="Khoảnh ruộng cớm nắng. l" Noi_dung="(Đất trồng) bị bóng râm, làm cho cây trồng bị cớm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơn">
+  <Y_NGHIA Minh_hoa="Ma rả rích không thành cơn. Cơn bão. Cơn sốt. Cơn giận." Noi_dung="Quá trình diễn ra của một hiện tượng tự nhiên hoặc hiện tượng sinh lí, tâm lí thường không có lợi cho con người, tăng lên rồi giảm xuống và kết thúc trong khoảng thời gian tương đối ngắn." />
+  <Y_NGHIA Minh_hoa="Cơn hoạn nạn." Noi_dung="Khoảng thời gian tương đối ngắn của cuộc sống trong đó sự việc không may đang diễn ra." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơn cớ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(id.; thường dùng trước gì, chi trong câu nghi vấn). Nguyên nhân, lí do trực tiếp của sự việc (nói khái quát). Không hiểu vì cơn cớ gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cơn sốt">
+  <Y_NGHIA Minh_hoa="Các cơn sốt kinh tế." Noi_dung="(khẩu ngữ). Quá trình tăng mạnh một cách đột biến, nhất thời về giá cả hoặc nhu cầu nào đó trong xã hội. Điều chỉnh giá làm giảm cơn sốt của thị trường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cỡn">
+  <Y_NGHIA Minh_hoa="Dê nhảy cỡn. Động cốn*." Noi_dung="(kết hợp hạn chế). Trạng thái sinh lí bị kích thích mạnh ở loài thú khi có sự đòi hỏi về tính dục, biểu hiện bằng những động tác không bình thường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cợp">
+  <Y_NGHIA Minh_hoa="Tóc cợp đến mang tai." Noi_dung="(hay động từ). (khẩu ngữ). (Tóc) rậm và xù." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cớt nhả">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(¡d.). Cợt nhả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cợt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(văn chương). Đùa trêu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cợt nhả">
+  <Y_NGHIA Minh_hoa="Buông lời cợt nhả. Cợt nhả với phụ nữ." Noi_dung="Đùa trêu quá số sàng, không đứng đắn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="CPU ixê-pê-u]">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(tiếng Anh Central Processing Unit, &quot;đơn vị xử lí trung tâm&quot;, viết tắt). danh từ Bộ phận máy tính thực hiện các thao tác" />
+  </MUC_TU>
+ </GOC>

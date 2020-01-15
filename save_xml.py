@@ -4,10 +4,14 @@ import numpy as np
 from tesserocr import PyTessBaseAPI, PSM, OEM
 from PIL import Image
 import pickle
+from imutils import paths
 import pytesseract
 from skimage import feature, measure
 import argparse
+import time
 import os
+import warnings
+warnings.filterwarnings("ignore")
 
 def bold_text(image):
     img = cv.erode(image, np.ones((7,7)), 2)
@@ -161,7 +165,7 @@ def split_word(image):
     return img_ls
 def split_character(word):
     h, w = word.shape
-    labels = measure.label(word, neighbors = 8, background = 0)
+    labels = measure.label(word, background = 0, connectivity = 2)  # neighbors = 8)
     c = word
     min_x = w
     for label in np.unique(labels):
@@ -205,17 +209,24 @@ def generate_type_word(d):
         dt['(' + i] = "(" + d[i] 
         dt['(' + i + ')'] = '(' + d[i] + ')'
         dt['(' + i + ').'] = '(' + d[i] + ').'
+        dt[i[:-1] + ')'] = d[i] + ")"
+        dt[i[:-1] + ').'] = d[i] + ")."
+        dt['(' + i[:-1]] = "(" + d[i] 
+        dt['(' + i[:-1] + ')'] = '(' + d[i] + ')'
+        dt['(' + i[:-1] + ').'] = '(' + d[i] + ').'
         dt[i] = d[i]
     return dt
 def typeofword(text, d):
-    dt = {"""'cv.': 'cũng viết', 'cn.': 'cũng nói',""" 'd.': 'danh từ', 't.': 'tính từ', 'tr.': 'trợ từ', 'đ.': 'đại từ', 'x.':'xem', 
+    dt = {'d.': 'danh từ', 't.': 'tính từ', 'tr.': 'trợ từ', 'đ.': 'đại từ', 'x.':'xem', 
          'đg.': 'động từ','p.':'phụ từ', 'đp.': 'động từ', 'đợ.': 'động từ', 'đẹ.': 'động từ', 'c.': 'cảm từ', 'k.': 'kết từ'}
     words = text.split()
     size = len(words)
     for i in range(size):
         if words[i] in dt:
-            return ([d.get(i,i) for i in words[:i]], dt[words[i]], [d.get(i,i) for i in words[i + 1:]])
-    return ([d.get(i, i) for i in words], )
+            # return ([d.get(i,i) for i in words[:i]], dt[words[i]], [d.get(i,i) for i in words[i + 1:]])
+    # return ([d.get(i, i) for i in words], )
+            return (words[:i], words[i], words[i + 1 :])
+    return (words, )
         
 def isEndOfDefine(text,img):
     x, y = np.where(img)
@@ -242,7 +253,7 @@ def format_xml(tree, level = 0):
         if level and not (tree.tail and tree.tail.strip()):
             tree.tail = i
 
-def split_by_meaning(ls, is_has_digit = True):
+def split_by_meaning(d, ls, is_has_digit = True):
     if not ls:
         return [('','')]
     n_tmp = []
@@ -257,7 +268,7 @@ def split_by_meaning(ls, is_has_digit = True):
             else:
                 n_tmp.append((item[0], item[1]))
         for item in s:
-            rs.append(split_by_meaning(item, False)[0])
+            rs.append(split_by_meaning(d, item, False)[0])
         return rs
     else:
         i_tmp = []
@@ -278,7 +289,21 @@ def split_by_meaning(ls, is_has_digit = True):
                 n_tmp.append(item[0])
         # else:
         #     n_tmp.append(ls[-1][0])
+        n_tmp = [d.get(i, i) for i in n_tmp]
+        i_tmp = [d.get(i, i) for i in i_tmp]
         return [(' '.join(n_tmp), ' '.join(i_tmp))]
+def split_by_type_word(ls):
+    size, idx, count = len(ls), [], 1
+    for i in range(size):
+        if ls[i][0] == 'I' * count:
+            idx.append(i)
+            count += 1
+    size_i, s = len(idx), []
+    for i in range(size_i - 1):
+        temp = ls[idx[i] + 1 : idx[i + 1]]
+        s.append(temp)
+    s.append(ls[idx[-1] + 1:])
+    return ls[:idx[0]], s
 def save_xml(tree, noi_dung_list, loai_tu_list, y_nghia_list):
     size = len(noi_dung_list)
     for i in range(size):
@@ -289,12 +314,16 @@ def save_xml(tree, noi_dung_list, loai_tu_list, y_nghia_list):
             ynghia = ET.SubElement(muctu, 'Y_NGHIA')
             ynghia.set('Noi_dung', item[0])
             ynghia.set('Minh_hoa', item[1])
-def is_many_meanings(ls):
+def is_many_meanings(ls, isHomophoneWord = True):
     flag_1, flag_2 = False, False
+    if isHomophoneWord:
+        pt_1, pt_2 = 'I', 'II'
+    else:
+        pt_1, pt_2 = '1', '2'
     for l in ls:
-        if l[0] == '1':
+        if l[0] == pt_1:
             flag_1 = True
-        elif l[0] == '2':
+        elif l[0] == pt_2:
             flag_2 = True
         if flag_1 & flag_2:
             return True
@@ -310,9 +339,14 @@ def find_text_region(rois):
     return rois[id - 1], rois[id]
 
 def readjust_italic_text(ls):
-    print(ls)
+    # print(ls)
     size = len(ls)
-    for i in range(size - 2):
+    idx = 0
+    # for l in ls:
+    #     idx += 1
+    #     if l[1] == 2:
+    #         break
+    for i in range(idx, size - 2):
         if ls[i][1] == 2 and ls[i + 1][1] != 2 and ls[i + 2][1] == 2:
             ls[i + 1][1] = 2
     if len(ls) > 3:
@@ -325,29 +359,39 @@ def readjust_italic_text(ls):
     #         if ls[i - 3][0][-1] == '.' and ls[i - 2][0][0].isupper():
     #             ls[i - 2][1] = ls[i - 1][1] = 2
 
-    for i in range(size - 3, 0, -1):
+    for i in range(size - 3, idx, -1):
         if ls[i][1] == 0 and ls[i + 1][1] == 2 and ls[i + 2][1] == 2:
             if ls[i - 1][0][-1] == '.' and ls[i][0][0].isupper():
                 ls[i][1] = 2
+        if i > 1 and ls[i + 1][1] == 2 and ls[i + 2][1] == 2 and ls[i - 1][0][0].isupper() and ls[i - 2][0][-1] == '.':
+            ls[i - 1][1] = ls[i][1] = 2
         if i < size - 3 and ls[i][1] == 2 and ls[i + 3][1] == 2:
             if ls[i + 1][1] == 2:
                 ls[i + 2][1] = 2
             elif ls[i + 2][1] == 2:
                 ls[i + 1][1] = 2
-    for i in range(size - 1):
+    for i in range(idx, size - 1):
         if ls[i + 1][1] == 2 and ls[i][0][-1] == '.' and ls[i + 1][0][0].isupper():
             break
-        ls[i + 1][1] = 0
-    print(ls)
+        if ls[i + 1][1] == 2:
+            ls[i + 1][1] = 0
+    # print(ls)
+def isOtherMeaning(s, d):
+    if s in d:
+        return True
+    return False
 def parseargument():
     ap = argparse.ArgumentParser()
-    ap.add_argument('-i', '--image', required = True, type = str, help = 'path to image')
+    ap.add_argument('-s', '--source', required = True, type = str, help = 'path to source of (an) image(s)')
     args = vars(ap.parse_args())
     return args
 
-def parseimage(img_path, d, clf, sc):
+def parseimage(img_path, d, d_fn, clf, sc):
     d_values = list(d.values())
-
+    d_keys = list(d.keys())
+    d_om = {'cv.':'cũng viết', 'cn.':'cũng nói'}
+    d_t_om = generate_type_word(d_om)
+    d_om = list(d_t_om.keys())
     img = cv.imread(img_path)
     img = cv.imread(img_path)
     thresh = preprocessing(img)
@@ -388,6 +432,8 @@ def parseimage(img_path, d, clf, sc):
                     text = api.GetUTF8Text().strip()
                     if not text:
                         continue
+                    if text[0] == '"':
+                        text = text.replace('"', ' ', 2)
                     tus = split_word(row)
                     for tu in tus:
                         c = split_character(tu)
@@ -398,12 +444,15 @@ def parseimage(img_path, d, clf, sc):
                     if flag and not num and alpha.shape[0] < 300:
                         if len(ls_words) == 1:
                             n_o = int(img_path.split(os.path.sep)[-1].split('.')[0].split('-')[-1])
-                            # path_o = 'output/K6171-{:04}.docx'.format(n_o - 1)
+                            # path_o = os.path.join('xml','output','K6171-{:04}.xml'.format(n_o - 1))
                             path_o = ''
                             if os.path.exists(path_o):
                                 if not isSaveO:
+                                    root_o = ET.parse(path_o).getroot()
+                                    last_child_o = root_o[-1][-1] 
                                     isSaveO = True
                                 for item in ls_words[0]:
+                                    last_child_o['Noi_dung'] += ' '.join(ls_words[0])
                                     pass
                                     # try:
                                     #     p_o.add_run('{} '.format(int(item))).bold = True
@@ -417,36 +466,56 @@ def parseimage(img_path, d, clf, sc):
                                 num = isEndOfDefine(text, row)
                                 continue
                     if isSaveO:
-                        d_o.save(path_o)
+                        # d_o.save(path_o)
+                        tree_o = ET.ElementTree(root_o)
+                        tree_o.write(path_o, encoding = 'utf-8')
                         isSaveO = False
                     flag = False
                     if num or first:
                         if first and i_page == 1 and new_page:
                             if num:
                                 if ls:
-                                    # print(ls)
-                                    i, size = 0, len(ls)
-                                    content_t = ''
-                                    while i < size and ls[i][1] == 1:
-                                        content_t += '{} '.format(ls[i][0])
-                                        i += 1
-                                    content_t = content_t.strip().replace('"','')
-                                    if i < size:
-                                        if ls[i][0] in d_values:
-                                            typeword_t = ls[i][0]
-                                            ls = ls[i + 1 :]
-                                            size -= i + 1
+                                    if not is_many_meanings(ls):
+                                        i, size = 0, len(ls)
+                                        content_t = ''
+                                        while i < size and ls[i][1] == 1 and not ls[i][0].isdigit():
+                                            content_t += '{} '.format(d_t_om.get(ls[i][0], ls[i][0]))
+                                            i += 1
+                                        content_t = content_t.strip()#.replace('"','')
+                                        typeword_t = ''
+                                        if i < size:
+                                            if ls[i][0] in d_keys:
+                                                typeword_t = d_fn.get(ls[i][0], ls[i][0])
+                                                typeword_t = d.get(typeword_t, typeword_t)
+                                                ls = ls[i + 1 :]
+                                                size -= i + 1
+                                            else:
+                                                ls = ls[i : ]
+                                                size -= i
                                         else:
-                                            typeword_t = ""
-                                            ls = ls[i : ]
-                                            size -= i
+                                            ls = []
+                                        readjust_italic_text(ls)
+                                        meanings = split_by_meaning(d, ls, is_many_meanings(ls, False))
+                                        ls_content.append(content_t)
+                                        ls_typeword.append(typeword_t)
+                                        ls_meaning.append(meanings)
                                     else:
-                                        ls = []
-                                    readjust_italic_text(ls)
-                                    meanings = split_by_meaning(ls, is_many_meanings(ls))
-                                    ls_content.append(content_t)
-                                    ls_typeword.append(typeword_t)
-                                    ls_meaning.append(meanings)
+                                        content, ls_w = split_by_type_word(ls)
+                                        content_t = ''
+                                        for c in content:
+                                            content_t += '{} '.format(d_t_om.get(c[0], c[0]))
+                                        content_t = content_t.strip()#.replace('"','')
+                                        for s in ls_w:
+                                            typeword_t = ''
+                                            if s[0][0] in d_keys:
+                                                typeword_t = d_fn.get(s[0][0],s[0][0])
+                                                typeword_t = d.get(typeword_t, typeword_t)
+                                                s.pop(0)
+                                            readjust_italic_text(s)
+                                            meanings = split_by_meaning(d, s, is_many_meanings(s, False))
+                                            ls_content.append(content_t)
+                                            ls_typeword.append(typeword_t)
+                                            ls_meaning.append(meanings)
                                     ls = []
                                 new_page = False
                             else:
@@ -467,28 +536,49 @@ def parseimage(img_path, d, clf, sc):
                                 continue
                         if ls:
                             # print(ls)
-                            i, size = 0, len(ls)
-                            content_t = ''
-                            while i < size and ls[i][1] == 1:
-                                content_t += '{} '.format(ls[i][0])
-                                i += 1
-                            content_t = content_t.strip().replace('"','')
-                            if i < size:
-                                if ls[i][0] in d_values:
-                                    typeword_t = ls[i][0]
-                                    ls = ls[i + 1 :]
-                                    size -= i + 1
+                            if not is_many_meanings(ls):
+                                i, size = 0, len(ls)
+                                content_t = ''
+                                while i < size and ls[i][1] == 1 and not ls[i][0].isdigit():
+                                    content_t += '{} '.format(d_t_om.get(ls[i][0], ls[i][0]))
+                                    i += 1
+                                content_t = content_t.strip()#.replace('"','')
+                                typeword_t = ''
+                                if i < size:
+                                    if ls[i][0] in d_keys:
+                                        typeword_t = d_fn.get(ls[i][0], ls[i][0])
+                                        typeword_t = d.get(typeword_t, typeword_t)
+                                        ls = ls[i + 1 :]
+                                        size -= i + 1
+                                    else:
+                                        ls = ls[i : ]
+                                        size -= i
                                 else:
-                                    typeword_t = ""
-                                    ls = ls[i : ]
-                                    size -= i
+                                    ls = []
+                                # print('Before: {}'.format(ls))
+                                readjust_italic_text(ls)
+                                # print('After: {}'.format(ls))
+                                meanings = split_by_meaning(d, ls, is_many_meanings(ls, False))
+                                ls_content.append(content_t)
+                                ls_typeword.append(typeword_t)
+                                ls_meaning.append(meanings)
                             else:
-                                ls = []
-                            readjust_italic_text(ls)
-                            meanings = split_by_meaning(ls, is_many_meanings(ls))
-                            ls_content.append(content_t)
-                            ls_typeword.append(typeword_t)
-                            ls_meaning.append(meanings)
+                                content, ls_w = split_by_type_word(ls)
+                                content_t = ''
+                                for c in content:
+                                    content_t += '{} '.format(d_t_om.get(c[0], c[0]))
+                                content_t = content_t.strip().replace('"','')
+                                for s in ls_w:
+                                    typeword_t = ''
+                                    if s[0][0] in d_keys:
+                                        typeword_t = d_fn.get(s[0][0],s[0][0])
+                                        typeword_t = d.get(typeword_t, typeword_t)
+                                        s.pop(0)
+                                    readjust_italic_text(s)
+                                    meanings = split_by_meaning(d, s, is_many_meanings(s, False))
+                                    ls_content.append(content_t)
+                                    ls_typeword.append(typeword_t)
+                                    ls_meaning.append(meanings)
                         ls = []
                         if len(ls_words) > 1:
                             for b_word in ls_words[0]:
@@ -527,10 +617,6 @@ def parseimage(img_path, d, clf, sc):
                         try:
                             if int(item) < 20:
                                 ls.append([item, 1])
-                            elif len(l_i) and l_i[0] == 1:
-                                ls.append([item, 2])
-                            else:
-                                ls.append([item, 0])
                         except:
                             if len(l_i) and l_i[0] == 1:
                                 ls.append([item, 2])
@@ -541,32 +627,55 @@ def parseimage(img_path, d, clf, sc):
                     num = isEndOfDefine(text, row)
                     first = False
             if ls:
-                # print(ls)
-                i, size = 0, len(ls)
-                content_t = ''
-                while i < size and ls[i][1] == 1:
-                    content_t += '{} '.format(ls[i][0])
-                    i += 1
-                content_t = content_t.strip()
-                if i < size:
-                    if ls[i][0] in d_values:
-                        typeword_t = ls[i][0]
-                        ls = ls[i + 1 :]
-                        size -= i + 1
+                if not is_many_meanings(ls):
+                    i, size = 0, len(ls)
+                    content_t = ''
+                    while i < size and ls[i][1] == 1 and not ls[i][0].isdigit():
+                        content_t += '{} '.format(d_t_om.get(ls[i][0], ls[i][0]))
+                        i += 1
+                    content_t = content_t.strip()#.replace('"','')
+                    typeword_t = ''
+                    if i < size:
+                        if ls[i][0] in d_keys:
+                            typeword_t = d_fn.get(ls[i][0], ls[i][0])
+                            typeword_t = d.get(typeword_t, typeword_t)
+                            ls = ls[i + 1 :]
+                            size -= i + 1
+                        else:
+                            ls = ls[i : ]
+                            size -= i
                     else:
-                        typeword_t = ""
-                        ls = ls[i : ]
-                        size -= i
+                        ls = []
+                    # print(ls)
+                    readjust_italic_text(ls)
+                    meanings = split_by_meaning(d, ls, is_many_meanings(ls, False))
+                    ls_content.append(content_t)
+                    ls_typeword.append(typeword_t)
+                    ls_meaning.append(meanings)
                 else:
-                    ls = []
-                readjust_italic_text(ls)
-                meanings = split_by_meaning(ls, is_many_meanings(ls))
-                ls_content.append(content_t)
-                ls_typeword.append(typeword_t)
-                ls_meaning.append(meanings)
+                    content, ls_w = split_by_type_word(ls)
+                    content_t = ''
+                    for c in content:
+                        content_t += '{} '.format(d_t_om.get(c[0], c[0]))
+                    content_t = content_t.strip().replace('"','')
+                    for s in ls_w:
+                        typeword_t = ''
+                        if s[0][0] in d_keys:
+                            typeword_t = d_fn.get(s[0][0],s[0][0])
+                            typeword_t = d.get(typeword_t, typeword_t)
+                            s.pop(0)
+                        readjust_italic_text(s)
+                        meanings = split_by_meaning(d, s, is_many_meanings(s, False))
+                        ls_content.append(content_t)
+                        ls_typeword.append(typeword_t)
+                        ls_meaning.append(meanings)
                 ls = []
             i_page += 1    
     return ls_content, ls_typeword, ls_meaning
+
+def is_img_handled(img_path):
+    pre_img = img_path.split(os.path.sep)[-1].split('.')[0]
+    return pre_img >= 'K6171-0012' and pre_img <='K6171-0753'
 
 def main(args):
     
@@ -575,16 +684,41 @@ def main(args):
         'cv.': 'cũng viết', 'cn.': 'cũng nói', 'd.': 'danh từ', 't.': 'tính từ', 'tr.': 'trợ từ', 'đ.': 'đại từ', 'x.':'xem', 
         'đg.': 'động từ','p.':'phụ từ', 'đp.': 'động từ', 'đợ.': 'động từ', 'đẹ.': 'động từ'}
     d = generate_type_word(d)
+    d_fn = {'đợ.': 'đg.', 'đẹ.':'đg.'}
+    d_fn = generate_type_word(d_fn)
     clf, sc = load_model()
-    img_path = args['image']
-
-    ls_content, ls_typeword, ls_meaning = parseimage(img_path, d, clf, sc)
-
-    root = ET.Element('GOC')
-    save_xml(root, ls_content, ls_typeword, ls_meaning)
-    format_xml(root)
-    tree = ET.ElementTree(root)
-    output_path = os.path.join('xml', 'output', img_path.split(os.path.sep)[-1].split('.')[0] + '.xml')
-    tree.write(output_path, encoding = 'utf-8')
+    source = args['source']
+    print('[INFO] Starting ...')
+    count = 0
+    ls_output = os.listdir(os.path.join('xml', 'output'))
+    if source.endswith(".jpg") or source.endswith(".png"):
+        img_paths = [source]
+    else:
+        img_paths = list(paths.list_images(source))
+        img_paths = filter(lambda path: is_img_handled(path), img_paths)
+        img_paths = sorted(img_paths)
+    for img_path in img_paths:
+        start = time.time()
+        count += 1
+        try:
+            img_name = img_path.split(os.path.sep)[-1]
+            output_path = os.path.join('xml', 'output', img_name.split('.')[0] + '.xml')
+            if '{}.xml'.format(img_name.split('.')[0]) in ls_output:
+                end = time.time()
+                print('[INFO] Existed {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
+                continue
+            ls_content, ls_typeword, ls_meaning = parseimage(img_path, d, d_fn, clf, sc)
+            root = ET.Element('GOC')
+            save_xml(root, ls_content, ls_typeword, ls_meaning)
+            format_xml(root)
+            tree = ET.ElementTree(root)
+            # output_path = "test_{}.xml".format(img_path.split(os.path.sep)[-1].split('.')[0])
+            tree.write(output_path, encoding = 'utf-8')
+            end = time.time()
+            print('[INFO] Processed {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
+        except:
+            end = time.time()
+            print('[INFO] Error !!! {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
+    print('[INFO] Finished.')
 if __name__ == "__main__":
     main(parseargument())

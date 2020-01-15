@@ -1,0 +1,159 @@
+<GOC>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cực tiểu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhỏ nhất, xét tương đối trong một khoảng nào đó. Giá trị cực tiểu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cực tiểu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trị số cực tiểu của một hàm số." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cực trị">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cực đại hoặc cực tiểu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cực từ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Một trong hai đầu của một nam châm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cửi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Dệt vải hoặc lụa theo lối thủ công. Cửi bái." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cưng">
+  <Y_NGHIA Minh_hoa="Mẹ cưng nó lắm. Đứa con cưng." Noi_dung="Chiểu chuộng, nâng niu, chăm sóc từng li từng tí do hết sức yêu quý." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cưng chiều">
+  <Y_NGHIA Minh_hoa="Được cha mẹ cưng chiều từ nhỏ. Quá cưng chiều con cái." Noi_dung="Chiều chuộng, chăm sóc hết lòng do yêu thương (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng">
+  <Y_NGHIA Minh_hoa="Cứng như thép. Thanh LŨ cứng quá, không uốn cong được." Noi_dung="Có khả năng chịu đựng tác dụng của lực cơ học mà không bị biến dạng." />
+  <Y_NGHIA Minh_hoa="Lúa đã cứng cây. Có cứng mới đứng đầu gió (tng,). Lí lẽ rất cứng." Noi_dung="Có khả năng chịu tác động bất lợi từ bên ngoài mà vẫn giữ nguyên trạng thái, tính chất, không yếu đi." />
+  <Y_NGHIA Minh_hoa="Học lực loại cứng. Một cân hai lạng cứng." Noi_dung="(khẩu ngữ). Có được trình độ, mức độ mà yêu cầu dù cao cũng vẫn đáp ứng được." />
+  <Y_NGHIA Minh_hoa="vào tình trạng mất khả năng biến dạng, cử động, vận động. Quai hàm cứng lại, không nói được. Chân tay tê cứng. Buộc chặt cứng. Chịu cứng, không cãi uào đâu được." Noi_dung="(thường dùng phụ sau t., động từ). ở" />
+  <Y_NGHIA Minh_hoa="tác còn cứng. Chân tay cứng như que củi (kng))." Noi_dung="Thiếu sự mềm mại trong cử động, động tác. Động" />
+  <Y_NGHIA Minh_hoa="Cách giải quyết hơi cứng. Thái độ cứng quá." Noi_dung="Thiếu sự linh hoạt trong cách đối xử, ứng phó, chỉ biết một mực theo nguyên tắc, không thay đổi cho phù hợp với yêu cầu khách quan." />
+  <Y_NGHIA Minh_hoa="mắm cứng." Noi_dung="(Thức ăn) có chất mặn quá yêu cầu của khẩu vị, không dịu. Nước" />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(chuyên môn). (Nước) có chứa tương đối nhiều muối calcium và magnesium, giặt với xà phòng ra Ít bọt, đun sôi sinh nhiều cặn trong đáy ấm." />
+  <Y_NGHIA Minh_hoa="Rắn. Cứng như đá." Noi_dung="(phương ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng cáp">
+  <Y_NGHIA Minh_hoa="Đứa trẻ cứng cáp. Được chăm bón, cây lúa đã cứng cáp. Nét chữ cứng cáp (bóng (nghĩa bóng))." Noi_dung="Có khả năng chịu những tác động bất lợi từ bên ngoài mà vẫn giữ nguyên trạng thái, tính chất, vì đã trở nên khoẻ và chắc, không còn yếu ớt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="cứng cát">
+  <Y_NGHIA Minh_hoa="cứng cáp." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng cỏi">
+  <Y_NGHIA Minh_hoa="Trả lời cứng cỏi. Thái độ cứng cỏi." Noi_dung="Không vì yếu mà chịu khuất phục, thay đổi thái độ của mình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng còng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Cứng đến mức thiếu hẳn sự mềm mại trong các cử động, các đường nét; cứng quèo. Bộ đi cứng còng. Nét chữ cứng còng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng cổ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Tỏ ra không dễ tuân theo người mà mình phải phục tùng, thường hay làm trái lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng cựa">
+  <Y_NGHIA Minh_hoa="Tay ấy cứng cựa lắm." Noi_dung="(khẩu ngữ). Tỏ ra không chịu ở thế lép, không vì yếu thế mà thôi chống chọi lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng đầu">
+  <Y_NGHIA Minh_hoa="Đứa bé cứng đều." Noi_dung="(khẩu ngữ). Không dễ từ bỏ ý kiến riêng của mình để nghe theo người mà mình phải phục tùng; bướng bỉnh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng đầu cứng cổ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Như cứng cổ (nhưng nghĩa mạnh hơn)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng đờ">
+  <Y_NGHIA Minh_hoa="Lạnh quá, tay chân cứng đờ. Cứng đờ như khúc gỗ." Noi_dung="Cứng lại và thẳng ra, mất hết khả năng cử động." />
+  <Y_NGHIA Minh_hoa="nhắc (nhưng nghĩa mạnh hơn). Dáng đi cứng đờ. Làm uiệc theo những nguyên tắc cứng đờ." Noi_dung="Như cứng" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng họng">
+  <Y_NGHIA Minh_hoa="Chứng cớ rành rành, phải cứng họng." Noi_dung="(nghĩa). Ở trong tình thế đành chịu im, không cãi vào đâu được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng lưỡi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Như cứng họng (hàm ý khinh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng miệng">
+  <Y_NGHIA Minh_hoa="Cứng ngắc, cắn không được." Noi_dung="(kng.; ít dùng). Như cứng họng. cứng ngắc tính từ Cứng quá, rắn quá, tựa như không làm sao cho vỡ ra được (hàm ý chê)." />
+  <Y_NGHIA Minh_hoa="Người cứng ngắc như cây gô." Noi_dung="Thiếu sự mềm mại trong các cử động; cứng nhắc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng nhắc">
+  <Y_NGHIA Minh_hoa="Dáng đi cứng nhắc. Tay chân" Noi_dung="† Thiếu sự mềm mại trong các cử động." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="cứng nhắc. 2 Thiếu linh hoạt, không biết tuỳ điều kiện cụ thể khác nhau mà thay đổi cho phù hợp. Nguyên tắc cứng nhắc. áp dụng cứng nhắc những điều đã học được." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng quòo">
+  <Y_NGHIA Minh_hoa="Miếng bánh cứng quèo. Múa cứng quềo." Noi_dung="Cứng đến mức trông thô và xấu (nói về cái gì đáng lẽ phải mềm)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="cứng rắn">
+  <Y_NGHIA Minh_hoa="Qua thử thách, con người cứng rắn hơn." Noi_dung="(ít dùng). Cứng và rắn (nói khái quát)." />
+  <Y_NGHIA Minh_hoa="xử. 4p dụng những biện pháp cứng rắn. Cứng rắn uễ nguyên tắc." Noi_dung="Không dễ dàng có sự nhân nhượng, giữ một mực như đã định trong cách đối" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cước,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bướm lớn sống trên cây, có thể nhả ra một thứ tơ." />
+  <Y_NGHIA Minh_hoa="Râu tóc bạc trắng như cước." Noi_dung="Tơ dai, màu trắng trong, vốn do sâu cước nhả ra, dùng làm dây câu, dây khâu vành nón." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cước,">
+  <Y_NGHIA Minh_hoa="Chân phát cước. Cước chân. Trâu bị cước, gây hẳn." Noi_dung="Hiện tượng ngón tay, ngón chân sưng đỏ và ngứa khi bị rét cóng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cước,">
+  <Y_NGHIA Minh_hoa="Giảm giá cước." Noi_dung="(khẩu ngữ). Cước phí (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cước chú">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lời chú thích ghi ở cuối trang hoặc cuối tài liệu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cước khí">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bệnh hai chân to ra hoặc khô tóp lại và tê dại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cước phí">
+  <Y_NGHIA Minh_hoa="Cước phí hàng hoá. Được miễn cước phí." Noi_dung="Chi phí về vận tải phải trả cho hàng hoá, hành lí chuyên chở." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="cước vận">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vần ở cuối câu thơ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cược,">
+  <Y_NGHIA Minh_hoa="Tiền cược; động từ (khẩu ngữ). Như cuộc; (nghĩa D." Noi_dung="(khẩu ngữ). Đặt cọc. Cược tiền." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười">
+  <Y_NGHIA Minh_hoa="Bật cười. Mim cười. Vô duyên chưa nói đã cười (tục ngữ). Miệng cười tươi như hoa. Cười nửa miệng (hơi hé môi, nhếch mép). Cười mía mai." Noi_dung="Cử động môi hoặc miệng, có thể đồng thời phát thành tiếng, biểu lộ sự thích thú hoặc thái độ, tình cảm nào đó." />
+  <Y_NGHIA Minh_hoa="Không biết thì hỏi, chẳng ai cười. Sợ người ta cười cho." Noi_dung="Tỏ ý chê bai bằng những lời có kèm theo tiếng cười hoặc có thể gây cười; chế nhạo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười chê">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như chê cười." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười cợt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười để đùa cợt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười duyên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười làm duyên một cách kín đáo (nói về phụ nữ). Cô gái che nón cười duyên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười gằn">
+  <Y_NGHIA Minh_hoa="Tức Lắm, nhưng chỉ cười gần một tiếng. cười góp động từ Cười theo người khác, tuy không hiểu có gì đáng cười. Cười góp để ¡ lấy lòng. Ị" Noi_dung="Cười một vài tiếng ngắn, thường để tỏ vẻ mỉa mai hoặc để nén sự bực tức, thù giận." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười khà">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười thành tiếng, nghe tự. nhiên như tiếng hơi từ cuống họng thở mạnh ra, có vẻ khoái trá." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười khẩy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười nhếch mép, phát ra một tiếng khẽ, ngắn, tỏ vẻ khinh thường. cười khì động từ Cười phát ra một vài tiếng nghe như tiếng hơi thở ra, có vẻ vui thích một cách hồn nhiên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười mát">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười nhếch mép, không thành tiếng, tỏ vẻ khinh hoặc hờn giận." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười miếng chỉ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Cười chỉ nhếch môi lên một chút, một cách duyên dáng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười mũi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười ngậm miệng, phát Ta một vài tiếng bằng đường mũi, tỏ ý coi khinh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười nắc nẻ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Cười như nắc nẻ (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười ngất">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười lớn tiếng từng chuỗi dài cho đến như hết hơi mới thôi, tỏ ý thích thú." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười nhạt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười nhếch mép, có khi phát ra một vài tiếng khẽ, tỏ ý có điều không bằng lòng hoặc khinh bỉ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="cười như nắc nẻ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười giòn từng tràng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười nịnh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cười giả dối, chỉ cốt để lấy lòng, cười nụ động từ Cười hơi chúm môi lại, không thành tiếng, tỏ ý thích thú một mình hoặc để tỏ tình ý một cách kín đáo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="cười ồ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cùng bật lên những tiếng cười to, vui thành chuỗi dài, do thích thú đột ngột trước một điều đáng cười, hoặc để trêu chọc mua vui. Mọi người cười Ồ làm anh ta thẹn đỏ cả mặt." />
+  </MUC_TU>
+ </GOC>

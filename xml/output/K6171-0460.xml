@@ -1,0 +1,163 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="nhỏ hơn, phân ra từ cái chính, nhưng vẫn">
+  <Y_NGHIA Minh_hoa="Sông có ba nhánh. Hằm có nhiều nhánh thông ra ngoài." Noi_dung="nối Hền với cái chính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="nhao,đg.">
+  <Y_NGHIA Minh_hoa="Nhao thẳng tới. Xe phanh đột ngột, người nhao uề phía trước." Noi_dung="Đưa toàn thân di chuyển nhanh, mạnh, đột ngột theo một hướng, thường là về phía trước." />
+  <Y_NGHIA Minh_hoa="Cá nhao lên mặt nước." Noi_dung="Ngoi lên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="nhao, đg,">
+  <Y_NGHIA Minh_hoa="Dư luận nhao lên một dạo. Nghe tiếng nổ ai nấy nhao lên. Nhao nhao phản đối." Noi_dung="(Đám đông) đột nhiên ồn ào, rối rít lên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhao nhác">
+  <Y_NGHIA Minh_hoa="Nhao nhác như ong Uỡ tÕ." Noi_dung="Như nháo nhác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="nhao nhao">
+  <Y_NGHIA Minh_hoa="" Noi_dung="nhao¿" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhào,">
+  <Y_NGHIA Minh_hoa="Ngã nhào xuống đất. 2 Lao vội mình theo một hướng nào đó. Máy bay nhào lên bổ xuống. Thấy có lợi là nhào đầu uào (b.; khẩu ngữ)." Noi_dung="Rơi nhanh và đột ngột từ trên cao, đầu chúc xuống dưới." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhào,">
+  <Y_NGHIA Minh_hoa="Nhào bột làm bánh. Nhào đất nặn nồi." Noi_dung="Trộn đều với nước rồi làm cho dẻo, cho nhuyễn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhào lộn">
+  <Y_NGHIA Minh_hoa="Máy bay nhào lộn trên không. Tiết mục xiếc nhào lộn." Noi_dung="Làm động tác nhào xuống đảo lên nhiều vòng liên tiếp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhào nặn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhào và nặn thành một vật gì; thường dùng để ví hoạt động, tác động làm cho biến đổi dần, hình thành nên cái mới. Nhào nặn tài liệu thực tế để dựng lên hình tượng nhân uật trong tiểu thuyết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhảo">
+  <Y_NGHIA Minh_hoa="Ăn xong, nhảo đi ngay." Noi_dung="(khẩu ngữ). Đi nhanh, vội; rảo bước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhão">
+  <Y_NGHIA Minh_hoa="Bùn nhão. Com nhấo." Noi_dung="ở trạng thái giống như hỗ dán, chứa nhiều nước, quá mềm, không khô rời mà dính lại với nhau." />
+  <Y_NGHIA Minh_hoa="Dây cuaroa bị nhấo." Noi_dung="Mềm, không còn săn chắc (thường nói về cơbắp). Da thịt nhão." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhão nhoét">
+  <Y_NGHIA Minh_hoa="Cơm nhão nhoét. Đường lây lội, bùn đất nhão nhoét." Noi_dung="(khẩu ngữ). Nhão đến mức dính bết lại với nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhão nhoẹt">
+  <Y_NGHIA Minh_hoa="Như nhão nhoét." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nháo">
+  <Y_NGHIA Minh_hoa="Chạy nháo đi tìm. Nghe tin, mọi người cứ nháo lên." Noi_dung="(hoặc động từ). Có những hoạt động vội vã và thiếu tự chủ, biểu lộ sự hốt hoảng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nháo nhác">
+  <Y_NGHIA Minh_hoa="Gà con mất mẹ chạy nháo nhác." Noi_dung="Hỗn loạn lên, đầy vẻ sợ hãi, hốt hoảng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nháo nhào">
+  <Y_NGHIA Minh_hoa="Lục bới nháo nhào lên." Noi_dung="(khẩu ngữ). Ở tình trạng bị đảo lộn lung tung, không theo một trật tự sắp xếp nhất định." />
+  <Y_NGHIA Minh_hoa="Chạy nháo nhào đi tìm." Noi_dung="Nháo cả lên, lung tung, lộn xón." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhạo">
+  <Y_NGHIA Minh_hoa="Bài thơ nhạo đời. Cười nhạo." Noi_dung="Nêu ra để cười mỉa mai, tỏ ý coi thường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhạo báng">
+  <Y_NGHIA Minh_hoa="Giọng nhạo báng." Noi_dung="Chế nhạo nhằm chỉ trích, bài bác. Nhạo báng tất cả, không kiêng nể ai." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nháp,">
+  <Y_NGHIA Minh_hoa="Nháp bài toán. Bản nháp. Giấy nháp." Noi_dung="Viết phác ra để chuẩn bị trước khi viết chính thức." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="nháp, (ph.; id.).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="ráp,," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="nhát,">
+  <Y_NGHIA Minh_hoa="Chặt mấy nhát mới đứt. Một nhát cuốc. Quơ vài nhát chối." Noi_dung="Từ dùng để chỉ từng đơn vị động tác chặt, cắt, v.v." />
+  <Y_NGHIA Minh_hoa="Lát. Thái gừng thành những nhát mỏng." Noi_dung="(ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="nhát (ph.;id.).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="lát," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhát,">
+  <Y_NGHIA Minh_hoa="Giả ma nhát trẻ con." Noi_dung="(phương ngữ). Doạ, làm cho sợ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhát,">
+  <Y_NGHIA Minh_hoa="Tíz;h nhát, không dám đi tối. Nhát như cáy." Noi_dung="Hay sợ sệt, trái với bạo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhát gái">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). (Nam thanh niên) có tính ngại tiếp xúc với con gái." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhát gan">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thiếu can đảm, hay sợ sệt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhát gừng">
+  <Y_NGHIA Minh_hoa="Trả lời nhát gừng. Những câu đối đáp nhát gừng." Noi_dung="(Cách nói) từng lời hết sức ngắn và rời rạc, tỏ ý không muốn nói chuyện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhạt">
+  <Y_NGHIA Minh_hoa="Canh nấu nhạt. Cho thêm đường rồi mà uẫn nhạt. Chè xanh pha nhạt. Chén rượu nhạt." Noi_dung="(Thức ăn uống) có độ đậm (của muối, đường, v.v.) thấp, so với khẩu vị bình thường; trái với đậm, mặn." />
+  <Y_NGHIA Minh_hoa="áo màu xanh nhạt. Ánh đèn uàng nhạt. Vôi quét chỗ đậm, chỗ nhạt. Ánh nắng" Noi_dung="(Màu sắc) không đậm bằng màu bình thường, tựa như vẽ hoặc nhuộm bằng màu pha loãng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="nhạt dần. 3 (Trò vui, chuyện kể) ít gây hứng thú, không hấp dẫn. Pha trò nhạt. Chuyện kể nhạt. 4 Không được mặn mà trong tình cảm, trong đối xử. Tình cảm nhạt dần. Tiếp đãi nhạt. !/ Láy: nhàn nhạt (nghĩa 1,2; ý mức độ ít)." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhạt hoét">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kng.; ít dùng). Nhạt nhạt thếch." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhạt nhẽo">
+  <Y_NGHIA Minh_hoa="Món ăn nhạt nhẽo. Câu chuyện nhạt nhẽo." Noi_dung="Nhạt đến mức gây cảm giác vô vị, đáng chán." />
+  <Y_NGHIA Minh_hoa="Đối xử nhạt nhẽo với bạn bề." Noi_dung="Không có một chút biểu hiện nào của tình cảm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhạt nhoà">
+  <Y_NGHIA Minh_hoa="Đường phố nhạt nhoà trong sương mù. Ánh sáng nhạt nhoà. Dĩ uãng nhạt nhoà dẫn trong kí ức." Noi_dung="Mờ, không rõ nét, hoặc không sáng rõ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhạt phai">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như phai nhạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="nhạt phấn phai hương">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; văn chương). Tả người phụ nữ nhan sắc đã tàn tạ, không còn đẹp như trước nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhạt phòo">
+  <Y_NGHIA Minh_hoa="Bát canh lãng, nhạt phòo. Rượu nhạt phèo." Noi_dung="(khẩu ngữ). Rất nhạt, tựa như không có chút mùi vị gì cả." />
+  <Y_NGHIA Minh_hoa="Câu chuyện nhạt phèo. Lối pha trò nhạt phòo." Noi_dung="Không có sức hấp dẫn, không gây được chút hứng thú nào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhạt thếch">
+  <Y_NGHIA Minh_hoa="Chè pha loãng nhạt thếch. Mồm miệng nhạt thếch, không muốn ăn." Noi_dung="(khẩu ngữ). Rất nhạt, thiếu hẳn cái vị cần thiết." />
+  <Y_NGHIA Minh_hoa="Câu pha trò nhạt thếch. Cái cười nhạt thếch." Noi_dung="Hoàn toàn vô vị, vô duyên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="nhau,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bộ phận đặc biệt ở dạ con, có chức năng trao đổi chất dinh dưỡng giữa cơ thể mẹ và thai. Cuưống nhau. (Nơi) chôn nhau cắt rốn*." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="nhau,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trẻ em làm thuê, nhặt than, đội than, đội đá ở mỏ dưới chế độ cũ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="nhau,">
+  <Y_NGHIA Minh_hoa="Xoa hai tay uào nhau. Đánh nhau. Giúp đỡ nhau. Yêu nhau." Noi_dung="(chỉ dùng làm bổ ngữ). Từ biểu thị quan hệ tác động qua lại giữa các bên." />
+  <Y_NGHIA Minh_hoa="Tiễn đưa nhau. Tìm đến thăm nhau. Hai chị em hơn nhau ba tuổi." Noi_dung="Từ biểu thị quan hệ tác động của một bên này đến bên kia, nhưng giữa các bên có quan hệ gắn bó mật thiết." />
+  <Y_NGHIA Minh_hoa="Xúm nhau lại. Họp mặt nhau một buổi. Phối hợp chặt chẽ với nhau." Noi_dung="Từ biểu thị quan hệ cùng hoạt động giữa nhiều bên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhàu">
+  <Y_NGHIA Minh_hoa="Vò nhàu tờ giấy. Quần áo nhàu vì không là." Noi_dung="(Giấy, vải, v.v.) có nhiều nếp nhăn, không phẳng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="nhàu nát">
+  <Y_NGHIA Minh_hoa="Quân áo nhàu nát. Quyển sách nhàu nát." Noi_dung="Nhàu đến mức như bị vò nát ra." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhay">
+  <Y_NGHIA Minh_hoa="Bé nhay vuú mẹ. Chó nhay giẻ rách." Noi_dung="Cắn và nghiến đi nghiến lại nhè nhẹ." />
+  <Y_NGHIA Minh_hoa="Dao cùn, nhay mãi không đứt." Noi_dung="Cứa đi cứa lại nhiều lằn cho đứt." />
+  <Y_NGHIA Minh_hoa="Day. Đưa tay nhay mắt." Noi_dung="(ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhay nháy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem nháy (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhảy">
+  <Y_NGHIA Minh_hoa="Nhảy qua hố. Nhảy xuống xe. Tập nhảy tại chỗ. Cá nháy." Noi_dung="Làm động tác bật mạnh toàn thân lên, người trong một lúc không tựa vào đâu cả, thường để vượt qua một khoảng cách, một chướng ngại nào đó." />
+  <Y_NGHIA Minh_hoa="Thấy đánh nhau, nhảy uào can. Nháy ào vòng chiến." Noi_dung="(khẩu ngữ). (Người) tự di chuyển đến một vị trí nào đó một cách nhanh, dứt khoát để làm việc gì." />
+  <Y_NGHIA Minh_hoa="Chuyển đột ngột sang một uấn đề khác không ăn nhập. Đang nói chuyện nọ nhảy sang chuyện kia." Noi_dung="(khẩu ngữ)." />
+  <Y_NGHIA Minh_hoa="Viết nhảy dòng. Học nhảy lớp." Noi_dung="Bỏ qua một vị trí để chuyển thẳng đến vị trí liền sau đó." />
+  <Y_NGHIA Minh_hoa="thân thể nhịp nhàng, uyền chuyển, nối tiếp nhau theo nhạc điệu, thường thành từng đôi một, trong các cuộc vui; khiêu vũ. Mời nháy. Cô ta nhảy rất đẹp." Noi_dung="Chuyển động" />
+  <Y_NGHIA Minh_hoa="cái. Cho lợn đực giống nước ngoài nhảy lợn nái L" Noi_dung="(khẩu ngữ). (Súc vật đực) giao cấu với súc vật" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhảy bổ">
+  <Y_NGHIA Minh_hoa="Từ trên tàu, nhảy bổ xuống đất." Noi_dung="Nhảy thẳng tới như lao toàn thân mình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhảy cà tưng cũng nói zháy cà tửng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Nhảy câng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhảy cao">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhảy bật cao để vượt qua một xà ngang (một môn điền kinh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="nhảy cẵng">
+  <Y_NGHIA Minh_hoa="Reo hò, nhảy cẵng lên như trẻ con." Noi_dung="Nhảy tung người lên vì vui sướng." />
+  </MUC_TU>
+ </GOC>

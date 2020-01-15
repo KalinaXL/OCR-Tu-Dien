@@ -1,0 +1,237 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao động phức tạp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lao động đòi hỏi phải có kiến thức chuyên môn; phân biệt với lao động giản đơn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao động quá khứ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lao động kết tính trong quá trình sản xuất trước, thể hiện thành tư liệu sản xuất dùng cho quá trình sản xuất sau; phân biệt với lao động sống. lao động sống danh từ Lao động bỏ ra trong quá trình sản xuất ra sản phẩm mới; phân biệt với lao động quá khứ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao động tất yếu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần lao động sản xuất ra những tư liệu tiêu dùng thoả mãn những nhu cầu sinh hoạt cần thiết để tái sản xuất ra sức lao động; phân biệt với lao động thặng dư." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao động thặng dư">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần lao động sản xuất ra những sản phẩm vượt quá số lượng cần thiết để tái sản xuất sức lao động; phân biệt với lao động tất yếu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao động tiên tiến">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Danh hiệu tặng cho người hoàn thành tốt nhiệm vụ lao động, công tác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao động vật hoá">
+  <Y_NGHIA Minh_hoa="Quần chúng lao khổ. Mấy năm lao khổ trong nghề." Noi_dung="xem lao động quá khứ. lao khổ tính từ (cũ). Vất vả, cực nhọc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao lung Í">
+  <Y_NGHIA Minh_hoa="Kiếp sống lao lung." Noi_dung="(cũ; văn chương). Ngục tù, về mặt là nơi giam hãm, làm mất tự do. Cảnh lao lung. II t Ở trong cảnh chịu sự bó buộc về vật chất lẫn tinh thần đến mức khổ ải." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lao lực">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lao động thể lực nặng nhọc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lao nhao">
+  <Y_NGHIA Minh_hoa="Cười nói lao nhao. Lao nhao tìm đường chạy trốn." Noi_dung="Ôn ào lên tiếng cùng một lúc một cách lộn xộn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="lao tâm đẸ.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Lao động trí óc một cách vất vả, căng thẳng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lao tâm khổ tứ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Lo nghĩ vất vả, hao tổn nhiều sức lực tỉnh thần." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao tù">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhà lao (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lao vụ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). xem dịch uụ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lao xao">
+  <Y_NGHIA Minh_hoa="Lá rừng lao xao. Tiếng người lao xao trong chợ." Noi_dung="(hay động từ). Từ gợi tả những âm thanh hoặc tiếng động nhỏ rộn lên xen lẫn vào nhau không đều." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lào">
+  <Y_NGHIA Minh_hoa="Một lào nước mắm." Noi_dung="(ít dùng). Thùng đong nước mắm." />
+  <Y_NGHIA Minh_hoa="quen lấy đồng tiền làm lào." Noi_dung="Cái đo giá trị Họ" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lào phào">
+  <Y_NGHIA Minh_hoa="Sợ quá, nói lào phào, ấp úng." Noi_dung="(Tiếng nói) nhỏ, yếu ớt (Thường vìsợ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lào quào">
+  <Y_NGHIA Minh_hoa="Nhặt lào quào mấy cái. Làm ăn lào quào, tắc trách." Noi_dung="(khẩu ngữ). Qua quýt, đại khái, làm lấy xong." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lào thào">
+  <Y_NGHIA Minh_hoa="Tiếng bà cụ lào thào trong hơi thở gấp." Noi_dung="Từ mô phỏng tiếng nói nhỏ, yếu ớt, lẫn trong hơi thở." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lào xào">
+  <Y_NGHIA Minh_hoa="Tiếng gió lào xào trong bụi lau." Noi_dung="(hay động từ). Từ mô phỏng tiếng động khẽ như của lá khô chạm vào nhau, liên tiếp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lảo đảo">
+  <Y_NGHIA Minh_hoa="Lảo đảo như người Say rượu." Noi_dung="Mất thăng bằng, ngả nghiêng muốn ngã, muốn đổ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lão">
+  <Y_NGHIA Minh_hoa="Ông lão. Bà lão. Sống lâu lên lão làng' (tug.)." Noi_dung="Người già (khoảng bảy mươi tuổi trở lên; có thể dùng để xưng gọi một cách thân mật)." />
+  <Y_NGHIA Minh_hoa="trước danh từ chỉ người). Người đàn ông thuộc lớp già hoặc đứng tuổi (hàm ý coi thường). Lão thầy bói. Lão chủ keo kiệt. |I tính từ (Cây cối) già, không còn sức phát triển. Cây dừa lão, ít quả. Gốc vải lão." Noi_dung="(dùng" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="lão">
+  <Y_NGHIA Minh_hoa="Một lão nghệ nhân. Các cụ lão ông, lão bà." Noi_dung="Yếu tố ghép trước để cấu tạo danh từ chỉ người, có nghĩa &quot;người thuộc lớp già (hàm ý coi trọng)&quot;." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lão bộc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Người đầy tớ già." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="lão giả an chỉ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người già chỉ sống yên phận, không để ý đến việc đời, theo quan niệm cũ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lão hoá">
+  <Y_NGHIA Minh_hoa="Tấm uải nhựa dùng lâu ngày đã lão hoá, giòn gây." Noi_dung="(Caosu, chất đẻo, v.v.) thoái hoá và trở thành mềm dính hoặc giòn cứng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lão khoa">
+  <Y_NGHIA Minh_hoa="Học hỏi kinh nghiệm các uị lão làng. Sống lâu lên lão làng." Noi_dung="Khoa học nghiên cứu về sự hoá già của các cơ thể sống, đặc biệt về những hiện tượng sinh lí, tâm lí, xã hội, v.v. có liên quan đến tuổi già ở con người. lão làng tính từ Người cao tuổi, làm việc lâu năm, nhiều kinh nghiệm, thường được kính nể." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="› luyện">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Có nhiều kinh nghiệm, già dặn," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ành thạo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(trong nghề nghiệp, trong chuyên" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ôn).">
+  <Y_NGHIA Minh_hoa="Tay nghề" Noi_dung="Người thợ rèn lão luyện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="'0 loại lão luyện.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây bút lão luyện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="o nhiêu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người đàn ông ở nông thôn" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="n sầu mươi tuổi, được miễn sưu thuế,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="p dịch, dưới chế độ phong kiến, thực dân.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="° nông">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người nông dân già, đã làm" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tộng lâu năm.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="o nông tri điển">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người nông dân già" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="n hiểu đồng ruộng, có nhiều kinh nghiệm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="m xuất.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="o suy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hoặc tính từ). Suy yếu do tuổi già." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="liên tượng lão suy.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="¡o thành">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Già và từng trải, giàu kinh" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="phiệm.">
+  <Y_NGHIA Minh_hoa="Bậc lão thành. Nhà uăn lão thành." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="¡o thị">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Mắt ở người có tuổi) không còn" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hìn thấy được rõ những vật ở gần, do khả">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ăng điều tiết của thuỷ tỉnh thể giảm sút.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="io trượng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Từ dùng để gọi người" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ià, với ý tôn kính.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="io">
+  <Y_NGHIA Minh_hoa="" Noi_dung="3 Vô lễ, không kể gì đến khuôn phép" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="rong quan hệ đối với người trên.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bé mà" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="4o, dám chửi cả người lớn.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="2 (kng,). Không" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ẻ gì đến khuôn phép, sự thật.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tán láo" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ho uui.">
+  <Y_NGHIA Minh_hoa="Làm thì láo, báo cáo thì hay." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="áo lếu">
+  <Y_NGHIA Minh_hoa="Ăn nói láo lếu." Noi_dung="Như lếu láo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="áo liên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hoặc tính từ). (Mắt) đảo qua đảo" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ại, nhìn với vẻ dò xét, tìm kiếm.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Mắt láo lên nhìn ngang nhìn ngửa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="áo liếng">
+  <Y_NGHIA Minh_hoa="Láo liên." Noi_dung="(hoặc tính từ). (phương ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="áo nháo">
+  <Y_NGHIA Minh_hoa="Người đứng người ngồi láo nháo. Làm ăn láo nháo chẳng đâu uào đâu cả. Láo nháo như cháo trộn cơm (tục ngữ)." Noi_dung="(Kng.). Lộn xộn, lung tung nhiệu hứ, không có chút trật tự nào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="láo quáo">
+  <Y_NGHIA Minh_hoa="Nói láo quáo mấy câu." Noi_dung="(ít dùng). (Tiếng người) nghe lộn cộn, không rõ." />
+  <Y_NGHIA Minh_hoa="lào quào. Làm láo quáo cho xong." Noi_dung="Như" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="áo toét">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Kng). Rất láo. Đồ láo toét! Chuyện áo toét, không thể tin được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="áo xược">
+  <Y_NGHIA Minh_hoa="Ăn nói láo xược. Hành động thách thức láo xược." Noi_dung="Vô lễ, xúc phạm đến người chác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lạo xạo">
+  <Y_NGHIA Minh_hoa="Sói đá lạo xạo dưới chân." Noi_dung="Từ mô phỏng tiếng cát sỏi hay tiếng của vật tương tự bị cọ xát vào nhau hoặc bị nghiến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="láp nháp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Bẩn ướt, Đường sá lắp nháp. lạp xường danh từ Món ăn làm bằng thịt trộn với diêm tiêu, nhồi vào ruột lợn rồi phơi hoặc sấy khô." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lari">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị tiền tệ cơ bản của Georgia." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="laser">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(tiếng Anh Light Amplification by Stimulated Emission of Radiation, &quot;khuếch đại ánh sáng bằng bức xạ cảm ứng”, viết tắt). cm. lade, laze. d Dụng cụ phát các sóng điện từ đơn sắc dựa vào bức xạ cảm ứng. Tia laser." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lát">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị tiền tệ cơ bản của Latvia." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lát,">
+  <Y_NGHIA Minh_hoa="Lát bánh. Sắn thái lát, phơi khô." Noi_dung="Cây gỗ to cùng họ với xoan, gốc có bành lớn, lá kép lông chim, hoa màu vàng nhạt, gỗ có vân đẹp thuộc loại quý. . lát, danh từ Miếng mỏng được thái hoặc cắt ra." />
+  <Y_NGHIA Minh_hoa="Nhát. Lát dao. Lát cuốc." Noi_dung="(phương ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="lát,d.">
+  <Y_NGHIA Minh_hoa="Lát sau. |" Noi_dung="Khoảng thời gian rất ngắn. Suy nghĩ | một lát." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lát,">
+  <Y_NGHIA Minh_hoa="Nền lát gạch hoa. Ván lát sàn." Noi_dung="Xếp và gắn gạch hoặc ván gỒ, V.V. thành một mặt phẳng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lát hoa">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Gỗ lát mặt có vân nhiều và to." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="lát ti">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Jatti." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="lạt,">
+  <Y_NGHIA Minh_hoa="Chẻ lạt. Lạt gói bánh." Noi_dung="Dây buộc bằng tre, mây, v.v. chê möng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(phương ngữ)." Noi_dung="lạt,t.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="lạt lẽo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Nhạt nhẽo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="lati">
+  <Y_NGHIA Minh_hoa="" Noi_dung="latti." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="Latin cũng viết Lztinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Tiếng nói, chữ viết) của người La Mã xưa. Tiếng Latin. Chữ cái Iatin." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="latti cũng viết lari, lát tỉ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thanh gỗ hay tre nhỏ và dài ken sít nhau để làm vách, làm trần nhà. lau, danh từ Cây cùng loài với mía, mọc hoang thành bụi, thân xốp, hoa trắng tụ thành bông." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="lau,">
+  <Y_NGHIA Minh_hoa="Lau bảng. Lau mồ hôi. Sàn nhà lau sạch bóng." Noi_dung="Làm cho khô, cho sạch bằng cách đưa nhẹ một vật mềm trên bề mặt." />
+  </MUC_TU>
+ </GOC>

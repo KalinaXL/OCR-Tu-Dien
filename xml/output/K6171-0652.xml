@@ -1,0 +1,156 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="(b.).">
+  <Y_NGHIA Minh_hoa="Thấy tiền là tối mắt lại, còn nghĩ đến ai nữa! (D.)." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối mắt tối mũi">
+  <Y_NGHIA Minh_hoa="(khẩu ngữ). Nhưtối mắt (nhưng nghĩa mạnh hơn)." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối mật">
+  <Y_NGHIA Minh_hoa="Mệnh lệnh tối mật. Tài liệu tối mật." Noi_dung="Hết sức mật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối mịt">
+  <Y_NGHIA Minh_hoa="Từ mờ sáng đến tối mịt." Noi_dung="(khẩu ngữ). Tối đến mức như bóng đen bao phủ tất cả, xa gần chẳng nhìn thấy gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối mò">
+  <Y_NGHIA Minh_hoa="Trong hang tối mò. tối mù tính từ (khẩu ngữ). Tối đến mức chẳng trông thấy gì. Tối mù như đêm ba mươi." Noi_dung="(khẩu ngữ). Tối đến mức không nhìn thấy gì, phải mò mẫm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tối ngày">
+  <Y_NGHIA Minh_hoa="Vất uả tối ngày." Noi_dung="Suốt từ sáng sớm đến tối mịt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối om">
+  <Y_NGHIA Minh_hoa="Trong hang tối om. Mất điện, trong nhà tối om om." Noi_dung="(khẩu ngữ). Tối đến mức có cảm giác như mọi nguồn ánh sáng đều bị bịt kín từ mọi phía." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tối qua">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Tối hôm qua (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối sầm">
+  <Y_NGHIA Minh_hoa="Trời đang quang bỗng tối sằm như sắp đổ mưa. Mặt tối sầm lai (bóng (nghĩa bóng))." Noi_dung="Trở nên tối và u ám khắp cả một cách đột ngột." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối tăm">
+  <Y_NGHIA Minh_hoa="Nhà cửa tối tăm. Cuộc đời tối tăm." Noi_dung="Tối, thiếu ánh sáng (nói khái quát); thường dùng để ví cảnh sống không có hi vọng, không có tương lai." />
+  <Y_NGHIA Minh_hoa="Đầu óc tối tăm. Lời lẽ tối tăm, không ai hiểu nổi." Noi_dung="Tối, không được thông minh hoặc không được sáng sủa (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối tăm mày mặt">
+  <Y_NGHIA Minh_hoa="Như tối tăm mặt mũi." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối tăm mặt mũi">
+  <Y_NGHIA Minh_hoa="Tiếng nổ to làm tối tăm mặt mũi." Noi_dung="(khẩu ngữ). Ở trạng thái tưởng như không còn nhìn thấy gì ở xung quanh do chịu một tác động mạnh mẽ nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối tân">
+  <Y_NGHIA Minh_hoa="Vũ khí tối tân. Những thiết bị tối tân nhất." Noi_dung="Mới nhất, hiện đại nhất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối thiểu">
+  <Y_NGHIA Minh_hoa="Lương tối thiểu. Giảm đến mức tối thiểu. Tối thiểu phải ba ngày. Yêu cầu tối thiểu." Noi_dung="Ít nhất, không thể ít hơn được nữa; trái với tối đa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối thượng">
+  <Y_NGHIA Minh_hoa="Mục tiêu tối thượng của chính sách tiền tệ là ổn định tiền tệ, kiểm soát lạm phát. Quyền lực tối thương của pháp luật." Noi_dung="Cao nhất, cao hơn tất cả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối trời">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Tối vì không có ánh sáng của trăng, sao. Đêm tối trời." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="tối ư">
+  <Y_NGHIA Minh_hoa="Nói như uậy là tối ư uô lí." Noi_dung="(cũ; kng.; dùng trước tính từ có nghĩa phủ định). Cực kì, không còn có thể hơn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tối ưu">
+  <Y_NGHIA Minh_hoa="Giải pháp tối ưu." Noi_dung="Tốt nhất, đưa lại hiệu quả tốt nhất. Phương án tối ưu. Mô hình tối ưu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội,">
+  <Y_NGHIA Minh_hoa="Mắc tội tham ô. Phạm tội phản quốc. Công tố uiên buộc tội. Lập công chuộc tội." Noi_dung="Hành vi phạm pháp, đáng bị xử phạt." />
+  <Y_NGHIA Minh_hoa="cấm của đạo đức, tôn giáo, v.v. Tội loạn luân. Không làm tròn bổn phận làm con, có tội với bố mẹ. (Đến nhà thờ) xưng tội*." Noi_dung="Hành vi phạm vào những điều răn" />
+  <Y_NGHIA Minh_hoa="Bị mắng tì tội nói láo." Noi_dung="(kng,). Khuyết điểm đáng khiển trách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tội, t">
+  <Y_NGHIA Minh_hoa="Cảnh mẹ goá, con côi, thật tội. Trông tội lắm. Thân làm tội đời (tự mình làm khổ mình). Cháu bà nội, tội bà ngoại (tục ngữ)." Noi_dung="Khổ một cách đáng thương, làm cho người khác phải xót xa, ái ngại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội ác">
+  <Y_NGHIA Minh_hoa="Tội ác giết người cướp của. Diệt chủng là tội ác tày trời." Noi_dung="Tội rất nghiêm trọng, cả về mặt pháp luật và đạo đức." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội danh">
+  <Y_NGHIA Minh_hoa="Tội danh trốn thuế. Loại tội chưa có tội danh. tội đổ danh từ (cũ). Hình phạt giam nhiều năm tù; cũng dùng để chỉ người bị hình phạt ấy. Bị án tội đồ." Noi_dung="Tên gọi hành vi phạm pháp đã được quy định trong bộ luật hình sự. Quy UàO tội danh cướp tài sản công dân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tội gì">
+  <Y_NGHIA Minh_hoa="Tội gì mà đi mất công." Noi_dung="(mà) (khẩu ngữ). Không nên (làm việc nào đó), làm là không có lợi gì, mà có khi còn có hại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội lệ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Tội trước pháp luật (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội lỗi">
+  <Y_NGHIA Minh_hoa="Cố tình che giấu tội lỗi. Con đường tội lỗi. tội nghiệp tính từ 1 Đáng thương vì gặp phải cảnh ngộ đau khổ, không may. Tội nghiệp" Noi_dung="Tội phạm phải (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Trông chị ta thật tội nghiệp. 2 (dùng như cảm từ). Từ biểu thị ý thương hại, thông cảm. Tội nghiệp! Trông anh ấy uẫn còn yếu lắm. Đừng đánh nó, tội nghiệp." Noi_dung="cho đứa trẻ mỗ côi cả cha lẫn mẹ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội nhân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kẻ phạm tội." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội nợ">
+  <Y_NGHIA Minh_hoa="Chiếc xe mới mua đã hỏng lên hỏng xuống, thật là tội nợi" Noi_dung="(khẩu ngữ). Cái chỉ mang lại những sự phiền phức, khổ cực mà đành phải gánh chịu, khó bề dứt bỏ (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội phạm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vụ phạm pháp coi là một tội Hành động phản quốc là tội phạm nghiêm trọng nhất." />
+  <Y_NGHIA Minh_hoa="Giam giữ các tội phạm." Noi_dung="Kẻ phạm tội; tội nhân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội phạm chiến tranh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kẻ phạm tội tổ chức, lãnh đạo, thực hiện những hành động tội ác trong chiến tranh, chống hoà bình và chống nhân loại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội tình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thường dùng có kèm ý phủ định). Tội lỗi phạm phải, đáng phải trừng phạt. Nó có tội tình gì mà mắng nó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội trạng">
+  <Y_NGHIA Minh_hoa="Tội trạng của bị can đã rõ." Noi_dung="Cứ liệu và những tình tiết của một tội phạm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tội vạ">
+  <Y_NGHIA Minh_hoa="Cứ làm đi, tội uạ đâu tôi chịu. Chẳng tội uạ gì mà làm không công cho nó (tội gì mà làm không công cho nó)." Noi_dung="(khẩu ngữ). Tội lỗi và những sự trừng phạt phải gánh chịu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm,">
+  <Y_NGHIA Minh_hoa="Đất như tôm tươi (kng,; rất đắt)." Noi_dung="Động vật thân giáp, không có mai cứng, bụng dài, có nhiều chân bơi, sống dưới nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tôm;">
+  <Y_NGHIA Minh_hoa="Tôm được cả lũ. Tên gian đã bị tôm oổ. tôm bông danh từ Ruốc làm bằng tôm, tơi như bông." Noi_dung="(thạt.). Bắt gọn (kẻ chống đối, phạm pháp)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm càng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tôm nước ngọt cỡ trung bình, có đôi càng dài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm he">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tôm cỡ trung bình, sống thành đàn ở ven biển và vùng nước lợ, thân rộng bản và dẹt, râu ngắn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm hùm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tôm biển có đôi càng rất lớn." />
+  <Y_NGHIA Minh_hoa="Tôm biển cỡ lớn có hai râu rất to, dài uà cong, mai có gai, đuôi xoề to." Noi_dung="cũng nói tôm rồng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm rảo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tôm nhỏ, cùng họ với tôm he, sống ở vùng nước lợ ven biển, thân hẹp và dài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm rồng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem tôm hùm (nghĩa 2)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm sú">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tôm biển cỡ lớn, thuộc họ tôm he, vỏ dày màu xám nhạt, phần bụng màu sâm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm tép">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tôm và tép (nói khái quát); thường dùng để ví hạng người bị coi là thấp kém, không có địa vị trong xã hội. Phận tôm tép." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôm thẻ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tôm biển thuộc họ tôm he, mình hơi đẹp, vỏ hơi vàng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôn,">
+  <Y_NGHIA Minh_hoa="Chậu tôn. Nhà lợp tôn." Noi_dung="Thép tấm, ít carbon, có tráng mạ kẽm ở bề mặt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tôn,">
+  <Y_NGHIA Minh_hoa="Tôn nền. Tôn cao các đoạn đê xung yếu." Noi_dung="Đắp thêm vào để cho cao hơn, vững hơn." />
+  <Y_NGHIA Minh_hoa="Hình thức đẹp làm tôn nội dung lên. Màu áo đen càng tôn thêm nước da trắng." Noi_dung="Nồi rõ lên ưu thế, vẻ đẹp, nhờ có sự tương phản với những cái khác làm nên." />
+  <Y_NGHIA Minh_hoa="Tôn làm thầy. Được nghĩa quân tôn Làm chủ tướng." Noi_dung="Coi là xứng đáng và đưa lên một địa vị cao quý." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôn chỉ">
+  <Y_NGHIA Minh_hoa="Tôn chỉ của tờ báo." Noi_dung="Nguyên tắc chính chỉ phối mục đích hoạt động của một tổ chức, một đoàn thể." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôn giáo">
+  <Y_NGHIA Minh_hoa="Tôn giáo nảy sinh rất sớm, từ trong xã hội nguyên thuỷ. 2 Hệ thống những quan niệm tín ngưỡng một hay những vị thần linh nào đó và những hình thức lễ nghi thể hiện sự sùng bái ấy; đạo. Ở Việt Nam có nhiều tôn giáo: đạo Phật, đạo Thiên Chúa, đạo Cao Đài, u.U." Noi_dung="3 Hình thái ý thức xã hội gồm những quan niệm dựa trên cơ sở tin và sùng bái những lực lượng siêu tự nhiên, cho rằng có những lực lượng siêu tự nhiên quyết định số phận con người, con người phải phục tùng và tôn thờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tôn huynh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; kiểu cách). Từ dùng để gọi tôn người mình kính trọng, coi như vai anh của mình, khi nói với người ấy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tôn kính">
+  <Y_NGHIA Minh_hoa="Tôn kính thây giáo. Lòng tôn kính." Noi_dung="Hết sức kính trọng." />
+  </MUC_TU>
+ </GOC>

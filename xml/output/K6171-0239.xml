@@ -1,0 +1,101 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường phố">
+  <Y_NGHIA Minh_hoa="Dạo xem đường phố. Hai bên đường phố." Noi_dung="Đường trong thành phố (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường phổi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường đặc sản, chế biến từ đường cát tỉnh, có dạng xốp, đóng thành bánh màu trắng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường quan">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Đường cái quan (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường quốc lộ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem quốc lộ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường ray">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường làm bằng các thanh thép hoặc sắt có mặt cắt hình chữ I ghép nối lại, để xe lửa, xe điện, xe goòng chạy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="đường rầy (ph.).">
+  <Y_NGHIA Minh_hoa="đường ray." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường sá">
+  <Y_NGHIA Minh_hoa="Đường sá lÀy lội. Đường sá xa xôi. Mở mang đường sá." Noi_dung="Đường đi lại trên bộ (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường sắt">
+  <Y_NGHIA Minh_hoa="Hệ thống đường sắt. Ngành đường sắt (phụ trách việc giao thông vận tải bằng xe lửa)." Noi_dung="Đường xe lửa chạy (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường sinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường thẳng mà khi chuyển động thì vạch nên mặt nón hoặc mặt trụ. đường sườn danh từ Đường chuẩn gấp khúc dùng trong trắc đạc, để từ đó đo đạc các điểm khác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường thẳng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đối tượng cơ bản của hình học mà hình ảnh trực quan là một sợi dây rất mảnh, căng thật thẳng, có thuộc tính quan trọng nhất là: qua hai điểm bao giờ cũng chỉ có thể vạch được một đường thẳng mà thôi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="Đường thi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thơ của các thi sĩ đời Đường ở Trung Quốc hoặc thơ làm theo Đường luật (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường thuỷ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường đi trên mặt nước sông, biển, kênh, hồ, dùng cho tàu thuyền (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường tiệm cận (của một đường cong)">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường thẳng mà có một nhánh vô cực của đường cong này tiến sát dần tới nó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường tiếng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường đi của các tín hiệu âm thanh trong thiết bị." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Dải hẹp ghi các tín hiệu âm thanh trên phim, băng hoặc đĩa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường tỉnh lộ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem tính lộ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường trắc địa">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem đường đoán trình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường tròn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tập hợp tất cả các điểm trong mặt phẳng cách đều một điểm cố định (gọi là 2m) một khoảng không đổi (gọi là bán kính)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường trục">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường chính trong một hệ thống đường sá từ đó toả ra nhiều đường nhánh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường trung bình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đoạn thẳng nối các điểm giữa của hai cạnh bên của một tam giác hoặc một hình thang." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường trung trực">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường thẳng vuông góc với một đoạn thẳng tại điểm giữa của đoạn ấy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường trường I">
+  <Y_NGHIA Minh_hoa="Ngựa chạy đường trường. ll danh từ Điệu hát chèo phổ theo thơ lục bát, nét nhạc mềm mại, dùng nhiều tiếng đệm. Hát đường trường." Noi_dung="Đường dài, đường xa (thường nói về mặt khó khăn, vất vả)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường vành đai">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường bao quanh phố, giúp cho những phương tiện vận tải có thể đi vòng qua thành phố (không đi vào bên trong) để đến một địa phương khác, nhằm giải toả giao thông thành phố." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường xoáy ốc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đường cong trên mặt phẳng được vẽ ra do một điểm vừa quay quanh vừa xa dẫn một điểm cố định." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường xoắn ốc">
+  <Y_NGHIA Minh_hoa="Đường xoắn ốc nón (nầm trên mặt nón)." Noi_dung="Đường cong trong không gian do một điểm vừa quay quanh một trục cố định vừa di động theo một phương nào đó vẽ ra. Đường xoắn ốc trụ tròn (nằm trên mặt trụ tròn)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="đường xương cá">
+  <Y_NGHIA Minh_hoa="Xây dựng nhà theo từng ô, có đường trục, có đường xương cá." Noi_dung="Đường rẽ ngang, cắt hai bên đường trục, thường nhỏ hơn đường trục." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="đút I">
+  <Y_NGHIA Minh_hoa="Dây điện đứt vì cây đố. Cưa đứt đôi khúc gỗ. Đứt dòng suy nghĩ (bóng (nghĩa bóng))." Noi_dung="Rời ra thành đoạn do bị kéo mạnh hoặc bị cắt, chặt, v.v." />
+  <Y_NGHIA Minh_hoa="da thịt đến chảy máu. Dao sắc quá, đứt tay." Noi_dung="(dùng trước d., kết hợp hạn chế). Bị vật sắc cứa rách" />
+  <Y_NGHIA Minh_hoa="Liên lạc đứt vì chiến" Noi_dung="Mất mối liên lạc hoặc không tiếp tục có quan hệ nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="tranh. Cắt đứt quan hệ ngoại giao. Cắt đứt với người yêu (kng.; cắt đứt quan hệ). &quot; p (kng; thường dùng phụ sau đg,). Từ biểu thị ý khẳng định dứt khoát; hẳn. Bán đứt. Mất đứt một ngày không được uiệc gì, Quên đứt điểm ấy, không nêu ra." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="đứt bữa">
+  <Y_NGHIA Minh_hoa="Cứu đói cho những gia đình bị đứt bữa." Noi_dung="(khẩu ngữ). Ở tình trạng bữa có ăn, bữa không." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="đứt đuôi">
+  <Y_NGHIA Minh_hoa="Sai đứt đuôi đi rồi, thế mà còn cãi!" Noi_dung="Tố hợp dùng để biểu thị tính chất dứt khoát của một nhận định, của điều không tốt, không hay cho là quá rõ ràng, không có gì phải bàn cãi nữa ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="đứt đuôi con nòng nọc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như đứt đứt gẫy danh từ Nơi vỏ Trái Đất bị tách làm hai phần, một phần nâng lên, một phần sụt xuống. Đứt gẫy sông Hồng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="đứt quãng">
+  <Y_NGHIA Minh_hoa="Hơi thở đứt quãng. Giọng đứt quãng uUì một." Noi_dung="Ở tình trạng bị ngắt ra thành từng quãng, từng đoạn, không liên tục, không liền." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="đứt ruột">
+  <Y_NGHIA Minh_hoa="Tiếc đứt ruột. Thương đứt ruột. đứt ruột đứt gan (khẩu ngữ). Như đứt ruột (nhưng nghĩa mạnh hơn)." Noi_dung="Đau xót đến mức như đứt từng khúc ruột." />
+  </MUC_TU>
+ </GOC>

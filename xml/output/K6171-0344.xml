@@ -1,0 +1,188 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="Thú tục kiểm hoá ở cửa khẩu.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hàng đã kiểm hoá uà tính thuế." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiểm học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chức quan trông coi việc học trong một tỉnh nhỏ thời thực dân Pháp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm kê">
+  <Y_NGHIA Minh_hoa="Ngừng bán để kiểm kê. Kiểm kê uật liệu trong kho. Kiểm kê tài sản." Noi_dung="Kiểm lại từng cái, từng món để xác định số lượng hiện có và tình trạng chất lượng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiểm lâm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cơ quan kiểm soát việc chấp hành pháp luật trong việc khai thác và bảo vệ rừng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm ngân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kiểm tra các khoản thu chỉ trên thực tế, so sánh với các khoản được ghi trong ngân sách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm nghiệm">
+  <Y_NGHIA Minh_hoa="Được thực tế kiểm nghiệm." Noi_dung="Kiểm tra bằng thực nghiệm, bằng thực tế để đánh giá chất lượng. Kiểm nghiệm hàng hoá xuất khẩu." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Xét nghiệm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm nhận">
+  <Y_NGHIA Minh_hoa="Kiểm nhận uật liệu mới đưa uễ." Noi_dung="Xác nhận sau khi đã kiểm tra." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm sát">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(dùng phụ sau danh từ). Kiểm tra và giám sát." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm soát">
+  <Y_NGHIA Minh_hoa="Trạm kiểm soát giao thông." Noi_dung="Xem xét để phát hiện, ngăn chặn những gì trái với quy định. Kiểm soát giấy tờ." />
+  <Y_NGHIA Minh_hoa="Vùng do đối phương kiểm soát. Ngân hàng kiểm soát uiệc sử dụng uốn." Noi_dung="Đặt trong phạm vi quyền hành của mình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm thảo">
+  <Y_NGHIA Minh_hoa="Kiếm thảo công tác." Noi_dung="(cũ). Kiểm điểm hoặc tự kiểm điểm vạch ra ưu điểm, khuyết điểm nhân một địp gì." />
+  <Y_NGHIA Minh_hoa="kiểm tháo." Noi_dung="Kiểm điểm hoặc tự kiểm điểm sai lầm, khuyết điểm. Bán" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm toán">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Xem xét và thẩm tra các tài khoản, thanh toán thường niên của một đơn vị kinh tế để xác minh mức độ phù hợp giữa các thông tin có thể định lượng được với các chuẩn mực đã thiết lập." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiểm toán viên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người làm công tác kiểm toán." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm tra">
+  <Y_NGHIA Minh_hoa="Kiểm tra số sách. Thi kiểm tra. Kiểm tra sức khoẻ." Noi_dung="Xem xét tình hình thực tế để đánh giá, nhận xét." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiểm tu">
+  <Y_NGHIA Minh_hoa="Định kì kiểm tư máy." Noi_dung="(ít dùng). Kiểm tra và sửa chữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiếm,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Gươm. Đấu kiếm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiếm,">
+  <Y_NGHIA Minh_hoa="Đi câu kiếm uài con cá. Kiếm cớ từ chối. Kiếm chuyện gây sự." Noi_dung="Làm cách nào đó cho có được." />
+  <Y_NGHIA Minh_hoa="kiếm kiếm ăn động từ (khẩu ngữ). Tìm cách, tìm việc làm để sinh sống. Phiêu bạt đi xa để kiếm ăn. Kiếm ăn bằng đủ mọi nghề." Noi_dung="(phương ngữ). Tìm. Đi" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiếm chác">
+  <Y_NGHIA Minh_hoa="Lợi dụng lúc hàng khan hiếm để đầu cơ, kiếm chác." Noi_dung="Kiếm lợi bằng cách không chính đáng (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiếm chuyện">
+  <Y_NGHIA Minh_hoa="Kiếm chuyện làm khó dễ." Noi_dung="(kng,). Kiếm cớ gây chuyện lôi thôi, rắc rối." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiếm cung">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như cung kiếm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiếm hiệp">
+  <Y_NGHIA Minh_hoa="Tiểu thuyết kiếm hiệp (có nhân vật chính là những hiệp sĩ đánh kiếm)." Noi_dung="Võ sĩ thời xưa, giỏi đánh kiếm, hay làm việc nghĩa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiếm khách">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Người giỏi đánh kiếm, võ nghệ cao cường, thường là loại nhân vật chính trong tiểu thuyết kiếm hiệp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiếm thuật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thuật đánh kiếm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiệm">
+  <Y_NGHIA Minh_hoa="Tiết kiệm. Cân đi đôi với kiệm." Noi_dung="(thường chỉ dùng đi đôi với cần)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiệm lời">
+  <Y_NGHIA Minh_hoa="Cả hai người cùng kiệm lời, chỉ ỉm lặng đi bên nhau." Noi_dung="Dùng rất ít lời, chỉ nói những điều thật cần thiết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiệm ước">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Như tiết kiệm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiên">
+  <Y_NGHIA Minh_hoa="Người đâu mà kiên lạ. Kiên gan." Noi_dung="(id.; kết hợp hạn chế). Có khả năng giữ vững tỉnh thần dù có tác động bất lợi kéo dài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiên cố">
+  <Y_NGHIA Minh_hoa="Công sự kiên cố. Tuyến phòng thủ kiên cố." Noi_dung="Chắc chắn và bền vững, khó phá vỡ được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiên cường">
+  <Y_NGHIA Minh_hoa="Rèn luyện ý chí kiên cường." Noi_dung="Có khả năng giữ vững ý chí, tỉnh thần, không khuất phục trước khó khăn, nguyhiểm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiên dũng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(¡d.). Dũng cảm kiên cường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiên định">
+  <Y_NGHIA Minh_hoa="Giữ vững ý định, ý chí, không để bị lung lay, mặc dù gặp khó" Noi_dung="(hoặc tính từ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Kiên định ý chí. Thái độ kiên lịnh. Lập trường kiên định." Noi_dung="khăn, trở lực." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="đên nghị">
+  <Y_NGHIA Minh_hoa="Một on người kiên nghị. Khuôn mặt kiên nghị." Noi_dung="Có đầy đủ nghị lực để không ùi bước trước khó khăn, thử thách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tên nhẫn">
+  <Y_NGHIA Minh_hoa="Kiên nhẫn chờ đợi." Noi_dung="Có khả năng tiếp tục làm việc 1ã định một cách bền bỉ, không nắn lòng, nặc dù thời gian kéo dài, kết quả chưa thấy. càng kiên nhẫn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="dên quyết">
+  <Y_NGHIA Minh_hoa="Thái độ kiên quyết. Giọng kiên quyết. Kiên quyết làm bằng được." Noi_dung="Tỏ ra quyết làm bằng được điều đã định, dù trở ngại đến mấy cũng chông thay đổi; như cương quyết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="xiên tâm">
+  <Y_NGHIA Minh_hoa="Kiên tâm chờ đợi." Noi_dung="Bên lòng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiên trì">
+  <Y_NGHIA Minh_hoa="Kiên trì đường lối hoà bình. Kiên trì giáo dục trẻem hư. Tịnh thần đấu tranh kiên trì." Noi_dung="(hoặc tính từ). Giữ vững, không thay đối ý định, ý chí để làm việc gì đó đến cùng, mặc dù gặp khó khăn, trở lực." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiên trinh">
+  <Y_NGHIA Minh_hoa="Tấm lòng kiên trình với Tổ quốc." Noi_dung="Có tính thần giữ vững trinh tết, giữ vững lòng chung thuỷ, không chịu để bị làm ô nhục; hoặc nói chung có tỉnh thần giữ vững lòng trung thành, trước sau như một. Người con gái kiên trình bà dũng cảm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiên trung">
+  <Y_NGHIA Minh_hoa="Như trung kiên. Một chiến sĩ kiên trung." Noi_dung="(ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="kiển khôn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Càn khôn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiển kiển">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây gỗ to mọc ở rừng, thân thẳng, lá cứng, mặt trên thường có mốc trắng, gỗ rắn, bền, dùng trong xây dựng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến">
+  <Y_NGHIA Minh_hoa="Kiến tha lâu cũng đây tổ (tục ngữ). Người đông như kiến." Noi_dung="Tên gọi chung các loài bọ cánh màng, lưng eo, cánh không phát triển, thường sống thành đàn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến càng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kiến có hàm khoẻ, giữ nhiệm vụ bảo vệ trong một đàn kiến." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kiến lớn có cẳng dài, hay đốt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến cánh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kiến có cánh, có thể bay được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến cỏ">
+  <Y_NGHIA Minh_hoa="Đông như kiến cỏ." Noi_dung="Kiến nhỏ, thường sống trong cỏ, rác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến đen">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kiến nhỏ, màu đen, chạy nhanh, không đốt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(ít dùng)." Noi_dung="kiến giả nhất phận">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phận ai người nấy lo (thường nói về anh em, họ hàng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến giải">
+  <Y_NGHIA Minh_hoa="Những kiến giải khác nhau. Đưa ra một kiến giải táo bạo." Noi_dung="Cách hiểu về một vấn đề." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiến giảng">
+  <Y_NGHIA Minh_hoa="Giáo sinh mới được kiến giảng, chưa được dạy." Noi_dung="(giáo sinh, giáo viên) dự lớp nghe giáo viên khác giảng để học tập, rút kinh nghiệm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến gió">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kiến rất nhỏ, màu đỏ nhạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="kiến hiệu">
+  <Y_NGHIA Minh_hoa="Phương pháp điều trị kiến hiệu." Noi_dung="Có tác dụng, có hiệu quả trông thấy; hiệu nghiệm (thường nói về thuốc men, sự điều trị). Thuốc rất kiến hiệu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiến lập">
+  <Y_NGHIA Minh_hoa="Kiến lập quan hệ ngoại giao." Noi_dung="(trang trọng). Xây dựng nên (thường nói về những cái quan trọng và trừu tượng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiến lửad.Kiếnnhỏ màu vàng đỏ, đốt đau, kiến nghị">
+  <Y_NGHIA Minh_hoa="Kiến nghị một biện pháp với chính quyền." Noi_dung="Nêu ý kiến đề nghị về một | việc chung để cơ quan có thẩm quyền xét." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến lửad.Kiếnnhỏ màu vàng đỏ, đốt đau, kiến nghị">
+  <Y_NGHIA Minh_hoa="Bản kiến nghị." Noi_dung="Điều kiến nghị." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="kiến quốc">
+  <Y_NGHIA Minh_hoa="Sự nghiệp kháng chiến uà kiến quốc." Noi_dung="(cũ; kết hợp hạn chế). Xây dụng đất nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiến tạo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Xây dựng nên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến tạo">
+  <Y_NGHIA Minh_hoa="Vùng có kiến tạo địa chất phức tạp." Noi_dung="cũng nói địa kiến tạo. Kiến trúc của một phần hoặc toàn bộ vỏ Trái Đất." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Kiến tạo học (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến tạo học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Môn học nghiên cứu về kiến trúc của một phần hoặc toàn bộ vỏ Trái Đất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiến tập">
+  <Y_NGHIA Minh_hoa="Giờ kiến tập của cô giáo mới." Noi_dung="(Giáo sinh, giáo viên) dự lớp trong một trường học để học tập, rút kinh nghiệm giảng dạy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="kiến thiết">
+  <Y_NGHIA Minh_hoa="Kiến thiết đất nước. Kiến thiết lại khu cang:." Noi_dung="Xây dựng theo một quy mô lớn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="kiến thiết cơ bản">
+  <Y_NGHIA Minh_hoa="Như xây dựng cơ bản." Noi_dung="" />
+  </MUC_TU>
+ </GOC>

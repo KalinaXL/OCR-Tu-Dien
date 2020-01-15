@@ -1,0 +1,178 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện tâm đổ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bản ghi hoạt động của tim bằng dòng điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện thanh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kĩ thuật tạo ra hoặc ghi lại âm thanh nhờ dòng điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện thế">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đại lượng đặc trưng cho trường tĩnh điện về mặt năng lượng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện thế sinh vật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Điện thế xuất hiện trong các tế bào, mô và cơ quan của động vật và thực vật, có liên quan trực tiếp với các quá trình trao đổi và di chuyển chất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện thoại">
+  <Y_NGHIA Minh_hoa="Nói chuyện bằng điện thoại. Gọi điện thoại. Điện thoại tự động." Noi_dung="Máy truyền tiếng nói từ nơi này đến nơi khác bằng đường dây hoặc bằng vô tuyến điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điện thoại">
+  <Y_NGHIA Minh_hoa="Điện thoại cho bạn." Noi_dung="(cũ; khẩu ngữ). Gọi điện thoại (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện thoại di động">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Điện thoại vô tuyến loại nhỏ mang theo người, được sử dụng trong vùng phủ sóng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện thoại truyền hình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Điện thoại vừa truyền tiếng nói vừa truyền hình, người nói điện thoại đồng thời nhìn thấy nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện thoại viên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhân viên làm việc ở tổng đài điện thoại. -" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện tích">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đại lượng đặc trưng của các hạt cơ bản, như electron, proton, hoặc của một vật, thể hiện ở lực hút hoặc đẩy khi tác động lẫn nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện tín">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Công việc thông tin bằng tín hiệu điện." />
+  <Y_NGHIA Minh_hoa="Điện báo. Gửi điện tín." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện toán">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoa học về máy tính điện tử, tin học." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện trở">
+  <Y_NGHIA Minh_hoa="" Noi_dung="4 Đại lượng đặc trung cho tác dụng cản trở dòng điện của một vật dẫn hoặc một mạch điện. 2 Bộ phận của mạch điện dưới dạng một linh kiện hoàn chỉnh, có tác dụng tạo nên một điện trở nhất định nhầm điều chỉnh điện áp và dòng điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện trở suất">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Điện trở của một sợi dây vật liệu đều, có chiều dài bằng đơn vị và diện tích tiết diện bằng đơn vị." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện trường">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trường tồn tại trong khoảng không gian xung quanh một vật mang điện, thể hiện ở lực tác dụng lên các vật mang điện khác đặt trong đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện từ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hiện tượng liên quan giữa từ trường và dòng điện." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Điện từ học (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện từ học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoa học nghiên cứu về điện từ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện từ trường">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trường tổng hợp của từ trường và điện trường biến thiên nhanh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện tử I">
+  <Y_NGHIA Minh_hoa="x ejectron. lI tính từ Thuộc về electron; thuộc về hay có sử dụng những dụng cụ được chế tạo theo các phương pháp điện tử học hoặc hoạt động theo các nguyên lí của điện tử học. Dụng cụ điện tử. Máy tính điện tử." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện tử học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoa học về tác dụng qua lại giữa electron và các điện trường, từ trường, và về những phương pháp chế tạo các dụng cụ điện tử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điện văn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Văn bản gửi bằng điện báo. Gửi điện uăn chúc mừng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điếng">
+  <Y_NGHIA Minh_hoa="Điếng người đi, nhưng cố trấn tĩnh. Chết điếng vì nhục." Noi_dung="Ở vào trạng thái mất cảm giác toàn thân trong giây phút do chịu một tác động rất mạnh và đột ngột. Vấp một cái đau điếng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="† Động vật thân mềm, có hai vỏ mỏng, sống ở biển. 2 Chất bột trắng chế từ vỏ con điệp, có tác dụng làm trắng mịn và óng ánh mặt giấy, dùng trong ngành giấy, trong nghề in tranh khắc gỗ dân gian. Giấy điệp*." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; id.; kết hợp hạn chế). Bướm. Giấc điệp*." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(phương ngữ)." Noi_dung="điệp,d.">
+  <Y_NGHIA Minh_hoa="Bông điệp." Noi_dung="Phượng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp,">
+  <Y_NGHIA Minh_hoa="Gián điệp (nói tắt). Làm điệp cho nước ngoài." Noi_dung="(cũ; khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Thư về việc công thời trước. Bức điệp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điệp¿">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kết hợp hạn chế). Có sự lặp lại về mặt ngôn ngữ. &quot;Lim dim”, &quot;lắng lặng&quot; là những từ láy điệp vần. Điệp ý." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điệp báo l">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hoạt động bí mật trong lòng địch, thời bình và thời chiến, để trinh sát" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="" Noi_dung="nhằm phục vụ cho các kế hoạch chiến lược, chiến dịch và các kế hoạch sử dụng lực lượng vũ trang trong chiến tranh. II danh từ (khẩu ngữ). Điệp viên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp báo viên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Điệp viên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp đoạn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Điệp khúc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp khúc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Câu hay đoạn được lặp lại nhiều lần trong một bài hát, bản đàn hay bài thơ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp ngữ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phương thức biểu thị giá trị biểu cảm của lời văn bằng cách dùng lặp lại từ ngữ." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ hoặc ngữ được dùng lặp lại để biểu thị giá trị biểu cảm của lời văn. điệp trùng tính từ Như trùng điệp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp vận">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vẳn trùng lặp trong thơ. Thơ điệp uận (có vần trùng lặp)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điệp viên">
+  <Y_NGHIA Minh_hoa="Điệp uiên hoạt động ở nội thành. Cài điệp viên. điêu tính từ Có tính hay nói sai sự thật, để lừa đối. Nó điêu lắm, chớ tin! Đổ điêu* (cho người khác)." Noi_dung="Nhân viên điệp báo." />
+  <Y_NGHIA Minh_hoa="Cân điêu cho khách hàng." Noi_dung="Gian dối, man trá." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu đứng">
+  <Y_NGHIA Minh_hoa="Thiên tai dồn dập làm cho nhân dân điêu đứng." Noi_dung="Lâm vào cảnh phải vất vả đối phó với những khó khăn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điêu khắc">
+  <Y_NGHIA Minh_hoa="Nghệ thuật điêu khắc. Nhà điêu khắc." Noi_dung="Loại hình nghệ thuật thể hiện hoặc gợi tả sự vật trong không gian bằng cách sử dụng những chất liệu như đất, đá, gỗ, kim loại, v.v., tạo thành những hình nhất định." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu linh">
+  <Y_NGHIA Minh_hoa="Cảnh sống điêu linh." Noi_dung="Khổ sở cùng cực, đến mức xơ xác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu luyện">
+  <Y_NGHIA Minh_hoa="Bút pháp điêu luyện. Cầu thủ có đường bóng điêu luyện." Noi_dung="Được trau dồi đạt đến trình độ cao (nói về nghệ thuật, kĩ thuật)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu ngoa">
+  <Y_NGHIA Minh_hoa="Con người điêu ngoa. Thói điêu ngoa." Noi_dung="Hay nói nhiều điều bịa đặt, dối trá." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu tàn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Xơ xác, tàn tạ. Cảnh điêu tàn sau trận động đất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu toa">
+  <Y_NGHIA Minh_hoa="Như điêu ngoa. Thói điêu toa." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu trá">
+  <Y_NGHIA Minh_hoa="" Noi_dung="((d.). Như đối trá." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điều trác,">
+  <Y_NGHIA Minh_hoa="Văn chương điêu trác." Noi_dung="(cũ). Được gọt giũa tỉ mÏ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điêu trác;">
+  <Y_NGHIA Minh_hoa="Thói điêu trác của con buôn." Noi_dung="(ít dùng). Dối trá một cách khôn khéo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điều,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Đào lộn hột." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điều,">
+  <Y_NGHIA Minh_hoa="Làm điều phi pháp. Điều mong muốn. Hành hạ đủ điều." Noi_dung="Từ dùng để chỉ từng đơn vị những sự việc." />
+  <Y_NGHIA Minh_hoa="điều hay. (Một người) Lắm điều*." Noi_dung="Từ dùng để chỉ từng đơn vị những lời nói. Nói" />
+  <Y_NGHIA Minh_hoa="Mười điều kí | luật của quân đội. Căn cứ điều của Hiến. pháp." Noi_dung="Điểm, khoản trình bày riêng rẽ trong văn bản có tính chất pháp luật để diễn đạt rõ ràng hơn | nội dung được quy định." />
+  <Y_NGHIA Minh_hoa="Vẻ, dáng. Gật gật đầu, ra điều vừa ý lắm. Làm ra cái điều ta đây không cần. Trả lời, giọng như có điều bực bội." Noi_dung="(kng; kết hợp hạn chế, thường dùng sau ra)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điều;">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kng,). Điều động (nói tắt). Điều thêm người thêm xe. Cán bộ được điều đi công tác khác." />
+  <Y_NGHIA Minh_hoa="Điều công lao động giữa các đội." Noi_dung="Làm cho một bộ phận người hay phương tiện nào đó. được đưa đến nơi khác để bổ sung, để không có tình trạng quá chênh lệch; điều hoà." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="điều,">
+  <Y_NGHIA Minh_hoa="Sợi chỉ điều. Chiếu cạp điều. Phẩm điều." Noi_dung="Có màu đỏ tươi (thường do nhuộm)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điều áp">
+  <Y_NGHIA Minh_hoa="Van điều áp." Noi_dung="Giữ ở áp suất không biến đổi trong một thể tích nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="điều ăn tiếng nói">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Cách nói năng trong quan hệ đối xử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điểu binh khiển tướng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Điều động và chỉ huy quân đội." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điều chế">
+  <Y_NGHIA Minh_hoa="Điều chế thuốc. Nguyên liệu dùng để điều chế hoá chất." Noi_dung="Tạo ra chất mới từ những chất đã có sẵn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điều chỉnh">
+  <Y_NGHIA Minh_hoa="Điều chỉnh đường ngắm. Điều chỉnh lực lượng cán bộ trong các ngành. Kế hoạch đã được điều chỉnh." Noi_dung="Sửa đổi, sắp xếp lại ít nhiều cho đúng hơn, cân đối hơn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="điều chỉnh dòng chảy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Công trình thuỷ công) chống lại những tác động không tự điều chỉnh được của dòng sông, bảo" />
+  </MUC_TU>
+ </GOC>

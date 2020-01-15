@@ -1,0 +1,230 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu dê">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đặc trưng tâm sinh lí của người đàn ông có tính rất dâm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu ghen">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đặc trưng tâm lí của người có tính hay ghen." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu huyết">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Máu của con người (nói khái quátÙ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu khô">
+  <Y_NGHIA Minh_hoa="Truyền máu khô cho bệnh nhân." Noi_dung="Huyết tương hoặc những chế phẩm nhân tạo tương tự như huyết tương đã được làm khô lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu lửa">
+  <Y_NGHIA Minh_hoa="Dìm phong trào trong máu lứa." Noi_dung="Máu và lửa (nói khái quát); dùng để chỉ sự khốc liệt của chiến tranh, của sự đàn áp, khủng bố." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu me">
+  <Y_NGHIA Minh_hoa="Máu me đầm đìa. Mặt mày bằm tím, máu me bê bết. Mình đây máu me." Noi_dung="Máu đổ ra, dây ra nhiều (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="máu me">
+  <Y_NGHIA Minh_hoa="Như máu mê. Tay ấy cũng máu mẹe Lăm." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="máu mê">
+  <Y_NGHIA Minh_hoa="Máu mê cờ bạc. Một con bạc máu mê." Noi_dung="(hoặc tính từ). Ham mê các trò chơi, thường là cờ bạc, đến mức không còn biết gì đến những việc khác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu mủ">
+  <Y_NGHIA Minh_hoa="Anh em máu mủ. Có quan hệ máu mủ với nhau." Noi_dung="Máu và mủ (nói khái quát). Dùng để chỉ quan hệ ruột thịt thân thích. Tình máu mủ." />
+  <Y_NGHIA Minh_hoa="Ðem mồ hôi máu mủ đối lấy bát cơm. Hút máu mu (vch.; bóc lột)." Noi_dung="Dùng để ví công sức, tính lực của người lao động đã bỏ ra để làm nên của cải vật chất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu nóng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="úd.). Tính dễ nổi nóng." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như nhiệt huyết. BẦu máu nóng của tuổi trẻ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu quẻ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Máu kinh nguyệt. Đồ máu què! (thgt.; tiếng chửi)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu tham">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đặc trưng tâm lí của người có tính tham lam." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu thịt">
+  <Y_NGHIA Minh_hoa="Gắn bó máu thịt với quê hương." Noi_dung="Máu và thịt con người (nói khái quát). Dùng để ví mối quan hệ xã hội gắn bó thân thiết, không thể tách rời." />
+  <Y_NGHIA Minh_hoa="Lời th nguyền đã thấm sâu upào máu thịt." Noi_dung="Dùng để chỉ phần tình cảm sâu sắc nhất ở mỗi con người." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu trắng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tên gọi thông thường của bệnh bạch cầu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máu xương">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như xương máu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="may,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(văn chương). Heo may (nói tắt). Gió may. Hơi may. ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="may, !">
+  <Y_NGHIA Minh_hoa="Dịp may hiếm có. Gặp may. (Làm) cầu may*. Biến rúi thành may. lÌ tính từ Ờ vào tình hình gặp được may. Gặp anh lúc này thật may quá. Việc không may. May mà không ai hệ gì." Noi_dung="Điều tốt lành tình cờ đưa đến đúng lúc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="may;">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Dùng kim chỉ kết các mảnh vải, lụa, v.v. thành quần áo hoặc đồ dùng. Thợ may." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="may đo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="May quần áo theo kích thước cụ thể của từng người (nói khái quát); phân biệt với may sẵn. Cửa hàng may đo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="may mà">
+  <Y_NGHIA Minh_hoa="Xe đâm nhau, may mà không ai hề gì." Noi_dung="Tổ hợp biểu thị điều sắp nói đến là một thực tế đã xảy ra, và đó là điều may mắn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="may mặc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="May quần áo, trang phục (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="may mắn">
+  <Y_NGHIA Minh_hoa="Chúc may mắn. Chẳng lấy gì làm may mắn." Noi_dung="May (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="may ö">
+  <Y_NGHIA Minh_hoa="" Noi_dung="mayô." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="may ra">
+  <Y_NGHIA Minh_hoa="Lằn này may ra thì được. Đi ngay, may ra còn kịp. -" Noi_dung="Cũng có thể xảy ra điều đang mong ước không biết chừng, vì cũng có ít nhiều hi vọng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="may rủi">
+  <Y_NGHIA Minh_hoa="Thỉ cứ đâu phải là chuyện may rủi. Trông uào may rủi (danh từ)." Noi_dung="(hoặc danh từ). Chỉ tuỳ thuộc vào ngẫu nhiên, vào may hay rủi mà được hay không được (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="may sao">
+  <Y_NGHIA Minh_hoa="May sao trời lại tạnh, chứ không thì ướt hết. May sao uỗ kịp." Noi_dung="May mắn làm sao mà." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="may sấn">
+  <Y_NGHIA Minh_hoa="Cửa hàng chuyên bán quân áo meaysán.. `" Noi_dung="(thường dùng phụ sau danh từ). May quần áo hàng loạt, theo những cỡ nhất định chứ không theo kích thước cụ thể của từng người (nói khái quát); phân biệt với may đo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="may-so">
+  <Y_NGHIA Minh_hoa="" Noi_dung="?2ayso." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ay vá">
+  <Y_NGHIA Minh_hoa="" Noi_dung="May và vá quần áo (nói khái" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="xát).">
+  <Y_NGHIA Minh_hoa="Biết may uá, nấu nướng." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ày,">
+  <Y_NGHIA Minh_hoa="Lông mày (nói tắt). Mặt ủ," Noi_dung="(văn chương)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tày chau.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ảày,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="1 Lá bắc ở hoa các cây như ngô," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="aa, về sau tồn tại dưới dạng hai vẩy nhỏ ở">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="c quả">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(loại quả này quen gọi là hạt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tày ngô.">
+  <Y_NGHIA Minh_hoa="Vẩy ốc." Noi_dung="2 (phương ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="tà,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="1 Từ dùng để gọi người ngang" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="àng hoặc hàng dưới khi nói với người ấy,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung=") ý coi thường, coi khinh.">
+  <Y_NGHIA Minh_hoa="Không thầy đố" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(tục ngữ)." Noi_dung="tầy làm nên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="2 (khẩu ngữ). Từ dùng để" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="5i thân mật người có quan hệ rất gần">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ũi, ngang hàng hoặc hàng dưới, khi nói">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="5” người ấy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thường dùng trong lớp người" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="š tuổi, nhỏ tuổi).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Mày đến tao chơi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="này đay">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chứng ngứa nổi từng đám ở" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="goài da, thường do dị ứng,">
+  <Y_NGHIA Minh_hoa="Nối mày đay." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="này mặt">
+  <Y_NGHIA Minh_hoa="Như mặt mày." Noi_dung="(ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="này mò">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Dò tìm để làm một cách kiên" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hẫn, do chưa biết cách làm, chưa có kinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="phiệm.">
+  <Y_NGHIA Minh_hoa="Mày mò mãi cũng làm được." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="này râu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ, hoặc khẩu ngữ). Lông mày" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="âm) và râu; dùng để chỉ giới đàn ông,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ho là phải có khí phách, khác với giới">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hụ nữ yếu ớt, theo quan niệm cũ.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Không" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hịu thua cánh mày râu.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tảy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần, lượng rất nhỏ, chỉ có chút Ít," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hông đáng kể.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Gà con nhặt từng mấy gạo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hông sướt một máy do.">
+  <Y_NGHIA Minh_hoa="Hết sạch không Òn một máy." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="xảy may">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần lượng hết sức nhỏ, hoàn sàn không đáng kể (thường dùng đề" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hấn mạnh ý phủ định).">
+  <Y_NGHIA Minh_hoa="Hết sạch không sót một máy may." Noi_dung="Không máy may ợ hãi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="thông có máy may.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="náy,">
+  <Y_NGHIA Minh_hoa="Máy cày. “Máy hát điện. Xuông gắn máy (chạy bằng náy). Xe máy*. Làm việc như cái máy. lI tính từ dùng phụ sau d.; kết hợp hạn chế). Được àm bằng máy. Gạo máy (xay xát bằng máy). Nước máy&quot;. II động từ (khẩu ngữ). May bằng máy khâu. Máy quân áo." Noi_dung="1 danh từ Vật được chế tạo gồm nhiều bộ nhận, thường là phức tạp, dùng để thực lện chính xác hoặc hàng loạt một công lệc chuyên môn nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="máy,">
+  <Y_NGHIA Minh_hoa="Tự nhiên thấy máy mắt Máy môi định nói. Cái thai máy trong bụng." Noi_dung="Tự nhiên thấy rung động khẽ (thường ở mắt, môi)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="máy,">
+  <Y_NGHIA Minh_hoa="Máy nhau ra uỗ. Máy riêng ra ngoài hỏi chuyện." Noi_dung="(khẩu ngữ). Ra hiệu ngằm bảo làm việc gì hoặc báo cho biết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="máy,">
+  <Y_NGHIA Minh_hoa="Đào, bới ở một lớp rất nông trên bề mặt. Đời cua cua máy, đời cáy cáy đào (tục ngữ)." Noi_dung="(cũ; ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy ảnh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Dụng cụ dùng để chụp ảnh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bào">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Máy gọt cắt kim loại để gia công các bề mặt phẳng và bề mặt định hình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bay">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phương tiện vận tải hay chiến đấu bay trên không nhờ động cơ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bay bà già">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Máy bay kiểu cũ, bay chậm, chuyên việc tiếp tế hoặc trinh sát (quân đội Pháp dùng trong chiến tranh Đông Dương 1946-1954)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bay cánh quạt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Máy bay dùng sức chuyển động của cánh quạt để bay. máy bay cường kích danh từ Máy bay chủ yếu dùng để đánh phá các mục tiêu mặt đất, mặt nước hoặc để chỉ viện chiến đấu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bay không người lái">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Máy bay không có người lái điều khiển, tự động bay theo SỰ điều khiển từ xa bằng radio hoặc theo chương trình đã lắp sẵn ở căn cứ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bay khu trục">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Máy bay tiêm kích. máy bay lên thẳng danh từ cn máy bay LƯa thăng. Máy bay có thể lên xuống thẳng đứng hoặc bay lơ lửng trên một điểm nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bay phản lực">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Máy bay chuyên động nhờ sức đẩy tạo nên bằng luồng hơi phụt ra rất mạnh phía sau, có thể bay nhanh và cao hơn nhiều so với máy bay cánh quạt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="máy bay tiêm kích">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Máy bay chủ yếu dùng để săn đuổi và đánh máy bay của đối phương ở trên không." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="máy bay trực thăng d.x máy bay lên thẳng.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ </GOC>

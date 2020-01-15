@@ -1,0 +1,180 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="mà thật ra mình đã khẳng định.">
+  <Y_NGHIA Minh_hoa="Hẳn anh còn nhớ? Anh lại quên rồi hẳn?" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hẳn hoi">
+  <Y_NGHIA Minh_hoa="Có uiệc làm hẳn hoi. Có giấy tờ hẳn hoi." Noi_dung="(khẩu ngữ). Có được đầy đủ các yêu cầu, đúng tiêu chuẩn như thường đòi hỏi." />
+  <Y_NGHIA Minh_hoa="Mắt trông thấy hẳn hoi." Noi_dung="Thật sự." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hẳn nhiên">
+  <Y_NGHIA Minh_hoa="Điều hẳn nhiên, ai cũng biết." Noi_dung="Rõ ràng là như vậy, không có gì phải nghỉ ngờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hẳn hòi">
+  <Y_NGHIA Minh_hoa="Như hẳn hoi." Noi_dung="(kng.; ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="hắn">
+  <Y_NGHIA Minh_hoa="Hắn không phải là người tử tế." Noi_dung="(khẩu ngữ). Từ dùng để chỉ người ở ngôi thứ ba với hàm ý coi thường hoặc thân mật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng,">
+  <Y_NGHIA Minh_hoa="Đất mới hăng mùi có dại. Hăng như mùi vôi sống. hăng; tính từ Ở trạng thái tính thần được kích thích, biểu lộ bằng hành động sôi nổi. Càng nói càng hăng. Cãi nhau rất hăng." Noi_dung="(Mùi) có nồng độ cao, xông lên mũi, gây cảm giác khó chịu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng hái">
+  <Y_NGHIA Minh_hoa="Hăng hái giúp đỡ bạn. Tuổi thanh niên hăng hái." Noi_dung="Ở trạng thái có nhiệt tình, biểu lộ bằng thái độ tích cực trong công việc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng hắc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem hốc, (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng máu">
+  <Y_NGHIA Minh_hoa="Đang hăng máu nên không biết sợ là gì." Noi_dung="(khẩu ngữ). Hăng tới mức không tự chủ được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng máu vịt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thông tục). Sôi nổi bồng bột trong chốc lát (nhàm ý châm biếm)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng say">
+  <Y_NGHIA Minh_hoa="Lao động hắng say." Noi_dung="Hăng hái và say mê." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng tiết">
+  <Y_NGHIA Minh_hoa="Như hăng máu (nhưng càng có sắc thái khẩu ngữ hơn)." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hăng tiết vịt">
+  <Y_NGHIA Minh_hoa="Như hăng máu Uịt. hằng phụ từ (dùng phụ trước động từ). Từ biểu thị tính liên tục của một hoạt động (thường là hoạt động tâm lí - tình cảm) diễn ra trong suốt cả thời gian dài; thường, luôn luôn. Điều chúng ta hằng mong ước." Noi_dung="(thông tục)." />
+  <Y_NGHIA Minh_hoa="kì theo từng đơn vị thời gian được nói đến. Tạp chí ra hằng tháng. Ngày hội hằng năm. Công uiệc hằng ngày." Noi_dung="(dùng phụ trước danh từ chỉ đơn vị thời gian). Từ biểu thị tính lặp đi lặp lại một cách định" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hằng bất đẳng thức">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bất đẳng thức đúng với mọi trị số gán cho các chữ trong đó. @ + 1&gt; 0 là một hằng bất đẳng thức." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hằng đẳng thức">
+  <Y_NGHIA Minh_hoa="Hằng hà châu báu. Người đi hằng hà như trấy hội." Noi_dung="Đẳng thức đúng với mọi trị số gán cho các chữ trong đó. (a + b? = @ + 2ab + b là một hằng đẳng thức đáng hằng hà tính từ (văn chương). Hằng hà sa số (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hằng hà sa số">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhiều không đếm xuể (ví như cát sông Hằng ấn Ðộ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hằng sản">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; id.; thường dùng đi đôi với hằng tâm). Có sẵn tiền của để làm uiệc nghĩa Người hằng sản, kế hằng tâm, ai cũng có phần đóng góp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hằng số">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Số không đối trong quá trình được xét; đối lập với biến số." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hằng tâm">
+  <Y_NGHIA Minh_hoa="Có sẵn lòng tốt để làm uiệc nghĩa." Noi_dung="(cũ; id.; thường dùng đi đôi với hằng sản)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hằng tâm hằng sản">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Có tiền của và có lòng sẵn sàng làm việc nghĩa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hằng tình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Sao." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hắng">
+  <Y_NGHIA Minh_hoa="Việc ấy vài hôm nữa hằng làm." Noi_dung="(khẩu ngữ). (đùng phụ trước động từ). Từ biểu thị ý thuyết phục chỉ nên làm việc nào đó sau khi xong một việc khác hoặc chờ cho qua một thời gian nhất định; như hãy. Ăn cơm xong hãng về." />
+  <Y_NGHIA Minh_hoa="ăn cơm đã, rồi đi đâu thì đi. Bây giờ chúng ta hãng biết thế" Noi_dung="(dùng phụ trước động từ). Từ biểu thị ý thuyết phục nên làm hoặc chấp nhận việc gì đó trước, còn tiếp đến những gì thì sau sẽ hay. Hãng" />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kng.; dùng ở cuối câu, cuối đoạn câu). Từ biểu thị việc nói đến cần được hoàn thành trước khi làm những việc gì khác; như đã. Để xem sao hàng. ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hắng giọng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phát ra tiếng ngắn trong cổ, thường để lấy giọng trước khi nói hoặc để làm hiệu. Hắng giọng mấy cái rồi mới bắt đầu đọc. Hắng giọng cho người trong nhà biết là khách đã đến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hắt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="1 Làm cho chất lỏng rời xa ra khỏi vật đựng hoặc vật rời chuyển xa ra chỗ" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Hắt chậu nước ra sân. Hắt từng xéng than uào lò. 2 (Luồng nước hoặc ánh sáng, âm thanh) bị đổi chiều tác động do sức gió hay do gặp vật cản. M1za hắt uào nhà. Ánh nắng hắt từ mặt sông lên. Âm thanh dội uào uách đá rồi hắt ra thành những tiếng vọng." Noi_dung="khác bằng động tác đưa ngang nhanh và mạnh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hắt hiu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như h¡u hắt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hắt hơi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bật mạnh hơi ra đằng mũi, đằng miệng và phát ra thành tiếng do màng mũi bị kích thích đột ngột." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hắt hủi">
+  <Y_NGHIA Minh_hoa="Bj bạn hãt hut." Noi_dung="Tỏ thái độ ghét bỏ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hắt xì">
+  <Y_NGHIA Minh_hoa="Như hắt hơi." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hắt xì hơi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Như hắt hơi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hâm,">
+  <Y_NGHIA Minh_hoa="Hâm canh. Hâm nước thuốc." Noi_dung="Đun lại cho nóng thức ăn uống đã nguội." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hâm;">
+  <Y_NGHIA Minh_hoa="Tính hâm. Anh chàng hâm." Noi_dung="(khẩu ngữ). Có tính khí không được bình thường, biểu hiện bằng những lối nói năng, những hành vi ít nhiều gàn, ngớ ngẩn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hâm hẩm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Kng.; ít dùng). Ở trạng thái hơi nóng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hâm hấp,">
+  <Y_NGHIA Minh_hoa="Trán hâm hấp nóng." Noi_dung="(Cơ thể) ở trạng thái nóng không cao, nhưng kéo dài. Người lúc nào cũng hâm hấp như sốt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hâm hấp¿t.">
+  <Y_NGHIA Minh_hoa="Hơi hâm. Tính hâm hấp." Noi_dung="(xng,)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hâm mộ">
+  <Y_NGHIA Minh_hoa="Hâm mộ bóng đá. Được nhiều người hâm mộ." Noi_dung="Chuộng và mến phục." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hầm,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoảng trống đào tronglòng đất, kích thước các chiều ít chênh lệch nhau, thường có nắp, dùng làm nơi ẩn nấp, cất giấu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hầm,">
+  <Y_NGHIA Minh_hoa="Hầm chân giò. Hầm uôi. Vịthâm." Noi_dung="Nấu, nung trong lò, trong nồi đậy kín, cho chín nhừ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hầm ẩn nấp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hầm để ẩn tránh các loại bom đạn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="xẩm hảo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Công sự đào, như hầm, hào, 1ể chiến đấu và phòng tránh (nói khái quát). ïứa sang hầm hào, sẵn sàng chiến đấu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="xẩm hầm">
+  <Y_NGHIA Minh_hoa="Hằm hầm bỏ đi. đặt hâm hâm." Noi_dung="Từ gợi tả vẻ mặt tức giận lắm nà không nói năng gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hầm hập">
+  <Y_NGHIA Minh_hoa="Hơi nóng bốc lên hầm hập. Lên cơn sốt, người nóng hầm hập." Noi_dung="(Hơi nóng) ở trạng thái bốc mạnh và kéo dài, gây cảm giác khó chịu." />
+  <Y_NGHIA Minh_hoa="khí hầm hập chuẩn bị bãi công." Noi_dung="(Khí thế của số đông) ở trạng thái sôi nổi, mạnh mẽ. Không" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hầm hè">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Biểu lộ thái độ tức giận, chỉ chực sinh sự. Hầm hè nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hầm hố">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Công sự đào, có nắp hay không có nắp, như hầm, hố, để ẩn tránh bom đạn (nói khái quát). Sửa sang hầm hố, đề phòng máy bay oanh toạc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hầm hừ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như hầm hè." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hầm lò">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Công trình đào trong lòng đất, như hầm, lò, dùng trong khai thác mỏ (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hầm mỏ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vùng có chứa khoáng sản trong lòng đất đang được khai thác (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hẩm tàu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoang trong thân tàu thuỷ, nằm dưới boong dưới, dùng để đặt máy tàu, xếp hàng hoá và các thức dự trữ, v.v." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hầm trú ẩn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Hằm ẩn nấp" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hẩm">
+  <Y_NGHIA Minh_hoa="Gạo hẩm. Cơm hẩm (cơm gạo hẩm)." Noi_dung="(Thóc, gạo) biến chất, biến màu, không còn tươi ngon." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(văn chương). (chỉ dùng phụ sau danh từ). (Số phận) chịu thua kém; hẩm hiu. Phận hẩm duyên ôi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hẩm hiu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Hẩm (nói khái quát)." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Số phận) chịu thua kém. Thân phận hẩm hiu. Hẩm hiu uễ đường nhân duyên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hẩm hút">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Id.). Đạm bạc, nghèo khổ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hấm hứ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phát ra những tiếng giọng mũi để tỏ ra bực dọc, không bằng lòng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hậm hà hậm hực">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem hậm hực (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hậm hoẹ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Làm ra vẻ doạ nạt. Nó chỉ hậm hoẹ thế thôi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hậm hụi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hay tính từ). (Kng; ít dùng). Có điều không vừa ý mà không thể nói ra; hậm hực. Không nói ra, nhưng hậm hụi trong lòng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hậm hực">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Có thái độ bực tức, khó chịu trong lòng vì không được như ý, mà không thể nói ra, không thể phản ứng lại. Đuối lí" />
+  </MUC_TU>
+ </GOC>

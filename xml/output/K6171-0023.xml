@@ -1,0 +1,203 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="âm vị học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Môn học nghiên cứu âm vị của ngôn ngữ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="âm vực">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Quãng âm bao gồm tất cả các cung của một giọng hát hay một nhạc khí." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ẩm">
+  <Y_NGHIA Minh_hoa="Súng nổ ầm. Cây đổ đánh âm một cái. Máy chạy Âm ầm." Noi_dung="Từ mô phỏng tiếng động to và rên." />
+  <Y_NGHIA Minh_hoa="Cười nói Âm nhà. Đôn ầm cả lên." Noi_dung="To tiếng và ồn ào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ẩm ã">
+  <Y_NGHIA Minh_hoa="Tiếng máy chạy, tiếng búa, tiếng người âm ã cá khu ẩm ì tính từ Từ mô phỏng tiếng động từ xa vọng tới, nghe nhỏ, rền đều đều và kéo dài. Tiếng máy bay ầm ì ởchân trời." Noi_dung="Có nhiều tiếng ồn và tiếng động to, rền liên tiếp (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ẩm T">
+  <Y_NGHIA Minh_hoa="Khua chuông gõ trống ầm 1. Quát tháo âm 1." Noi_dung="(thường dùng phụ sau động từ). Ôn ào, náo động, gây cảm giác khó chịu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩm ửừ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ mô phỏng tiếng phát ra không rõ trong cổ họng. Rên âm ù." />
+  <Y_NGHIA Minh_hoa="Ẩm ừ cho qua chuyện. Ẩm ừ lấy lệ." Noi_dung="Từ gợi tả lối trả lời không rõ ràng, dứt khoát, không hẳn đồng ý, cũng không hẳn từ chối." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ẩm">
+  <Y_NGHIA Minh_hoa="Quần áo ẩm. Không khí ẩm. Chống ẩm. !! Láy: âm ẩm (ý mức độ tt). ẩm độ danh từ (ít dùng). Độ ẩm." Noi_dung="Có thấm một ít nước hoặc có chứa nhiều hơi nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ẩm kế">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khí cụ đo độ ẩm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="ẩm sìt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ẩm lắm. Quần áo ẩm sì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ẩm thấp">
+  <Y_NGHIA Minh_hoa="Khí hậu ẩm thấp." Noi_dung="Có chứa nhiều hơi nước; ẩm (nói khái quát)." />
+  <Y_NGHIA Minh_hoa="ẩm thấp." Noi_dung="Không cao ráo. Nhà cửa" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩm thực">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; id.; kết hợp hạn chế). Ăn uống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ẩm ương">
+  <Y_NGHIA Minh_hoa="Chuyện ẩm ương không ai muốn nghe. Tính khí ẩm ương." Noi_dung="(khẩu ngữ). Dở, chẳng ra làm sao, chẳng có tác dụng gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ẩm ướt">
+  <Y_NGHIA Minh_hoa="Khí hậu ẩm ướt." Noi_dung="Thấm nhiều nước hoặc có chứa nhiều hơi nước; ẩm lắm (nói khái quát). Nên nhà ẩm ướt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ẩm xìx.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ám sỉ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ẩm xìu t">
+  <Y_NGHIA Minh_hoa="Bánh quế ẩm xìu." Noi_dung="Ẩm và mềm ỉu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="âm ờ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(¡d.). Nhưỡm: Ờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ấm,">
+  <Y_NGHIA Minh_hoa="Pha một ấm trà. Đun một ấm nước." Noi_dung="Đồ dùng bằng đất nung hoặc kim loại, có vòi, dùng để đụng nước uống hoặc để đun nước, sắc thuốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ấm,">
+  <Y_NGHIA Minh_hoa="Cậu ấm cô chiêu (gọi chung con cái quan lại thời trước)." Noi_dung="Phúc đức, ân huệ của ông cha để lại, theo quan niệm cũ. Nhờ ấm tổ tiên. ấm, danh từ Ấm sinh (gọi tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm,">
+  <Y_NGHIA Minh_hoa="Vước ấm. Nắng ấm. Trời ấm lên." Noi_dung="Có nhiệt độ cao hơn mức trung bình một ít (thường gây cảm giác dễ chịu)." />
+  <Y_NGHIA Minh_hoa="cơ thể bị lạnh. Áo ấm. Mặc đủ ấm." Noi_dung="Có tác dụng giữ ấm, không để cho" />
+  <Y_NGHIA Minh_hoa="Giọng hát ấm. Màu trong tranh rất ấm. // Láy: âm ấm (ý mức độ ít)." Noi_dung="Có tác dụng gây cảm giác êm dịu, dễ chịu Uống chén nước chè cho ấm bụng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm a ấm ớ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hay tính từ). xem ấm ớ (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm a ấm ứ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hay tính từ). xem ấm ú (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm a ấm ức">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hay t).x. ấm ức (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm ách">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ gợi tả trạng thái bụng như đầy ứ, gây cảm giác tức, khó chịu. Bung ấm ách như bị đầy hơi. Tức ấm ách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm áp">
+  <Y_NGHIA Minh_hoa="Nắng xuân ấm áp. Giọng nói ấm áp. Thấyấm áp trong lòng." Noi_dung="Ấm và gây cảm giác dễ chịu (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ấm chuyên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ấm nhỏ có quai, dùng để pha và chuyên trà." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm cúng">
+  <Y_NGHIA Minh_hoa="Gian phòng ấm cúng. Cảnh gia đình ấm cúng." Noi_dung="Có tác dụng gây cảm giác thân mật, dễ chịu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm đầu">
+  <Y_NGHIA Minh_hoa="Bé hơi ấm đầu." Noi_dung="(khẩu ngữ). (Trẻ nhỏ) hơi sốt hơi ốm (lời nói kiêng tránh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm êm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Nhưêm ấm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm no">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đầy đủ về vật chất, như đủ ăn, đủ mặc, v.v. Xây dựng cuộc sống ấm n0, hạnh phúc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ấm oái">
+  <Y_NGHIA Minh_hoa="Trẻ con trêu nhau ấm oái cả ấm oé tính từ Từ mô phỏng tiếng kêu, tiếng nói to và nghe chói tai. Gọi nhau ấm oé." Noi_dung="Từ mô phỏng tiếng kêu khi trêu ghẹo nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm ớ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hay tính từ). (khẩu ngữ). 1 Từ gợi tả vẻ tỏ ra không hẳn biết, nhưng cũng không" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Trả lời ấm ớ. Âm ớ giả câm, giả điếc. 2 Từ gợi tả lối làm việc đại khái, không rõ ràng, không đâu vào đâu. Làm ăn ấm ớ, được sao hay uậy. /! Láy: ấm a ấm ớ (ý mức độ nhiều)." Noi_dung="hẳn là không biết về điều gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ẩm siêu d.x. siêu,.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ấm sinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Danh vị cấp riêng cho con trai quan lại cao cấp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ấm tích">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ấm to bằng sứ dùng để đựng nước uống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm ứ">
+  <Y_NGHIA Minh_hoa="Âm ứ không trả lời. Không thuộc bài, ấm ứ mãi. !! Láy: ấm a ấm ứ (ý mức độ nhiều)." Noi_dung="(hay tính từ). Từ gợi tả vẻ lúng túng không nói được hay nói một cách khó khăn, không trôi chảy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm ức">
+  <Y_NGHIA Minh_hoa="Ấm ức trong lòng. /! Láy: ấm a ấm ức (ý mức độ nhiều)." Noi_dung="(hay tính từ). Bực tức mà phải nén lại, không nói ra được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="âm à ậm ạch">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem ôm ạch (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ậm ạch">
+  <Y_NGHIA Minh_hoa="Xe bò ậm ạch lên dốc. Công uiệc làm cứ âm ạch mãi. II Láy: ậm à ậm ạch (ý mức độ nhiều)." Noi_dung="Từ gợi tả dáng vẻ chuyển động, vận động nặng nề, khó nhọc, chậm chạp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="âm oẹe">
+  <Y_NGHIA Minh_hoa="Tiếng loa âm oẹ." Noi_dung="Từ mô phỏng tiếng nói to bị cản từ trong cổ họng, trầm và nghe không rõ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="âm ờ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Nhưằm ừ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="âm ừ">
+  <Y_NGHIA Minh_hoa="Âm ừ cho qua chuyện." Noi_dung="Như ầm ừ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="âmực t">
+  <Y_NGHIA Minh_hoa="Ẩm ực muốn khóc." Noi_dung="Ấm ức lắm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân">
+  <Y_NGHIA Minh_hoa="Ân sâu nghĩa nặng." Noi_dung="(kết hợp hạn chế). Ơn (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân ái">
+  <Y_NGHIA Minh_hoa="" Noi_dung="và động từ Nhướái ân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ân cần">
+  <Y_NGHIA Minh_hoa="Thái độ ân cần. Lời thăm hỏi ân cần." Noi_dung="(Cách đối xử) tỏ ra quan tâm chu đáo và đầy nhiệt tình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân đức">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Công ơn và đức độ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ân giảm">
+  <Y_NGHIA Minh_hoa="Phạm nhân được ân giảm nhân ngày Quốc Khánh." Noi_dung="Giảm nhẹ hình phạt cho phạm nhân đã bị kết án, coi đó là một đặc ân của nhà nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ân hận">
+  <Y_NGHIA Minh_hoa="Ân hận uì đã làm mẹ buồn. Không có điều gì phải ân hận." Noi_dung="Băn khoăn, day dứt và tự trách mình trước việc không hay đã để xảy ra." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân huệ">
+  <Y_NGHIA Minh_hoa="Như ơn (thường là của người trên đối với người dưới). Ban ân huệ. Được hướng ân huệ." Noi_dung="(trang trọng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân nghĩa">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tình nghĩa gắn bó do có ơn đối với nhau. Ấn sâu nghĩa nặng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân nhân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người làm ơn, trong quan hệ với người mang ơn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân oán">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Ân nghĩa và thù oán (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân tình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tình cảm thắm thiết do có ơn sâu đối với nhau. Mang nặng ân tình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ân tình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đầy ân tình hoặc đầy tình cảm thắm thiết, nói chung. Câu chuyện ân tình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ân tứ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Ơn vua ban." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ân xá">
+  <Y_NGHIA Minh_hoa="Ra lệnh ân xá một số phạm nhân." Noi_dung="Tha miễn hình phạt cho phạm nhân đã bị kết án, coi đó là một đặc ân của nhà nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩn,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đẩy nhanh một cái. Ấn cánh cửa bước uào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩn, I">
+  <Y_NGHIA Minh_hoa="Du kích khi ẩn khi hiện. Hòn đảo ẩn trong sương mù." Noi_dung="Giấu mình vào nơi kín đáo cho không lộ ra, cho khó thấy." />
+  <Y_NGHIA Minh_hoa="(Các nhà nho ngày xưa) lánh đời, ở nơi ít người biết. Từ quan uề ẩn ở quê nhà. l\ danh từ (chuyên môn). Cái chưa biết trong một bài toán, một phương trình, v.v." Noi_dung="(id.; thường nói ở ẩn)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩn cư">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Ở ẩn. Về ẩn cư nơi thôn dã. Lối sống ẩn cư." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩn danh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Giấu tên tuổi của mình không muốn cho người đời biết. Tác giá ấn danh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩn chứa">
+  <Y_NGHIA Minh_hoa="Vùng đất ẩn chứa những tiềm năng chưa được khai thác." Noi_dung="Có, giữ ở bên trong, không để lộ rõ ra. Câu nói ẩn chứa một ý nghĩa sâu xa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩn dật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ở ẩn và vui thú với cảnh sống an nhàn. Nhà nho ẩn dật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ẩn dụ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phép dùng từ ngữ dựa trên sự so sánh ngầm. Nói &quot;ánh sáng chân lí&quot; là dùng lối ẩn dụ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ẩn giấu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Được chứa đựng một cách kín đáo, không để lộ ra. Nhiều tài nguyên" />
+  </MUC_TU>
+ </GOC>

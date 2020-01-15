@@ -1,0 +1,83 @@
+<GOC>
+ <MUC_TU Loai_tu="xem" Noi_dung="axeton">
+  <Y_NGHIA Minh_hoa="" Noi_dung="aceton." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="axitx acid.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="axit amin">
+  <Y_NGHIA Minh_hoa="" Noi_dung="aminoacid." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="axit axetic">
+  <Y_NGHIA Minh_hoa="acid acetic." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="axit cacbonic">
+  <Y_NGHIA Minh_hoa="" Noi_dung="acid carb" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="axit clohiđric">
+  <Y_NGHIA Minh_hoa="acid chlor" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="axit nitric">
+  <Y_NGHIA Minh_hoa="" Noi_dung="acid nitríc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="nhôm ;">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vu ”" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="uc - lm hư">
+  <Y_NGHIA Minh_hoa="" Noi_dung="NH) mi &quot;" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="azot">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ), Nitrogen." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ä,Ä">
+  <Y_NGHIA Minh_hoa="" Noi_dung="[&quot;á&quot;] Con chữ thứ hai của bảng chữ cái chữ quốc ngữ, viết nguyên âm &quot;a&quot; ngắn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ăccoóc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Accordeon." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="ăccoócđêông">
+  <Y_NGHIA Minh_hoa="" Noi_dung="accordeon." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="ăcquy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="acquy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ăm ắp t.x. áp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm">
+  <Y_NGHIA Minh_hoa="Bế (trẻ nhỏ). Mẹ Ấm con." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ấm ngửa">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bế ngửa trên tay (nói về trẻ mới sinh, còn ít tháng). Con còn ấm ngửa. Từ thuở ám ngưa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ăn">
+  <Y_NGHIA Minh_hoa="Ăn cơm. Thức ăn. Ăn có nhai, nói có nghĩ (tục ngữ). Làm đủ ăn. Cỏ ăn hết màu." Noi_dung="Tự cho vào cơ thể thức nuôi sống." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ăn uống nhân dịp gì. Ăn cưới. Ăn liên hoan. Ăn Tết." />
+  <Y_NGHIA Minh_hoa="Cho máy ăn dầu mỡ. Xe ăn tốn xăng. Tàu đang ăn hàng (nhận hàng để chuyên chở) ở cảng." Noi_dung="(Máy móc, phương tiện vận tải) tiếp nhận cái cản thiết cho sự hoạt động." />
+  <Y_NGHIA Minh_hoa="Ăn hoa hồng. Ăn thừa tự. Ăn lương tháng." Noi_dung="(kết hợp hạn chế). Nhận lấy để hưởng." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Phải nhận lấy, chịu lấy (cái không hay; hàm ý mỉa mai). Ăn đòn. Ăn đạn." />
+  <Y_NGHIA Minh_hoa="cuộc thi đấu). Ăn con xe. Ăn giải. Ăn cuộc. Ăn nhau ở tỉnh thần." Noi_dung="Giành về mình phần hơn, phần thắng (trong" />
+  <Y_NGHIA Minh_hoa="Da ăn nắng. Cá không ăn muối, cá ươn (tục ngữ)." Noi_dung="Hấp thu cho thấm vào, nhiễm vào trong bản thân. Vải ăn màu." />
+  <Y_NGHIA Minh_hoa="Hồ dán không ăn. Gạch ăn uôi vữa. Phanh không ăn." Noi_dung="Gắn, dính chặt vào nhau, khớp với nhau." />
+  <Y_NGHIA Minh_hoa="Hai màu rất ăn với nhau. Người ăn ảnh (chụp ảnh dễ đẹp)." Noi_dung="(kết hợp hạn chế). Hợp với nhau, tạo nên một cái gì hài hoà." />
+  <Y_NGHIA Minh_hoa="Sương muối ăn bạc trắng cả lá. Sơn ăn mặt." Noi_dung="Làm tiêu hao, huỷ hoại dần dần từng phần." />
+  <Y_NGHIA Minh_hoa="Rễ tre ăn ra tới ruộng. Sông ăn ra biến. Phong trào ăn sâu, lan rộng." Noi_dung="Lan ra hoặc hướng đến nơi nào đó (nói về khu vực hoặc phạm vi tác động của cái gì)." />
+  <Y_NGHIA Minh_hoa="Đám đất này ăn uễ xã bên. Khoản này ăn uào ngân sách của tỉnh." Noi_dung="(khẩu ngữ). Là một phân ở ngoài phụ vào; thuộc về." />
+  <Y_NGHIA Minh_hoa="Một dollar ăn mấy đồng Việt Nam?" Noi_dung="(Đơn vị tiền tệ, đo lường) có thể đổi ngang giá." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ăn bám">
+  <Y_NGHIA Minh_hoa="Sống ăn bám. Không chịu đi làm, ăn bám bố mẹ." Noi_dung="Có sức lao động mà không làm việc, chỉ sống nhờ vào lao động của người khác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ăn bẩn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Ăn hối lộ, ăn quyt, v.v. một cách đê tiện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ăn bận">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Ăn mặc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ăn bơ làm biếng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Sống lười biếng, không chịu làm việc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ăn bớt">
+  <Y_NGHIA Minh_hoa="Nhận làm gia công, ăn bớt nguyên uật liệu." Noi_dung="Lấy bớt đi để hưởng một phần, lợi dụng việc mình nhận làm cho người khác." />
+  </MUC_TU>
+ </GOC>

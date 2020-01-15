@@ -1,0 +1,152 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="Hệ tư tướng&quot;.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="2 Chi, dòng trong một họ, gồm nhiều đời kế tiếp nhau có chung một tổ tiên gần." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ đếm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hệ thống đếm (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ đếm nhị phân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hệ đếm có cơ số 2, chỉ sử dụng hai chữ số 0 và 1, số 2 được coi là đơn vị của hàng thứ hai và được viết bằng hai chữ số: 10." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ đếm thập phân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hệ đếm phổ biến nhất, có cơ số 10, sử dụng mười chữ số 0, 1,2,3,4,5,6, 7, 8, 9, số 10 được coi là đơn vị của hàng thứ hai và được viết bằng bai chữ số: 10." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ điều hành">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần mềm đặc biệt quản lí một máy tính, độc lập với các chương trình ứng dụng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ đơn vị">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tập hợp các đơn vị đo lường các đại lượng vật lí, được xây dựng theo một số nguyên tắc nhất định." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ luận">
+  <Y_NGHIA Minh_hoa="" Noi_dung="mệnh đề được suy trực tiếp từ một tiện để nào đó, trong quan hệ với tiên đề ấy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ luy">
+  <Y_NGHIA Minh_hoa="Những hệ luy của cuộc đời." Noi_dung="(hoặc động từ). (Íd). Mối quan hệ ràng buộc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="Hệ Mặt Trời">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hệ thống gồm có Mặt Trời và các thiên thể chuyển động xung quanh Mặt Trời." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ mét">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hệ đơn vị đo lường lấy đơn vị gốc là mét." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ quả">
+  <Y_NGHIA Minh_hoa="Đấu tranh là hệ quả tất yếu của áp bức." Noi_dung="Kết quả trực tiếp sinh ra từ sự việc nào đó, trong quan hệ với sự việc ấy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hệ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="SI Hệ đơn vị đo lường thông dụng, dựa trên sáu đơn vị cơ bản: mét, kilogram, giây, ampere, kelvin và candela, được công nhận từ năm là hệ đơn vị thống nhất trên toàn thế giới." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ sinh thái">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị gồm các sinh vật (động vật, thực vật, vi sinh vật) sinh sống trong một môi trường nhất định, về mặt các mối quan hệ tương tác giữa các loài sinh vật với nhau và với môi trường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ sinh thái nông nghiệp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị gồm cây trồng và/hoặc vật nuôi sinh sống trên một địa bàn nhất định, về mặt các mối quan hệ tương tác giữa cây trồng và vật nuôi với nhau và với địa bàn sinh sống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ số">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Số lượng nhân một số lượng khác. Trong 6ab," />
+  <Y_NGHIA Minh_hoa="" Noi_dung="là hệ số của ab. x là một hệ số trong x(y + z)." />
+  <Y_NGHIA Minh_hoa="Hệ số dãn nở. Hệ số an toàn." Noi_dung="Số không thay đổi đối với một chất đã cho, dùng như một số nhân để đo sự thay đổi ở một tính chất nào đó của chất trong những điều kiện nhất định." />
+  <Y_NGHIA Minh_hoa="Môn toán có hệ số 2." Noi_dung="Số dùng để nhân điểm của một môn thi, tuỳ theo tâm quan trọng của môn đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ thống">
+  <Y_NGHIA Minh_hoa="Hệ thống đường sắt. Hệ thống đo lường. Hệ thống tổ chức." Noi_dung="Tập hợp nhiều yếu tố, đơn vị cùng loại hoặc cùng chức năng, có quan hệ hoặc liên hệ với nhau chặt chẽ, làm thành một thể thống nhất. Hệ thống tín hiệu giao thông." />
+  <Y_NGHIA Minh_hoa="Hệ thống tư tưởng. Hệ thống các quy tắc ngữ pháp." Noi_dung="Tập hợp những tư tưởng, nguyên tắc, quy tắc liên kết với nhau một cách logic, làm thành một thể thống nhất." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phương pháp, cách thức phân loại, sắp xếp sao cho có trật tự logic. Hệ thống phân loại thực vật." />
+  <Y_NGHIA Minh_hoa="Học tập có hệ thống. Kiến thức thiếu hệ thống. Sai lằm có hệ thống." Noi_dung="Tính chất có trình tự, có quan hệ logic giữa các yếu tố." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hệ thống">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kng,). Hệ thống hoá (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ thống đếm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phương pháp gọi và kí hiệu các số." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hệ thống hoá">
+  <Y_NGHIA Minh_hoa="Hệ thống hoá những kiến thức đã học được." Noi_dung="Làm cho trở nên có hệ thống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ thức">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đẳng thức nói lên mối liên hệ giữa một số đại lượng nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ tộc">
+  <Y_NGHIA Minh_hoa="Hệ tộc các đời uua." Noi_dung="Thứ tự liên hệ giữa các đời trong một dòng họ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hệ trọng">
+  <Y_NGHIA Minh_hoa="Hôn nhân là việc hệ hệ tư tưởng danh từ Hệ thống tư tưởng và quan điểm, thường phản ánh quyền lợi cơ bản khác nhau của các giai cấp, các tầng lớp xã hội. Hệ tư tưởng Khổng giáo." Noi_dung="Có tác dụng và ảnh hưởng rất lớn; rất quan trọng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hệ từ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ dùng để nối bộ phận chủ ngữ và bộ phận vị ngữ của một mệnh đề phán đoán. &quot;Là&quot; trong tiếng Việt là một hệ từ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hếch">
+  <Y_NGHIA Minh_hoa="Áo hếch pạt trước. Mũ đội hếch lên. /! Láy: hềnh hếch (ý mức độ ít)." Noi_dung="Chếch lên phía trên và ngắn như bị thiếu hụt đi một phần. Mũi hếch." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hếch">
+  <Y_NGHIA Minh_hoa="Đưa chếch lên và hướng tới phía trước (thường nói về mắt, mặt). Hếch mặt lên để nghe chuyện. Cứ hếch mắt lên thế thì còn nhìn thấy gì. Chó hếch mũi đánh hơi. hệch động từ Há rộng quá mức (hàm ý chê). Hệch môm ra cười." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hoặc danh từ). (phương ngữ). May, gặp vận đỏ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hến">
+  <Y_NGHIA Minh_hoa="Cháo hến." Noi_dung="Động vật cùng loại với trai nhưng cỡ nhỏ, vỏ hình tròn, sống ở sông hồ nước ngọt, thịt ăn được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hênh hếch">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem hếch (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hểnh hệch">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Cách cười) to tiếng, rộng miệng, biểu lộ sự thích thú một cách tự nhiên. Cười hềnh hệch." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hểnh,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tên gọi một quái vật bịa ra để doạ trẻ em. Ông hổnh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="hểnh,đg. (ph.).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="hính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hết">
+  <Y_NGHIA Minh_hoa="Mua hết cả tiền rồi. Hết tác dụng." Noi_dung="Không còn nữa, sau một quá trình tiêu hao, mất dần." />
+  <Y_NGHIA Minh_hoa="đến. Hết lòng vì bạn. Làm hết sức mình." Noi_dung="Đạt đến mức trọn cả, không còn gì nữa trong phạm vi được nói đến. Năm hết Tết" />
+  <Y_NGHIA Minh_hoa="Xe đi hết một tiếng mới đến. Mua hết năm chục đồng tất cả. l| danh từ (kết hợp hạn chế). Tất cả mọi cái, hết tất cả. Sau hết mới bàn đến uấn đề ấy. Đẹp hơn hết. Hơn ai hết (hơn bất cứ ai), anh ta biết chuyện ấy." Noi_dung="Mất đi (vào một việc gì)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết">
+  <Y_NGHIA Minh_hoa="Trời hết mưa. Hết giận. Nắn lại cho hết cong. IV trợ từ (dùng ở cuối câu hoặc cuối phân câu có ý phủ định). Từ biểu thị ý nhấn mạnh về phạm vi không hạn chế của điều vừa phủ định; cả. Không thấy gì nữa hết. Chẳng đi đâu hết. Không cần gì hết." Noi_dung="(dùng phụ trước đg., tính từ). Từ biểu thị ý kết thúc, không còn tiếp tục, tiếp diễn, tồn tại của một hoạt động, trạng thái, tính chất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="hết chỗ nói">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đến mức không còn có thể hơn được nữa (thường có ý chê). Cực hết chỗ nói." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hết đời">
+  <Y_NGHIA Minh_hoa="Hết đời tên bạo chúa." Noi_dung="(khẩu ngữ). Chết đi một cách đáng đời." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hết hồn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Mất hết tỉnh thần, mất hết hồn vía. Sợ hết hồn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết mình">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Hết sức mình, bằng tất cả mọi khả năng mình có được. Các cầu thủ thi đấu hết mình. Sống hết mình. Hết mình uì công uiệc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết mực">
+  <Y_NGHIA Minh_hoa="Người mẹ hết mực hiền từ. Yêu thương người bệnh hết mực. Một con người giản dị hết mực." Noi_dung="Đến mức cao nhất, không thể hơn được nữa (thường nói về phẩm chất tốt đẹp của con người)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="hết nạc vạc đến xương">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hết chỗ ngon phải dùng đến chỗ dở, ví hết chỗ dễ làm, phải làm đến chỗ khó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hết nhấn">
+  <Y_NGHIA Minh_hoa="Hết nhẫn tiền. Án hết nhắn." Noi_dung="(khẩu ngữ). Hết tất cả, như bị vét đến không còn một tí nào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết nước">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Đủ hết mọi cách rồi mà vẫn không được việc gì, vẫn không có kết quả. Nói hết nước rồi mà nó uẫn không nghe." />
+  <Y_NGHIA Minh_hoa="Thật là tàn ác hết nước." Noi_dung="Quá lắm, không còn có thể hơn được nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết nước hết cái">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Kng,). Tàm việc gì) đến cùng rồi, không có thể làm hơn được nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết sảy">
+  <Y_NGHIA Minh_hoa="Như hết ý. Đẹp hết sảy." Noi_dung="(thông tục)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết sức">
+  <Y_NGHIA Minh_hoa="Cố gắng hết sức. Điều kiện hết sức khó khăn." Noi_dung="Đến mức cao nhất, không thể hơn được nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="hết thảy">
+  <Y_NGHIA Minh_hoa="Hết thảy mọi người. Giải quyết hết thảy mọi uiệc." Noi_dung="Tất cả, không trừ một ai hoặc một bộ phận nào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="hết ý">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Đến mức không thể hơn được nữa; cực kì (nói về cái tốt, cái đẹp). Ngon hết ý." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="hệt t">
+  <Y_NGHIA Minh_hoa="Mắt con hệt như mắt mẹ. Giống hột*." Noi_dung="Giống hoàn toàn, không khác một chút nào." />
+  </MUC_TU>
+ </GOC>

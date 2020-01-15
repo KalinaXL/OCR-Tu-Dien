@@ -1,0 +1,155 @@
+<GOC>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huốt">
+  <Y_NGHIA Minh_hoa="Chạy huốt." Noi_dung="(phương ngữ). Mất hút, không còn có thể thấy, có thể gặp được nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huơ">
+  <Y_NGHIA Minh_hoa="Huơ tay ra hiệu. Huơ mũ tạm biệt." Noi_dung="Giơ lên và đưa qua đưa lại liên tiếp, thường để ra hiệu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="húp,">
+  <Y_NGHIA Minh_hoa="Húp cháo." Noi_dung="Tự đưa thức ăn lỏng vào môm bằng cách kể môi vào miệng vật đựng và hút mạnh dần từng ít một." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="húp,t.">
+  <Y_NGHIA Minh_hoa="Sung húp cả bàn chân. !! Láy: hum húp (ý mức độ 0)." Noi_dung="(thường dùng phụ sau sưng). Phông to lên một cách không bình thường, gây cảm giác nặng nề, khó chịu. Mắt sưng húp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="húp híp">
+  <Y_NGHIA Minh_hoa="Béo húp híp. Mặt mày sưng húp híp. Mi mắt húp híp." Noi_dung="(hay động từ). Phỏng to lên, mọng lên, do quá béo hoặc bị sung." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hụp">
+  <Y_NGHIA Minh_hoa="Lũ trẻ vừa tắm vừa hụp dưới sông." Noi_dung="Tự làm cho chìm hẳn đầu xuống dưới mặt nước một lúc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hút,">
+  <Y_NGHIA Minh_hoa="Hút bom nổ chậm. Nước cuộn lên thành những hút xoáy sâu hoằm." Noi_dung="Dấu vết còn lại dưới dạng một lỗ sâu của vật đã đi thẳng quá sâu vào trong, vào dưới." />
+  <Y_NGHIA Minh_hoa="thoáng lưu lại khi người hoặc vật sắp đi khuất hẳn. Nhìn theo hút bóng chim. Đi theo hút tên gian. Mất hút*." Noi_dung="Dấu vết, hình bóng còn" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hút,">
+  <Y_NGHIA Minh_hoa="Hang sâu hút, tối mù. Hút tầm mắt (quá tầm nhìn của mắt). // Láy: hun hút (ý mức độ nhiều)." Noi_dung="(Sâu, xa) đến mức không thể nhìn thấy được cho đến tận cùng. Con đường nhỏ tắp uà xa hút." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hút,">
+  <Y_NGHIA Minh_hoa="Hệ thống hút gió." Noi_dung="Làm cho chất lỏng, chất khí dời chỗ về phía nào đó bằng cách tạo ra ở đó một khoảng chân không. Bơm hút nước." />
+  <Y_NGHIA Minh_hoa="Hút thuốc lá. Ong hút nhuị." Noi_dung="Hút vào trong miệng." />
+  <Y_NGHIA Minh_hoa="thỏi sắt. Sức hút của Trái Đất. A Làm cho chất ở môi trường xung quanh nhập vào trong mình và như mất đi, không còn thấy nữa. Bông hút nước. Chất hút ẩm. Cao hút hết mủ trong nhọt. 5 Lôi cuốn, làm cho dồn cả sức lực, tỉnh thần vào. Mọi người bị hút vào câu chuyện." Noi_dung="Làm cho di chuyển về phía mình bằng tác động của một lực trong bản thân. Nam châm hút" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(ít dùng)." Noi_dung="hút,p.">
+  <Y_NGHIA Minh_hoa="Bị đánh hút bỏ mạng." Noi_dung="Suýt (chết). Hút chết đuối." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="hút máu hút mủ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ví hành động bòn rút, bóc lột một cách tàn nhẫn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="hút mật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chim cỡ nhỏ, hút mật hoa, mỏ cong, lông con đực thường có màu sặc sỡ. hút xách động từ (khẩu ngữ). Hút thuốc phiện (nói khái quát, hàm ý chê hoặc coi khinh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hụt">
+  <Y_NGHIA Minh_hoa="Xã cấy hụt diện tích mười hecta. Hụt mức kế hoạch. Bước hụt chân, bị ngã." Noi_dung="Không đạt được mức cụ thể về số lượng, kích thước, khoảng cách như đã dự tính hoặc đã tưởng, mà thiếu mất đi một phần." />
+  <Y_NGHIA Minh_hoa="Bắt hụt kẻ trộm. Hụt chuyến xe sáng." Noi_dung="(khẩu ngữ). Không thực hiện được việc tưởng đã làm được, vì bị thất bại bất ngờ ở bước cuối cùng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="hụt hãng">
+  <Y_NGHIA Minh_hoa="Bị hụt hÃng niềm tin." Noi_dung="Có cảm giác bị thiếu mất đi một cái gì (thường trong lĩnh vực tình cảm) một cách đột ngột Người bạn trí kỉ. qua đời, anh cảm thấy hụt hÃng." />
+  <Y_NGHIA Minh_hoa="hựt hÃng. Hụt hÃng về đội ngũ kế cận." Noi_dung="Bị thiếu hẳn, hụt hẳn. Kiến thức bị" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huy chương">
+  <Y_NGHIA Minh_hoa="Huy chương chiến sĩ uẻ uang. Đoạt huy chương vàng tại o]ympic." Noi_dung="Vật làm bằng kim loại, dùng làm dấu hiệu đặc biệt do nhà nước hay tổ chức xã hội đặt ra để tặng thưởng những người có thành tích." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huy động">
+  <Y_NGHIA Minh_hoa="Huy động lực lượng. Huy động uốn." Noi_dung="Điều một số đông, một số lớn vào một công việc gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huy hiệu">
+  <Y_NGHIA Minh_hoa="Huy hiệu Đoàn thanh niên. Huy hiệu Điện Biên Phủ." Noi_dung="Vật làm bằng kim loại dùng làm dấu hiệu tượng trưng cho một tổ chức hoặc để kỉ niệm một phong trào, một sự kiện lịch sử hay một nhân vật nổi tiếng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huy hoàng">
+  <Y_NGHIA Minh_hoa="V¿ đẹp huy hoàng của thủ đô trong ngày hội. Tương lai huy hoàng." Noi_dung="Có vẻ đẹp chói lọi, rực rỡ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huy hoắc">
+  <Y_NGHIA Minh_hoa="Huy hoắc tiền của." Noi_dung="(cũ; hoặc phương ngữ). Tiêu dùng vung phí." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huỷ">
+  <Y_NGHIA Minh_hoa="Huỷ giấy tờ. Huỷ bản hợp đông." Noi_dung="Làm cho không còn tồn tại hoặc không còn có giá trị nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="huỷ báng đạ.">
+  <Y_NGHIA Minh_hoa="Như phí báng." Noi_dung="(cũ; ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huỷ bỏ">
+  <Y_NGHIA Minh_hoa="Huỷ bỏ giao kèo. Huỷ bỏ một quyết định. Huỷ bỏ bản án." Noi_dung="Bỏ đi, coi là hoàn toàn không còn có hiệu lực hoặc giá trị nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huỷ diệt">
+  <Y_NGHIA Minh_hoa="Cả một khu rừng bị huỷ diệt. Cuộc ném bom có tính chất huỷ diệt. huỷ hoại động từ Làm cho hư hỏng, tan nát đi. Trận lụt huỷ hoại gần hết mùa màng." Noi_dung="Diệt hoàn toàn và trong một phạm vi rộng lớn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huý">
+  <Y_NGHIA Minh_hoa="Hưng Đạo Đại vương họ Trần, huý là Quốc Tuấn. Phạm huý*." Noi_dung="Tên huý (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huý kị">
+  <Y_NGHIA Minh_hoa="Phạm phải điều huỷ kị." Noi_dung="(thường dùng phụ sau danh từ). Kiêng tránh một cách bắt buộc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huých">
+  <Y_NGHIA Minh_hoa="Huých cho hai người cãi nhau." Noi_dung="(khẩu ngữ). Như hích. Huých người bên cạnh để chen lấn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huyên náo">
+  <Y_NGHIA Minh_hoa="Tiếng người chạy, tiếng trống mõ huyên náo." Noi_dung="Có sự ồn ào, hỗn loạn do việc bất thường xảy ra." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="huyên thiên">
+  <Y_NGHIA Minh_hoa="huyên thuyên." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huyên thuyên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(hoặc động từ). (Nói năng) nhiều lời và lan man, chưa hết chuyện này đã sang chuyện kia. Nói huyên thuyên. Kể huyên thuyên đủ thứ chuyện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huyên thuyên xích đế">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Như huyên thuyên (nhưng nghĩa mạnh hơn)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huyên truyền">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đưa truyền những tin không đúng sự thật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyền,">
+  <Y_NGHIA Minh_hoa="Chuỗi hạt huyền." Noi_dung="Than đá màu đen nhánh, do thân cây biến thành, dùng làm đồ trang sức." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="huyền,">
+  <Y_NGHIA Minh_hoa="Đôi mắt huyền." Noi_dung="tt. Có màu đen như than huyền." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="huyền,d.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; văn chương). Dây đàn; đàn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyền,">
+  <Y_NGHIA Minh_hoa="Thanh huyền. Dấu huyền." Noi_dung="Tên gọi một thanh điệu của tiếng Việt, được kí hiệu bằng dấu &quot; ` &quot;." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huyển ảo">
+  <Y_NGHIA Minh_hoa="Cảnh vật huyền ảo qua màn sương." Noi_dung="Có vẻ vừa như thực vừa như hư, như trong giấc mơ, thường tạo nên vẻ đẹp kì lạ và bí ẩn. Những ngôi sao nhấp nháy huyền ảo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huyền bí">
+  <Y_NGHIA Minh_hoa="Sức mạnh huyền bí." Noi_dung="Bí ẩn và có vẻ mầu nhiệm, khó hiểu, khó khám phá." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huyền chức">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Buộc phải thôi giữ chức một thời gian (nói về quan lại). Viên trí huyện bị huyền chức." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Đình chỉ công tác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huyền diệu">
+  <Y_NGHIA Minh_hoa="Tiếng đàn huyền huyền hoặc l tính từ Có tính chất không có thật và mang vẻ thần bí. Câu chuyện huyền hoặc. l\ động từ (ít dùng). Làm cho tin một cách mê muội vào những điều không có thật. Bị huyền hoặc bởi những học thuyết thần bí." Noi_dung="Có tất cả những gì kì lạ, cao sâu, tác động đến tâm hồn, mà con người không hiểu biết hết được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyển học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Siêu hình học." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyền phù">
+  <Y_NGHIA Minh_hoa="Nước phù sa là một huyền phù." Noi_dung="Hệ những hạt rất nhỏ lơ lửng trong một chất lỏng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyền sâm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây nhỏ thuộc họ hoa mõm chó, rễ dùng làm thuốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyền sử">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chuyện truyền thuyết có tính chất huyền hoặc, hoang đường." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyển thoại">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Câu chuyện huyền hoặc, kìlạ,hoàn toàn do tưởng tượng; thần thoại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="huyền vi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(1d.). Có cái gì kì lạ, cao sâu, ngoài sức hiểu biết của con người." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huyễn diệu">
+  <Y_NGHIA Minh_hoa="Sức huyễn diệu của thơ ca. huyễn hoặc động từ Làm cho mất sáng suốt, lầm lẫn, tin vào những điều không có thật hoặc có tính chất mê tín. Đồng cốt là uiệc huyễn hoặc. Phao tin đôn nhám để huyễn hoặc nhân tâm." Noi_dung="(cũ; ít dùng). Làm cho bị thu hút bởi tính chất hay, đẹp và kì lạ đến mức mê hoặc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="huyễn tưởng">
+  <Y_NGHIA Minh_hoa="Huyễn tưởng mình chính là anh hùng." Noi_dung="Tưởng tượng ra và tin vào những điều không có thật hoặc không có cơ sở thực tế. Mắc bệnh huyễn tưởng. Cách nhìn tỉnh táo, không huyễn tưởng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyện">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị hành chính đưới tỉnh, gồm nhiều xã." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="huyện bộ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tên gọi cấp bộ huyện của một số chính đảng, đoàn thể chính trị." />
+  </MUC_TU>
+ </GOC>
