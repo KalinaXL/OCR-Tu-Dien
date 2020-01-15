@@ -1,0 +1,194 @@
+<GOC>
+ <MUC_TU Loai_tu="xem" Noi_dung="suý phủ (cũ).">
+  <Y_NGHIA Minh_hoa="soái phủ." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="suyễn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Hen. Lên cơn suyễn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="suýt">
+  <Y_NGHIA Minh_hoa="Trượt chân suýt ngã. Bị một phen suýt chết. Suýt bật tiếng khóc." Noi_dung="(dùng phụ trước động từ). Chỉ còn thiếu chút nữa là đã xảy ra (điều cho là không hay)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="suýt nữa">
+  <Y_NGHIA Minh_hoa="Suýt nữa thì nhỡ tàu. Suýt nữa họ không gặp nhau." Noi_dung="Như suýt (nhưng làm phần phụ cho cả câu). May quá, suýt nữa thì uỡ cốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="suýt soát">
+  <Y_NGHIA Minh_hoa="Gần bằng, chỉ hơn kém một ít; xấp xỉ. Suýt soát tuổi nhau. Mấy đứa trẻ suýt soát bằng đầu nhau. Suýt soát bảy mưaGt tuổi." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="suyt l">
+  <Y_NGHIA Minh_hoa="Suyt chó ra đuổi. ll cảm từ Tiếng gió thốt ra nho nhỏ để nhắc người khác im lặng. Suyt! Khẽ chứ!" Noi_dung="Phát ra tiếng gió ở miệng để xua và khiến chó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người tu hành theo đạo Phật ở chùa. Nhà sư." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Sư đoàn (nói tắt). Chí huy một sư." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="sư bà d">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sưnữ cao tuổi đã tu hành lâu năm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư bác">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sư trẻ thuộc bậc sơ cấp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư cô">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Ni cô." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư cụ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sư cao tuổi đã tu hành lâu năm, thuộc bậc cao cấp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư đệ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ dùng giữa tăng-ni để gọi thân mật người có tuổi đạo thấp hơn mình." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ, ít dùng). Thầy và trò (đệ tử), trong quan hệ với nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư đoàn">
+  <Y_NGHIA Minh_hoa="Sư đoàn bộ binh." Noi_dung="Đơn vị tổ chức của lực lượng vũ trang gồm hai trung đoàn trở lên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư hổ mang">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Kẻ đội lốt sư làm những việc gian ác, bậy bạ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư huynh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ trong sư sãi dùng để gọi sư nam với ý tôn trọng như bậc đàn anh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư mô">
+  <Y_NGHIA Minh_hoa="Sư mô gì cái ông ấy." Noi_dung="(khẩu ngữ). Sư (nói khái quát; hàm ý coi khinh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư ni">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sư thuộc giới nữ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư ông">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sư đứng tuổi, tu hành tương đối lâu năm, thuộc bậc trung cấp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư phạm">
+  <Y_NGHIA Minh_hoa="Trường sư phạm (chuyên đào tạo giáo viên)." Noi_dung="Khoa học về giảng dạy và giáo dục trong nhà trường. Nguyên tắc sư phạm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư phụ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ học trò thời phong kiến dùng để gọi tôn thầy dạy mình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư sãi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sư và sãi ở chùa (nói khái quát). sư thầy danh từ Sư nữ tu hành đã tương đối lâu năm, thuộc bậc trung cấp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sưtrưởng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kng,). Sư đoàn trưởng nói tắt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sư tử">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thú dữ lớn cùng họ với hố, lông màu vàng hung, con đực có bờm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lịch sử hoặc sử học (nói tắt). Sử Việt Nam. Khoa sử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Lối hát nói có tiết tấu, làn điệu tương đối tự do, tuỳ thuộc ít nhiều vào sự diễn cảm của người hát." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử ca">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Văn vần kể về những sự kiện và nhân vật lịch sử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="sử dụng">
+  <Y_NGHIA Minh_hoa="Sử dụng quyền hạn." Noi_dung="Đem dùng vào mục đích nào đó. Sử dụng vật liệu để làm nhà." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử gia">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhà nghiên cứu và biên soạn lịch sử, nhà sử học." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoa học nghiên cứu lịch sử của xã hội loài người nói chung, hay của một quốc gia, một dân tộc nói riêng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử kí cũng viết sứ ký">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Lịch sử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử liệu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tài liệu, cứ liệu lịch sử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử quan">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Viên quan chuyên việc chép sử." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử quán">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem quốc sử quán." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử quân tử">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây thân leo thuộc họ bàng, quả dùng làm thuốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử sách">
+  <Y_NGHIA Minh_hoa="Sự tích anh hùng được ghỉ uào sử sách." Noi_dung="Sách ghi chép về lịch sử (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử thi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tác phẩm lớn thuộc loại văn tự sự, miêu tả sự nghiệp của những người anh hùng và các sự kiện lịch sử lớn. Thiên sử thi." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tên gọi chung loại văn tự sự trong đó tính cách và sự kiện được phát triển toàn diện trong một giai đoạn trọn vẹn nhất định của cuộc đời nhân vật, của lịch sử xã hội." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sử xanh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(văn chương). Sách lịch sử (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chức quan được vua phái đi giao thiệp với nước ngoài. Đi sứ." />
+  <Y_NGHIA Minh_hoa="Toà sứ (nơi làm việc của công sứ)." Noi_dung="Công sứ ở tỉnh thời thực dân Pháp (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(phương ngữ)." Noi_dung="sứ,d.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đại. Cây sứ. Bông sứ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Gốm trắng, không thấm nước, chế từ kaolin." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ bộ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phái đoàn đi sứ thời phong kiến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ giả">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người được vua phái đi giao thiệp với nước ngoài." />
+  <Y_NGHIA Minh_hoa="Các sứ giả của hoà bình. Sứ giả của tình hữu nghị giữa hai dân tộc." Noi_dung="(trang trọng). Người được coi là đại diện tiêu biểu cho nhân dân một nước đến các nước khác nói lên tiếng nói và tình căm của nhân dân mình với nhân dân các nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ mạng cũng nói sứ mệnh">
+  <Y_NGHIA Minh_hoa="(trư..). Nhiệm vụ quan trọng, coi như thiêng liêng. Làm tròn sứ mạng lịch sử. Sứ mạng uẻ uang của nhà giáo." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ quán">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tên gọi chung các cơ quan ngoại giao ở nước ngoài, như đại sứ quán, công sứ quán." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ quân">
+  <Y_NGHIA Minh_hoa="Dẹp loạn mười hai sứ quân." Noi_dung="Tướng lĩnh hay quý tộc có thế lực nối dậy chiếm cứ một địa phương trong thời kì loạn lạc cuối đời nhà Ngô ở Việt Nam." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ thần">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người thay mặt cho vua một nước đi giao thiệp với nước ngoài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sứ vệ sinh">
+  <Y_NGHIA Minh_hoa="Hàng sứ vệ sinh cao cấp." Noi_dung="Đồ sứ chuyên dùng làm dụng cụ vệ sinh, như bồn rửa, bệ xí, ..." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự">
+  <Y_NGHIA Minh_hoa="Sự đời. Sự đạo. Quên hết mọi sự. Trăm sự nhờ anh. Gây sự&quot;." Noi_dung="Việc, chuyện (nói khái quát)." />
+  <Y_NGHIA Minh_hoa="có. Sự xấu xa." Noi_dung="(thường dùng ghép trước động từ tính từ để làm thành một tổ hợp có chức năng danh từ). Từ có tác dụng danh hoá (sự vật hoá) một hoạt động, một tính chất. Sự sống. Sự úng hộ. Sự giàu" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự biến">
+  <Y_NGHIA Minh_hoa="Những sự biến lớn lao trong lịch sư." Noi_dung="Sự việc không hay bất ngờ xảy ra, có tác động lớn đến đời sống xã hội hoặc cá nhân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự chủ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Người bị thiệt hại trong một vụ án hình sự." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự cố">
+  <Y_NGHIA Minh_hoa="Xe cộ dừng lại vì có sự cố trên đường giao thông." Noi_dung="Hiện tượng bất thường và không hay xảy ra trong một quá trình hoạt động nào đó. Máy có sự cố." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự đời">
+  <Y_NGHIA Minh_hoa="Sự đời éo le. Sự đời không trôi cháy như ý muốn." Noi_dung="Sự việc xảy ra ở đời (nói khái quát; thường hàm ý không phải bao giờ cũng như ý muốn)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự kiện">
+  <Y_NGHIA Minh_hoa="Những sự kiện lịch sử đáng ghỉ nhớ." Noi_dung="Sự việc có ý nghĩa ít nhiều quan trọng đã xảy ra." />
+  <Y_NGHIA Minh_hoa="cố (nghĩa 2)." Noi_dung="(chuyên môn). xem biến" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự lòng">
+  <Y_NGHIA Minh_hoa="Sự lòng biết ngỏ cùng ai." Noi_dung="(cũ; văn chương). Nỗi niềm, tâm sự thầm kín." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự nghiệp">
+  <Y_NGHIA Minh_hoa="Sự nghiệp xây dựng đất nước. Thân thế và sự nghiệp của Nguyễn Trãi." Noi_dung="Những công việc to lớn, có ích lợi chung và lâu dài cho xã hội (nói tổng quát)." />
+  <Y_NGHIA Minh_hoa="Cơ quan hành chính sự nghiệp. Cơ quan upăn hoá sự nghiệp." Noi_dung="Các hoạt động có tính chất nghiệp vụ riêng biệt, phục vụ cho sản xuất kinh doanh và cho sinh hoạt (nói tổng quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự thật">
+  <Y_NGHIA Minh_hoa="Nhìn thẳng uào sự thật. Bưng bít sự thật." Noi_dung="Cái có thật, cái có trong thực tế. ước mơ đã thành sự thật." />
+  <Y_NGHIA Minh_hoa="Tìm ra sự thật. Sự thật về một uụ án." Noi_dung="Điều phản ánh đúng hiện thực khách quan; chân lí." />
+  <Y_NGHIA Minh_hoa="hợp biểu thị điều sắp nêu ra là một sự thật cần được nói rõ. Sự thật, tôi không có ý đó." Noi_dung="(dùng ở đầu câu). Tổ" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự thể">
+  <Y_NGHIA Minh_hoa="Đến tận nơi xem sự thể ra sao. | sự thế danh từ Tình hình và xu thế của sự việc. Sự: thế tất phải uậy. Sự thế đã khác trước rồi." Noi_dung="Tình hình cụ thể của sự việc xảy. ra." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="sự thực (ph.).">
+  <Y_NGHIA Minh_hoa="sự thật." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự tích">
+  <Y_NGHIA Minh_hoa="Sự tích trầu cau. Sự tích Mai An Tiêm. Những sự tích anh hùng." Noi_dung="Câu chuyện của một thời xưa còn được truyền lại, kể lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="sự tình">
+  <Y_NGHIA Minh_hoa="Hiểu rõ sự tình. Kể hết sự tình." Noi_dung="Tình hình của sự việc đã xảy ra với nỗi uẩn khúc bên trong." />
+  </MUC_TU>
+ </GOC>

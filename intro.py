@@ -12,7 +12,8 @@ from skimage.segmentation import clear_border
 import argparse
 import pickle
 import os
-
+import warnings
+warnings.filterwarnings("ignore")
 def bold_text(image):
     img = cv.erode(image, np.ones((7,7)), 2)
     img = cv.dilate(img, np.ones((7,7)))
@@ -163,7 +164,8 @@ def split_word(image):
     return img_ls
 def split_character(word):
     h, w = word.shape
-    labels = measure.label(word, neighbors = 8, background = 0)
+    # labels = measure.label(word, neighbors = 8, background = 0)
+    labels = measure.label(word, neighbors = 8, connectivity = 2)
     c = word
     min_x = w
     for label in np.unique(labels):
@@ -278,6 +280,7 @@ def main(args):
                     text = api.GetUTF8Text().strip()
                     if len(text) == 0:
                         continue
+                    print(text)
                     tus = split_word(row)
                     l_i = []
                     for tu in tus:

@@ -1,0 +1,168 @@
+<GOC>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="rung rúc">
+  <Y_NGHIA Minh_hoa="Chiếc áo dạ đã rung rúc." Noi_dung="(ít dùng). (Quần áo) đã cũ, có thể hơi sờn nhưng chưa rách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="rùng,">
+  <Y_NGHIA Minh_hoa="Kéo rùng. Đánh rùng. Một méê rùng." Noi_dung="Lưới hình chữ nhật dài dùng để đánh cá biển." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rùng,">
+  <Y_NGHIA Minh_hoa="Mìn nổ, mặt đất rùng lên. Máy rùng mạnh một cái rồi tắt hẳn. Lạnh rùng cả người." Noi_dung="Bất ngờ rung lên một cái, do bị chấn động hay bị một tác động mạnh đột ngột." />
+  <Y_NGHIA Minh_hoa="Rùng sàng lựa thóc ra. Rùng rây bột." Noi_dung="Lắc nhẹ để làm cho vật rời chứa đựng ở trong dồn vào giữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rùng mình">
+  <Y_NGHIA Minh_hoa="Lạnh rùng mình. Rùng mình sợ hãi. Chuyện khủng khiếp quá, nghĩ lại uân còn rùng mình." Noi_dung="Rung nhanh, mạnh toàn thân một cách bất ngờ, do sợ hãi hoặc bị lạnh đột ngột." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="rùng rợn">
+  <Y_NGHIA Minh_hoa="Câu chuyện li kì rùng rợn. Cảnh giết chóc thật là rùng rợn." Noi_dung="Có tác dụng gây cảm giác sợ hãi đến rùng mình, rợn người." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="rùng rùng">
+  <Y_NGHIA Minh_hoa="Đoàn xe rùng rùng chuyển bánh." Noi_dung="Từ gợi tả vẻ chuyển động mạnh mẽ cùng một lúc của số đông. Đoàn biểu tình rùng rùng tiến lên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="rủng rẻng">
+  <Y_NGHIA Minh_hoa="Trong túi rúủng rẻng toàn tiên xu." Noi_dung="Từ mô phỏng tiếng va chạm của những vật nhỏ bằng kim loại. Sợi xích sắt khua rúng rẻng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="rủng rỉnh">
+  <Y_NGHIA Minh_hoa="Tiền xu rúng rỉnh trong túi." Noi_dung="(ít dùng). Như rúng rẻng (nhưng thường nói về tiền)." />
+  <Y_NGHIA Minh_hoa="Đồng ra đồng uào rúng rính. Thóc lúa rúng rỉnh quanh năm." Noi_dung="(Tiền bạc, của cải vật chất) có ở mức đầy đủ, sung túc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rúng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Núng, nao núng. Bị rúng tỉnh thân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rúng động">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Náo động và nao núng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rúng ép">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Ðe đoạ và ép buộc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rụng">
+  <Y_NGHIA Minh_hoa="Tóc rụng. Lá rụng. Trẻ sơ sinh vừa rụng rốn." Noi_dung="Rời ra, lìa ra và rơi xuống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rụng rời">
+  <Y_NGHIA Minh_hoa="Mỏi rụng rời chân tay. Tin dữ làm mọi người rụng rời." Noi_dung="Cảm thấy chân tay rã rời, thường do quá mệt mỏi hoặc khiếp sợ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruốc,">
+  <Y_NGHIA Minh_hoa="Mắm ruốc. ruốc, danh từ Món ăn làm bằng thịt nạc, cá hoặc tôm luộc, rim với nước mắm rồi giã nhỏ và rang khô. Ruốc thịt." Noi_dung="Tép nhỏ ở biển, mình tròn và trắng, thường dùng làm mắm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruốc bông">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ruốc làm bằng thịt nạc, tơi như bông." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruổi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bọ hai cánh, có vòi hút, râu ngắn, thường mang vi trùng truyền bệnh đường ruột. ruồi lằng danh từ (phương ngữ). Nhặng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruồi trâu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ruôồi to, có vòi hút khoẻ, thường đốt và hút máu trâu, bò." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruồi xanh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ruồi có màu xanh biếc, cỡ nhỏ hơn nhặng." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhặng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ruốổi">
+  <Y_NGHIA Minh_hoa="Đội kị binh từ xa ruối tới. Ruối ngựa đuôi theo." Noi_dung="Đi nhanh, chạy nhanh trên đường dài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ruổi rong">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như rong ruối." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="ruôi (ph.).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="đuối." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ruôn ruốt">
+  <Y_NGHIA Minh_hoa="Đầu chải mượt, quần áo trắng ruôn ruồng đại từ (phương ngữ). Càn. Giặc đi ruông." Noi_dung="(ít dùng). Hết sức bảnh bao, chải chuốt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ruồng bỏ">
+  <Y_NGHIA Minh_hoa="Bị gia đình ruồng bỏ. Ruông bỏ vợ con." Noi_dung="Ghét bỏ, không ngó ngàng Bì đến nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ruồng bố">
+  <Y_NGHIA Minh_hoa="Càn quét." Noi_dung="(phương ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ruồng rẫy">
+  <Y_NGHIA Minh_hoa="Có nhân tình, nên ruồng rẫy vợ." Noi_dung="Hắt hủi, tỏ ra muốn ruồng bỏ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ruỗng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đã bị một quá trình huỷ hoại từ bên trong làm cho trở thành thực tế chỉ còn có lớp bên ngoài. Khúc gỗ mọt ruồng. Thối ruông." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ruỗng nát">
+  <Y_NGHIA Minh_hoa="Ruỗng nát từ bên trong. Một chế độ ruỗng nát (bóng (nghĩa bóng))." Noi_dung="Ruỗng hết ra, chỉ cằn tác động nhẹ là gẫy vụn. Cây gỗ mục, ruỗng nát." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đất trồng trọt ở ngoài đồng, xung quanh thường có bờ. Ruộng lúa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng bậc thang">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ruộng ở sườn đổi núi đã được san phẳng thành nhiều tầng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ruộng cả ao liền">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tả cơ ngơi giàu có ở nông thôn thời trước (có ruộng rộng bát ngát, nhiều ao cá liền bờ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng đất">
+  <Y_NGHIA Minh_hoa="Cdi cách ruộng đất*. Vấn đề ruộng đất." Noi_dung="Đất trồng trọt, về mặt là tư liệu sản xuất (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng muối">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khoảng đất có ngăn thành ô, đưa nước biển vào phơi cho bốc hơi để lấy muối." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng nố">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem nỗ," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng nương">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đất trồng trọt (nói khái quát). Vùng này đồi núi nhiều, ruộng nươngít." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng rẫy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như rưộng nương." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruộng rộc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ruộng trũng và hẹp nằm giữa hai sườn đồi núi hoặc ven các cánh đồng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruột">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần của ống tiêu hoá từ cuối dạ dày đến hậu môn." />
+  <Y_NGHIA Minh_hoa="Ruột bút bí. Ruột bánh mì." Noi_dung="Bộ phận bên trong của một số vật Ruội phích." />
+  <Y_NGHIA Minh_hoa="Xót ruột&quot;. Ruột đau như cắt. Tức lộn ruột. Ruột rối như tơ uò. Nóng ruột*." Noi_dung="kết hợp hạn chế). Ruột của con người, được coi là biểu tượng của sự chịu đựng về tình cảm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ruột">
+  <Y_NGHIA Minh_hoa="Anh em ruột. Dì ruột. Cháu ruột gọi bằng bác." Noi_dung="(dùng phụ sau danh từ chỉ quan hệ gia đình thân thuộc). Từ dùng để chỉ mối quan hệ có cùng cha mẹ hoặc mối quan hệ giữa những người có cùng cha mẹ với con cái của họ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="ruột để ngoài da">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tả tính người thật thà, trong bụng nghĩ gì đều nói ra hết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruột gà">
+  <Y_NGHIA Minh_hoa="Ruột gà bật lứa." Noi_dung="(khẩu ngữ). Lò xo có hình dây xoắn thành nhiều vòng bằng nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruột gan">
+  <Y_NGHIA Minh_hoa="Giận tím ruột tím gan. Ruột gan rối bời. Không còn có ruột gan nào ngôi lại nữa." Noi_dung="Ruột và gan của con người, coi là biểu tượng của sự chịu đựng về tình cắm, hay sự quan tâm của con người được giữ kín, không bộc lộ ra, nói chung. Ruột gan nóng như lửa đốt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruột già">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đoạn ruột to từ sau ruột non tới hậu môn, là nơi hình thành phân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruột nghé">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ). Ruột tượng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruột non">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đoạn ruột nối dạ dày với ruột già, có chức năng tiêu hoá và hút chất dinh dưỡng nuôi cơ thể." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ruột rà">
+  <Y_NGHIA Minh_hoa="Bà con ruột rà. Tình nghĩa ruột rà Bắc Nam." Noi_dung="Có quan hệ ruột thịt hoặc thân thiết như ruột thịt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="ruột thịt tt.">
+  <Y_NGHIA Minh_hoa="Anh em ruột thịt. Đồng bào ruột thịt. ruột thừa danh từ Mẩu ruột nhỏ hình giun chìa ra ở đầu trên ruột già, không có tác dụng gì trong việc tiêu hoá. Viêm ruột thừa. Mổ cắt ruột thưa." Noi_dung="Có quan hệ cùng máu mủ hoặc thân thiết như những người cùng máu mủ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="ruột tượng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bao vải dài dùng để đựng tiền hay gạo, đeo quanh bụng hoặc ngang lưng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="rúp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị tiền tệ của Nga và một số mước trong Liên bang Xô Viết trước đây." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="rụp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="cái rụp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="rupee [ru-pi]">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị tiền tệ của một số nước: Ấn Độ, Nepal, Pakistan, Sri Lanka (Xri Lanka), v.v." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="rupiah [ru-pi-a]">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị tiền tệ của Indonesia (Inđônêxia)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="rút">
+  <Y_NGHIA Minh_hoa="Rút tiền trong uí. Rút súng. Rút quân bài. Rút lên tỉnh một cán bộ huyện." Noi_dung="Lấy ra khỏi vật bao chứa hoặc khỏi một tập hợp." />
+  <Y_NGHIA Minh_hoa="Rút tay uễ. Rút tiền ở ngân hàng. Xin rút ý kiến." Noi_dung="Lấy trở về, thu trở lại cái đã đưa ra." />
+  <Y_NGHIA Minh_hoa="Rút kinh nghiệm. Rút được bài học. Rút ra kết luận. A Nắm một đầu (thường là dây) kéo cho di chuyến trượt qua một điểm, một vật cố định nào đó. Rút thòng lọng. Rút quần áo phơi trên dây. Rút bấc đền. Rút ngược lên (rút một đầu sợi dây xuống để kéo ngược lên vật buộc ở đầu kia)." Noi_dung="Lấy ra từ những yếu tố nào đó cái nội dung mình cần, qua một quá trình so sánh, phân tích, suy luận." />
+  <Y_NGHIA Minh_hoa="Rút quân. Rút khỏi một vị trí. Rút chạy. Rút uào hoạt động bí mật." Noi_dung="Chuyến đến vị trí ở phía sau, phía trong, phía kín đáo." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kết hợp hạn chế). Làm giảm bớt. Báo rút số trang. Rút ngắn thời hạn. Rút chỉ tiêu. Rút bớt yêu cầu." />
+  <Y_NGHIA Minh_hoa="Vận động uiên chạy rút khi sắp về đến đích. Làm rút cho kịp. Nước rút*." Noi_dung="Tăng nhịp độ hoạt động để làm giảm thời gian hoàn thành việc gì." />
+  </MUC_TU>
+ </GOC>

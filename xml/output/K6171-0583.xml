@@ -1,0 +1,174 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="bằng một đặc trung chung nào đó.">
+  <Y_NGHIA Minh_hoa="Tập hợp các học sinh nữ của trường. Tập hợp các số tự nhiên. Lí thuyết tập hợp*." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tập hợp con">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tập hợp mà mỗi phần tử là phần tử của một tập hợp khác, trong quan hệ với tập hợp khác đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập huấn">
+  <Y_NGHIA Minh_hoa="Tập huấn cho cán bộ phụ trách." Noi_dung="Hướng dẫn luyện tập. Lớp tập huấn xạ kích." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập kết">
+  <Y_NGHIA Minh_hoa="Tập kết ra Bắc. Cán bộ tập kết." Noi_dung="Tập trung vào một vùng, một khu vực theo quy định (thường nói về việc tập trung bộ đội và cán bộ hoạt động ở miền Nam ra miền Bắc Việt Nam sau hiệp nghị Genève 1954)." />
+  <Y_NGHIA Minh_hoa="vực để làm nhiệm vụ trong chiến đấu. Bí mật tập kết quanh cứ điểm địch. Kéo pháo đến địa điểm tập kết." Noi_dung="Tụ tập tại một khu" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập kích">
+  <Y_NGHIA Minh_hoa="Tập kích sân bay." Noi_dung="Lợi dụng chỗ sơ hở mà tiến công bất ngờ, sau khi bí mật đến gần; đánh úp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập luyện">
+  <Y_NGHIA Minh_hoa="Tập luyện quân sự. Tập luyện nâng cao tay nghệ." Noi_dung="Như luyện tập." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập nhiễm">
+  <Y_NGHIA Minh_hoa="Tập nhiễm từ bé thói chây lười." Noi_dung="Do dẫn dần thành quen mà thấm sâu, nhiễm phải (thường là cái không hay)." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(chuyên môn). xem tiếp thu (nghĩa" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tập quán">
+  <Y_NGHIA Minh_hoa="Tập quán canh tác ở miền núi. Xoá bỏ những tập quán lạc hậu." Noi_dung="Thói quen đã thành nếp trong đời sống xã hội, trong sản xuất và sinh hoạt thường ngày, được mọi người công nhận và làm theo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập quyền">
+  <Y_NGHIA Minh_hoa="Tập trung quyền hành; trái với phân quyền. Chế độ phong kiến tập quyền&quot;. tập san danh từ Tạp chí nghiệp vụ của một ngành chuyên môn. Tập san y học thực hành." Noi_dung="(dùng phụ sau d., kết hợp hạn chế)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập sự">
+  <Y_NGHIA Minh_hoa="Tập sự nghề uiết văn. Tập sự làm thầy thuốc." Noi_dung="Làm với tính chất học nghề." />
+  <Y_NGHIA Minh_hoa="Kĩ sư tập sự. Thời kì tập sự. Lương tập sự." Noi_dung="(thường dùng phụ cho danh từ). Tập làm một thời gian cho quen việc trước khi được chính thức tuyển dụng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tập tàng">
+  <Y_NGHIA Minh_hoa="Cóp nhặt “. những đô tập tàng." Noi_dung="Gồm hỗn hợp rất nhiều thứ không có giá trị mấy. Canh rau tập tàng (nấu với nhiều loại rau rẻ tiền)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập tành">
+  <Y_NGHIA Minh_hoa="Bộ đội tập tành uất uả. Tập tành qua loa." Noi_dung="(khẩu ngữ). Tập các động tác cho thành thạo (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tập tỗnh">
+  <Y_NGHIA Minh_hoa="Chân đau phải đi tập tễnh. Mới tập tỗnh biết đi." Noi_dung="(Dáng đi) không cân, bên cao bên thấp, ngả nghiêng, dễ ngã." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tập thể">
+  <Y_NGHIA Minh_hoa="Tập thể nhà máy. Tập thể ban lãnh đạo. Sự giúp đỡ của tập thể" Noi_dung="Tập hợp những người có quan hệ gắn bó, cùng sinh hoạt hoặc cùng làm việc chung với nhau." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tập thể">
+  <Y_NGHIA Minh_hoa="Hát tập thể. Tỉnh thần tập thể." Noi_dung="Thuộc về tập thể, có tính chất tập thể. Khu nhà tập thể." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập thể dục">
+  <Y_NGHIA Minh_hoa="Làm những động tác thể dục hằng ngày. Sáng nào cũng tập thể dục." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập thể hoá">
+  <Y_NGHIA Minh_hoa="Tập thể hoá nông nghiệp." Noi_dung="Làm cho sản xuất từ cá thể trở thành tập thể, tổ chức cho những người lao động tham gia các hợp tác xã." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tập tính">
+  <Y_NGHIA Minh_hoa="Tập tính thích ngược nước của loài cá. Muốn săn bẫy thú rừng, phải hiểu tập tính của chúng." Noi_dung="Đặc tính, thói quen hoạt động có tính chất tự nhiên (nói tổng quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tập tọng">
+  <Y_NGHIA Minh_hoa="Tập tọng nói mấy câu tiếng nước ngoài. Tay nghề tập tọng. Tập tọng làm thơ." Noi_dung="(khẩu ngữ). Tỏ ra còn vụng về, lúng túng, vì mới biết, mới học, chưa thành thạo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập trận">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Diễn tập quân sự." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập trung">
+  <Y_NGHIA Minh_hoa="Nơi tập trung đông người. Tập trung hoả lực. Một biểu hiện tập trung của tình đoàn kết." Noi_dung="Dồn vào một chỗ, một điểm." />
+  <Y_NGHIA Minh_hoa="Tập trung sản xuất lương thực. Tập trung suy nghĩ. Hội nghị tập trung thảo luận một uấn đề. Tư tưởng thiếu tập trung." Noi_dung="Dồn sức hoạt động, hướng các hoạt động vào một việc gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tập trung dân chủ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nguyên tắc tổ chức, quy định sự lãnh đạo tập trung, dựa trên .. cơsở tôn trọng và phát huy dân chủ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tập trung tư bản">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tăng thêm tư bản do hợp nhất nhiều tư bắn lại hoặc một tư bắn này thu hút một tư bản khác; phân biệt với tích tụ tư bản." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tập tục">
+  <Y_NGHIA Minh_hoa="Mỗi dân tộc có những tập tục riêng. Tập tục thờ cúng tổ tiên." Noi_dung="Phong tục và tập quán (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tập vở">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ) Vởhọc sinh (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tất,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Bít tất (nói tắt). Đi tất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="tất,">
+  <Y_NGHIA Minh_hoa="Mua tất. Làm tất mọi uiệc. Sẽ xong tất. Tất tất uiệc gì cũng nhờ nó cả." Noi_dung="(khẩu ngữ). Tất cả (nói tắt); hết cả. Kéo nhau đi tất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="phụ từ" Noi_dung="tất,">
+  <Y_NGHIA Minh_hoa="Như đt. Cái gì phải đến tất sẽ đến. Có làm tất có ăn." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tất bật">
+  <Y_NGHIA Minh_hoa="Tất bật bán hàng. Tất bật làm cơm thết khách." Noi_dung="Từ gợi tả dáng vẻ vội vàng, căng thẳng vì quá bận bịu, vất vả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="tất cả">
+  <Y_NGHIA Minh_hoa="Tất cả đều đồng ý. Tất cả chúng ta." Noi_dung="Từ dùng để chỉ số lượng toàn bộ, không trừ một cái gì hoặc không trừ một ai. Mua tất cả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tất nhiên">
+  <Y_NGHIA Minh_hoa="Bước đầu tất nhiên còn bỡ ngỡ. Tất nhiên, ai cũng có lúc sai làm. Lễ tất nhiên." Noi_dung="(có thể dùng làm phần phụ trong câu). Hẳn phải như vậy, không thể khác được." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tất niên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(dùng phụ sau một số d., động từ). Vào lúc sắp hết năm, có ý nghĩa đưa năm cũ đi, chuẩn bị đón năm mới. Tiệc tất niên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tất ta tất tưởi.">
+  <Y_NGHIA Minh_hoa="Ất tưởi (láy)." Noi_dung="xem" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tất tả">
+  <Y_NGHIA Minh_hoa="Tất tả đi mời bác sĩ. Tất tả chạy ngược chạy xuôi." Noi_dung="Từ gợi tả dáng đi lại có vẻ vội vã, lật đật, trông vất vả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="tất tần tật">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem rất tật (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="tất tật">
+  <Y_NGHIA Minh_hoa="Xong tất tân tật." Noi_dung="(khẩu ngữ). Hết tất cả. Mua tất tật. / Láy: tất tần tật (ý nhấn mạnh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="đại từ" Noi_dung="tất thảy">
+  <Y_NGHIA Minh_hoa="Tất thảy mọi người." Noi_dung="(ít dùng). Như tt cá (nhung thường chỉ nói về người)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tất thắng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thường dùng phụ sau danh từ). Nhất định sẽ chiến thắng, không thể khác được. Thế tất thắng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tất tưởi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như tốt tả. !/ Láy: tất ta tất tưởi (ý nhấn mạnh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tất yếu">
+  <Y_NGHIA Minh_hoa="Có áp bức thì tất yếu có đấu tranh." Noi_dung="Tất phải như thế, không thể khác được (nói về những cái có tính quy luật); trái với ngẫu nhiên." />
+  <Y_NGHIA Minh_hoa="Điều kiện tất yếu." Noi_dung="Nhất thiết phải có, không thể thiếu để có được một kết quả, một tác dụng nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tật">
+  <Y_NGHIA Minh_hoa="Tật nói lắp. Gây tay thành tật. Có tật giật mình*." Noi_dung="Trạng thái bất thường, nói chung không chữa được, của một cơ quan trong cơ thể, do bẩm sinh mà có hoặc do tai nạn hay bệnh gây ra." />
+  <Y_NGHIA Minh_hoa="Bệnh. Thuốc đẳng đã tật (tục ngữ). Tiền mất tật mang (tg,)." Noi_dung="(cũ)." />
+  <Y_NGHIA Minh_hoa="uán có tật, hơi uênh ở giữa. Vali có tật, phải ấn mạnh một bên nắp mới mở được." Noi_dung="(khẩu ngữ). Trạng thái có điều gì đó không được bình thường, ít nhiều khó chữa, ở vật liệu, dụng cụ, máy móc. Tấm" />
+  <Y_NGHIA Minh_hoa="Tật nói khoác. Quen ngủ trưa thành tật. Thói hư tật xấu." Noi_dung="Thói quen, thường là xấu, khó sửa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tật bệnh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như bệnh tật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tật nguyển">
+  <Y_NGHIA Minh_hoa="Cam chịu tật nguyễn." Noi_dung="Tật tương đối lớn, nghiêm trọng (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tật nguyển">
+  <Y_NGHIA Minh_hoa="Như tàn tật. Đứa con tật nguyễn từ lúc mới sinh." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tâu">
+  <Y_NGHIA Minh_hoa="Tâu lên uua. Tâu hoàng hậu." Noi_dung="(cũ). Trình với vua hoặc hoàng hậu." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kng)). Mách người trên để tâng công (hàm ý chê). Tâu hết với chú." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tâu bày">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trình bày với vua." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tấu,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ph.).x. fàu,." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tầu›(ph.;id.).x. fàu,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="tâu; (ph.).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="tàu," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tấu,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ph.).x. tàu," />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tầu bay">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(phương ngữ) Tàu bay." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tẩu,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đỏ dùng gồm một ống nhỏ và dài, đầu gắn thông với bộ phận giống như cái chén rất nhỏ để bỏ thuốc phiện, thuốc lá sợi vào mà hút. Miệng ngậm tẩu. Dọc tẩu. Nạo tấu lấy xái." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tẩu;">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Chạy trốn. Thấy động, tẩu mất." />
+  <Y_NGHIA Minh_hoa="Kẻ gian chưa kịp tấu tang vật." Noi_dung="(ít dùng). Đem giấu nhanh đi nơi khác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tẩu cẩu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Chó săn, dùng để ví kẻ làm tay sai chính trị đáng khinh bỉ." />
+  </MUC_TU>
+ </GOC>

@@ -1,0 +1,137 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết hữu thần">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thuyết tôn giáo cho rằng vũ trụ là do thần tạo ra, xếp đặt, điều khiến. -" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thuyết khách">
+  <Y_NGHIA Minh_hoa="Vua cứ người đi thuyết khách." Noi_dung="Dùng tài ăn nói để thuyết phục người khác nghe theo (thường nói về một loại hoạt động ngoại giao thời phong kiến)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết không thể biết">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). xem thuyết bất khả trí." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thuyết lí cũng viết thuyết lý.">
+  <Y_NGHIA Minh_hoa="Lối thuyết lí dài dòng." Noi_dung="Dùng lí luận thuần tuý để giảng giải về một vấn đề." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết luân hổi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Quan niệm của đạo Phật cho rằng con người chết ở kiếp này rồi lại sinh ra ở kiếp khác, cứ quay vòng kiếp trước kiếp sau như vậy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="thuyết lý">
+  <Y_NGHIA Minh_hoa="" Noi_dung="huyết lí." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết Malthus">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Học thuyết do T.R. Malthus để xướng, cho rằng theo quy luật tự nhiên thức ăn trên thế giới tăng (theo cấp số cộng) chậm hơn nhiều so với dân số (tăng theo cấp số nhân), do đó không thể tránh khỏi tai hoạ đói nghèo, trừ phi có sự giảm dân số do chiến tranh, nạn đói, dịch bệnh hoặc có sự hạn chế sinh đẻ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thuyết minh">
+  <Y_NGHIA Minh_hoa="Người thuyết minh phim. Bản uẽ thiết kế có kèm thuyết minh." Noi_dung="(hoặc danh từ). Nói hoặc chú thích cho người ta hiểu rõ hơn về những sự vật, sự việc hoặc hình ảnh đã đưa ra. Thuyết minh ảnh triển lãm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết nhất thần">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thuyết tôn giáo cho rằng trong vũ trụ chỉ có một thần; trái với thuyết đa thần." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết nhị nguyên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Quan niệm triết học cho rằng các hiện tượng đa dạng của thế giới có hai nguồn gốc đầu tiên đối lập nhau, là vật chất và tỉnh thần; trái với thuyết nhất nguyên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thuyết pháp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Giảng giáo lí cho tín đồ trong những dịp nào đó (từ dùng trong đạo Phật). Nhà sư thuyết pháp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết phiếm thần">
+  <Y_NGHIA Minh_hoa="Lấy lẽ phải thuyết phục. Hành động gương mẫu có sức thuyết phục." Noi_dung="(ít dùng). xem phiếm thần thuyết phục động từ Làm cho bản thân người ta thấy đúng, hay mà tin theo, làm theo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết thần bí">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem chủ nghĩa thần bí." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết tiền định">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thuyết cho rằng mọi việc đều đã được tạo hoá quyết định và sắp xếp từ trước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết tiến hoá">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thuyết cho rằng do kết quả của sự phát triển tự nhiên và có tính chất lịch sử mà các sinh vật thay đổi và tiến hoá không ngừng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thuyết trình">
+  <Y_NGHIA Minh_hoa="Thuyết trình một đề tài khoa học. Thuyết trình dự án xây dựng mới. Bản thuyết trình trước hội nghị." Noi_dung="Trình bày rõ ràng một vấn đề trước nhiều người." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thuyết trình viên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người đứng ra thuyết" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Lá thư tình. Gửi thư qua bưu điện." Noi_dung="thư, danh từ Giấy viết gửi cho người nào đó, mang nội dung những điều mình muốn nói với người ấy. Viết thư cho bạn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thư, !">
+  <Y_NGHIA Minh_hoa="Để lúc nào thư thư hÃng làm. ll động từ Đồng ý cho hoãn lại ít lâu, không đòi hỏi thúc bách phải làm việc gì (thường dùng trong lời cầu xin). Thư cho món ngít lâu. Xin thư cho ít hôm." Noi_dung="Ở trạng thái công việc đã bớt thúc bách. Hôm nay thư uiệc, mới đi chơi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư bảo đảm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ, hoặc khẩu ngữ). Thư ghi số." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư chuyển tiền">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Giấy chuyển tiền qua bưu điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thư dãn cũng viết thu giãn.">
+  <Y_NGHIA Minh_hoa="Luyện tập thư dãn làm cho giấc ngủ ngon hơn." Noi_dung="Làm cho cơ bắp ở trạng thái thả lỏng, tạo nên cắm giác tinh thần thư thái, thoải mái (một phương pháp luyện tập để giữ gìn và tăng cường sức khoẻ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư điếm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Cửa hàng sách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư điện tử">
+  <Y_NGHIA Minh_hoa="" Noi_dung="cũng nói e-mail. Thư được gửi và nhận qua mạng máy tính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư ghi số">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thư do bưu điện chuyển, có ghi số, bảo đảm phát tận tay người nhận. thư giãn xem thư dãn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư hiên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; văn chương). Mái hiên được ngăn làm nơi đọc sách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư hoạ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hình thức nghệ thuật vẽ kết hợp với phép viết chữ Hán của Trung Quốc. Triển lãm thư hoạ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thư hùng">
+  <Y_NGHIA Minh_hoa="Trận thư hùng." Noi_dung="(văn chương). Sống mãi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư hương">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; văn chương). Nhà dòng dõi có học." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư kí cũng viết thư ký.">
+  <Y_NGHIA Minh_hoa="Thư kí uăn phòng. Làm thư kí cho một hãng buôn. Ban thư kí của hội nghị." Noi_dung="Người giúp việc biên chép, viết lách, nói chung làm các công việc về giấy tờ." />
+  <Y_NGHIA Minh_hoa="Uỷ uiên thư kí của hội đồng. Thư kí khoa học của uiện. Thư kí công đoàn." Noi_dung="Người làm nhiệm vụ soạn thảo những giấy tờ, văn bản quan trọng, điều hành các công việc hằng ngày của một số tổ chức, cơ quan, đoàn thể." />
+  <Y_NGHIA Minh_hoa="Bí thư. Thư kí của một đảng." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư kí riêng cũng viết thư ký riêng.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người giúp việc một nhân vật cao cấp trong các công việc về giấy tờ, giao thiệp, sắp xếp và chuẩn bị nội dung công việc hằng ngày. Thư kí riêng của bộ trưởng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư kí toà soạn cũng viết thư ký toà soạn.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người chịu trách nhiệm tập hợp bài vở trong công tác biên tập của một toà soạn. thư ký, ...x. thư kí, ..." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư lại">
+  <Y_NGHIA Minh_hoa="" Noi_dung="cũng nói thơ lại. Viên chức nhỏ trông nom việc văn thư ở công đường (thường là phủ, huyện) thời phong kiến, thực dân. thư lưu danh từ (khẩu ngữ). Thư lưu kí (nói tắt). Hồm thư lưu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư lưu kí cũng viết í;ư lưu ký">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thư gửi để tại bưu cục, người có thư phải tự đến bưu cục hỏi và nhận." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư mục">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Danh mục các sách báo, tài liệu viết về một vấn đề. Thư mục tài liệu tham khảo." />
+  <Y_NGHIA Minh_hoa="Biên soạn thư mục chuyên đề." Noi_dung="Tài liệu giới thiệu vắn tắt những đặc điểm và nội dung cơ bản của các sách báo để giúp bạn đọc tìm và sử dụng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư ngỏ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bài báo viết dưới hình thức một bức thư, thường có tính chất luận chiến hoặc yêu sách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thư nhàn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Được thư thả, nhàn rỗi. Công uiệc luôn tay, không mấy lúc thư nhàn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư pháp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nghệ thuật dùng bút lông viết chữ Hán." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư phòng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; văn chương). Phòng đọc sách trong gia đình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư quán">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Như thư điếm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư sinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người học trò trẻ tuổi thời trước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thư sinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). (Thanh niên) có dáng mảnh khảnh, yếu ớt của người ít lao động chân tay, như một thư sinh thời trước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư tay">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thư nhờ người mang đến, không gửi qua bưu điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thư thả">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như thong thả. (nghĩa 2, 3). Ít có dịp thư thả. Hãy thư thả ít lâu xem sao đã. thư thái tính từ Ở trạng thái cảm thấy nhẹ nhàng, dễ chịu, không có điều gì phải suy" />
+  </MUC_TU>
+ </GOC>

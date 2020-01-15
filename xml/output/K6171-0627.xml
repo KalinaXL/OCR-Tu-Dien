@@ -1,0 +1,159 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="nghĩ căng thẳng.">
+  <Y_NGHIA Minh_hoa="Dạo chơi cho đầu óc thư thái. Vẻ ung dung, thư thái." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư tịch">
+  <Y_NGHIA Minh_hoa="Sách và các tài liệu thành văn khác (nói khái quát). Sưu tầm thư tịch cố." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư tín">
+  <Y_NGHIA Minh_hoa="Giữ bí mật thư tín. Trao đổi thư tín." Noi_dung="Thư từ gửi qua bưu điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư tín điện tử">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Dịch vụ máy tính cho phép cung cấp, phân phát, tra cứu từ xa các thông báo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư trai">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; văn chương). Như thư phòng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư từ">
+  <Y_NGHIA Minh_hoa="Không có thư từ gì." Noi_dung="Thư gửi cho nhau (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thư từ">
+  <Y_NGHIA Minh_hoa="Chẳng thư từ cho ai cỏ." Noi_dung="(khẩu ngữ). Gửi thư cho nhau (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư viện">
+  <Y_NGHIA Minh_hoa="Nơi tàng trữ, giữ gìn sách báo, tài liệu và tổ chức cho bạn đọc sử dụng. Thẻ thư viện (thẻ đọc sách ở thư viện)." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thư xã">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Nhà xuất bản vừa tổ chức in sách vừa mở cửa hàng bán sách." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thừ">
+  <Y_NGHIA Minh_hoa="Mệt thừ người. Mặt thừ ra. Ngồi thừ như tượng gỗ." Noi_dung="Ở trạng thái đờ đẫn, như không còn buồn cử động, không còn có khả năng cảm giác nữa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thử">
+  <Y_NGHIA Minh_hoa="Sản xuất thử. Tổ chức thi thứ. Nếm thử xem vừa chưa. Hỏi thử anh ta, xem trả lời thế nào. Thử máy. Thử áo." Noi_dung="(thường dùng sau động từ). Làm như thật, hoặc chỉ dùng một ít hay trong thời gian ngắn, để qua đó xác định tính chất, chất lượng, đối chiếu với yêu cầu." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Dùng những" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="biện pháp kĩ thuật, tâm lí để phân tích,">
+  <Y_NGHIA Minh_hoa="Thử uàng. Thử máu. Đấu một trận thử sức. Hỏi để thử lòng. 3 (thường dùng trước động từ). Làm một uiệc nào đó (mà nội dung cụ thể do động từ đứng sau biểu thị) để xem kết quả ra sao, may ra có thể được (thường dùng trong lời khuyên nhẹ nhàng). Thử uặn bằng kìm, nhưng không được. Thử hỏi anh ta xem, may ra anh ta biết. Thứ nhớ lại, xem có đúng không. Cứ thử xem, biết đâu được." Noi_dung="xem xét đặc tính, thực chất của sự vật hoặc con người cần tìm hiểu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="thử hỏi">
+  <Y_NGHIA Minh_hoa="Thử hỏi làm như uậy có đúng không? Được thế, thử hỏi ai mà không thích?" Noi_dung="(dùng không có chủ ngữ, trong câu có hình thức câu nghỉ vấn). Tổ hợp biểu thị ý nêu ra như muốn hỏi, nhằm để cho người đối thoại tự trả lời (bằng phủ định) và tự rút ra kết luận (và kết luận đó là ý của người nói muốn nói)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thứ lửa">
+  <Y_NGHIA Minh_hoa="Qua thử lửa, con người trở nên uững vàng. Cuộc thử lửa khốc liệt." Noi_dung="Đưa vào lửa để xem xét phẩm chất của vàng; thường dùng để ví sự thử thách qua khó khăn, nguy hiểm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thử nghiệm">
+  <Y_NGHIA Minh_hoa="Trồng thử nghiệm giống cây mới. Qua thử nghiệm mà chứng minh." Noi_dung="(hoặc danh từ). Làm thử, coi như một thí nghiệm để xem xét kết quả thế nào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thử thách">
+  <Y_NGHIA Minh_hoa="Thử thách lòng chung thuỷ. Được thử thách trong đấu tranh. Vượt qua thử thách." Noi_dung="(hoặc danh từ). Đặt vào tình huống khó khăn, nguy hiểm để qua đó thấy rõ tỉnh thần, khả năng của con người." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tập hợp những sự vật giống nhau về một hay những mặt nhất định nào đó, phân biệt với những tập hợp khác trong cùng loại. Thứ uải hoa mỏng. Đầu đã hai thứ tóc (đã có tóc bạc; đã đứng tuổi, nhiều tuổi)." />
+  <Y_NGHIA Minh_hoa="Dặn dò đủ thứ. Những thứ cần thiết tối thiểu." Noi_dung="Sự vật, điều cụ thể nào đó (nói khái quát). Nhà không thiếu thứ gì." />
+  <Y_NGHIA Minh_hoa="Ai thèm đếm xía đến cái thứ ấy. Thứ người gì mà ăn nói lạ uậy!" Noi_dung="(khẩu ngữ). Loại người được coi là thấp kém, đáng khinh." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(chuyên môn). Đơn vị phân loại sinh học, chỉ những nhóm thuộc cùng một loài, có những đặc điểm riêng biệt thứ yếu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ,">
+  <Y_NGHIA Minh_hoa="Đại hội làn thứ sáu. Ngồi hàng ghế thứ mấy?" Noi_dung="Từ dùng trước danh từ số lượng để chỉ thứ tự trong sắp xếp. Đứng thứ ba trong lớp." />
+  <Y_NGHIA Minh_hoa="Thứ hai*. Hôm nay thứ mấy?" Noi_dung="Từ dùng trước danh từ số lượng để chỉ ngày trong tuần." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thứ,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(dùng hạn chế trong một vài tổ hợp). (Vợ, con) ở hàng thứ hai, sau người cả. Vợ thứ. Con thứ." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Trung bình (trong hệ thống phê điểm để" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="">
+  <Y_NGHIA Minh_hoa="Đỗ hạng thứ." Noi_dung="xếp hạng: ưu, bình, thứ, liệt, dùng trong học tập, thi cử ngày trước)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ ba">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngày thứ hai trong tuần lễ (với ngày đầu tuần gọi là thứ hai)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ bảy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngày thứ sáu trong tuần lễ (với ngày đầu tuần gọi là thứ hai) thường được coi như là ngày cuối tuần, trước chủ nhật (coi là ngày nghỉ, ngày đặc biệt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ bậc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trật tự sắp xếp cao thấp, trên dưới (trong quan hệ xã hội). Xét theo thứ bậc, thuộc loại đàn anh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thứ cấp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="x cuộn thứ cấp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ dân">
+  <Y_NGHIA Minh_hoa="Tầng lớp thứ dân." Noi_dung="Những người dân thường không có chức vị gì trong xã hội phong kiến (nói tổng quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ dân viện">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Hạ nghị viện ở nước Anh; phân biệt với viện quý tộc (thượng nghị viên)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ hai">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngày coi là ngày đầu tiên trong tuần lễ (sau chủ nhật của tuần lễ trước)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ hạng">
+  <Y_NGHIA Minh_hoa="Thí đấu để xếp thứ hạng." Noi_dung="Trật tự sắp xếp cao thấp, trên dưới theo trình độ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thứ lỗi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kiểu cách). Tha lỗi cho (chỉ dùng trong lời xin lỗi). Mong ông thứ lỗi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ nam">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; kiểu cách). Con trai thứ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ năm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngày thứ tư trong tuần lễ (với ngày đầu tuần gọi là thứ hai)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ nữ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; kiểu cách). Con gái thứ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thứ phát">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Hiện tượng sinh lí, bệnh 1) phát sinh ra sau giai đoạn thứ nhất. Nhiễm trùng thứ phát." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ phẩm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Sản phẩm không đúng quy cách, không đạt đầy đủ yêu cầu về phẩm chất; phân biệt với chính phẩm. Hàng thứ phẩm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ phi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vợ lẽ của vua." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ sáu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngày thứ năm trong tuần lễ (với ngày đầu tuần gọi là thứ hai)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thứ sinh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Được sinh ra từ một cái đã có trước." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Rừng) tự mọc lại, sau khi đã khai thác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ sử">
+  <Y_NGHIA Minh_hoa="Thứ sử Giao Châu." Noi_dung="Chức quan của chính quyền phong kiến Trung Quốc thời xưa, trông coi một hay một số quận hoặc đứng đầu bộ máy cai trị ở một nước phụ thuộc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thứ thiệt">
+  <Y_NGHIA Minh_hoa="Chuyên bán hàng thứ thiệt." Noi_dung="(ph.; kng.; dùng phụ sau danh từ). Thuộc loại thật, không phải là giả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ trưởng">
+  <Y_NGHIA Minh_hoa="Thứ trưởng bộ quốc phòng." Noi_dung="Người giúp việc và có thể thay bộ trưởng lãnh đạo một bộ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ tư">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngày thứ ba trong tuần lễ (với ngày đầu tuần gọi là thứ hai)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ tự">
+  <Y_NGHIA Minh_hoa="Số thứ tự. Đồ đạc để có thứ tự. Danh sách xếp theo thứ tự a, b, cảm từ" Noi_dung="Sự sắp xếp lần lượt trên dưới, trước sau một cách hợp lí, theo một nguyên tắc nhất định." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="thứ vị">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Ngôi thứ. Thứ uị trong làng. thứ yếu tính từ Ở bậc dưới, theo tầm quan trọng. Vấn đề thứ yếu. Địa uị thứ yếu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thưa,">
+  <Y_NGHIA Minh_hoa="Gọi mãi không ai thưa." Noi_dung="Đáp lại lời gọi." />
+  <Y_NGHIA Minh_hoa="7a chuyện với cha mẹ. Xin thưa vài lời." Noi_dung="Trình bày với người trên một cách trân trọng, lễ độ." />
+  <Y_NGHIA Minh_hoa="Thưa bác, cháu hiểu rồi. Thưa các vị đại biểu." Noi_dung="Từ dùng trước một từ hoặc tổ hợp từ xưng gọi để mở đầu khi nói với người trên hoặc trước đám đông, tỏ thái độ trân trọng, lễ phép." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thưa,">
+  <Y_NGHIA Minh_hoa="Rào thưa. Rừng thưa. Mái tóc thưa. Đất rộng người thưa." Noi_dung="Do một số lượng yếu tố, số lượng đơn vị tương đối ít và cách xa nhau tạo thành." />
+  <Y_NGHIA Minh_hoa="Để thưa. Thưa đến chơi nhà. Tiếng súng thưa dẫn." Noi_dung="(Hoạt động) không nhiều và mỗi lần cách nhau một khoảng thời gian tương đối dài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thưa gửi">
+  <Y_NGHIA Minh_hoa="Quer: ăn nói cộc lốc, chăng thưa gửi gì." Noi_dung="Xưng gọi, nói năng một cách có lễ độ, khiêm tốn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thưa kiện">
+  <Y_NGHIA Minh_hoa="Đưa đơn kiện trước toà án hay cơ quan có thẩm quyền (nói khái quát)." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="thưa thốt">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bày tỏ, nói ra ý kiến của mình (nói khái quát). Biết thì thưa thốt, không biết thì dựa cột mà nghe (tục ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="thưa thớt">
+  <Y_NGHIA Minh_hoa="Dân cư thưa thớt. Cây cối thưa thớt. Chợ" Noi_dung="Ít và phân bố không đều ra nhiều nơi, nhiều lúc, gây cảm giác rời rạc." />
+  </MUC_TU>
+ </GOC>

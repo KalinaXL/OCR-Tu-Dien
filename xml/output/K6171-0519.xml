@@ -1,0 +1,186 @@
+<GOC>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan lại">
+  <Y_NGHIA Minh_hoa="Hàng ngũ quan lại." Noi_dung="Quan (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan lang">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người thuộc tầng lớp quý tộc ở vùng dân tộc Mường trước Cách mạng tháng Tám." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan liêu I">
+  <Y_NGHIA Minh_hoa="Như quan lại. Bộ máy quan liêu phong kiến. | tính từ (Cách lãnh đạo, chỉ đạo) thiên về dùng mệnh lệnh, giấy tờ, xa thực tế, xa quần chúng. Tác phong quan liêu. Bệnh quan liêu." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quan ngại">
+  <Y_NGHIA Minh_hoa="Quan ngại uỀề mức thâm hụt trong cán cân thanh toán. Bày tỏ mối quan ngại." Noi_dung="Quan tâm và lo ngại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan nha">
+  <Y_NGHIA Minh_hoa="Đế: chỗ quan nha." Noi_dung="(cũ). Nơi làm việc của quan (nói khái quát)." />
+  <Y_NGHIA Minh_hoa="Quan nha sách nhiễu." Noi_dung="Quan lại và nha lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quan niệm">
+  <Y_NGHIA Minh_hoa="Chúng ta quan niệm như thế là đúng." Noi_dung="Hiểu, nhận thức như thế nào đó về một vấn đề." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan niệm">
+  <Y_NGHIA Minh_hoa="Một quan niệm sai lầm. Những quan niệm đúng đắn uề cuộc sống." Noi_dung="Sự nhận thức như thế nào đó về một vấn đề, một sự kiện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan ôn">
+  <Y_NGHIA Minh_hoa="Cúng tiễn quan ôn." Noi_dung="Ác thần gây ra bệnh dịch, theo mê tín." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan phụ mẫu">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Quan cai trị (coi như là bậc cha mẹ của dân, theo quan niệm nho giáo, thường hàm ý châm biếm)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="quan phương">
+  <Y_NGHIA Minh_hoa="Văn học quan phương." Noi_dung="Thuộc về nhà nước, chính thống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan quân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Quân đội của nhà nước phong kiến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan quyền">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ; ít dùng). Quyền thế, quyền hành của quan lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="quan san">
+  <Y_NGHIA Minh_hoa="Quan san muôn dặm." Noi_dung="Ở. cũng nói quan sơn. (cũ; văn chương). Cửa ải và núi non; dùng để chỉ đường sá xa xôi, núi non cách trở." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quan sát">
+  <Y_NGHIA Minh_hoa="Quan sát địa hình. Đài quan sát. Ớc quan sát tỉnh tế." Noi_dung="Xem xét để thấy, để biết rõ sự vật, hiện tượng nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan sát viên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đại diện của một quốc gia bên cạnh một tổ chức quốc tế hoặc hội nghị quốc tế, được tham gia, phát biểu ý kiến và hưởng đây đủ các quyền ưu đãi như những thành viên chính thức, song không có quyền biểu quyết, kí kết các văn bản." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="quan sơn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="quan san." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan tài">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Áo quan." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quan tâm">
+  <Y_NGHIA Minh_hoa="Vấn đề đáng được quan tâm." Noi_dung="Để tâm, chú ý thường xuyên đến. Quan tâm đến uiệc chăm sóc, giáo dục thiếu nhỉ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan thầy">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Kẻ có thế lực, dùng kẻ khác làm tay sai để làm những việc phi nghĩa, trong quan hệ với tay sai của mình. Bọn bù nhìn uâng lệnh quan thầy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="quan thiết">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(¡d.). Có quan hệ mật thiết. Những vấn đề quan thiết đến đời sống của nhân dân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan thuế">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Thuế quan. Hàng rào quan thuế." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan tiền">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem quan; (ng.1)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan toà">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Người làm nhiệm vụ xét xử ở toà án; thẩm phán." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="quan trọng">
+  <Y_NGHIA Minh_hoa="Chăm sóc, giáo dục thiếu nhi là một nhiệm nụ quan trọng của toàn xã hội. Biện pháp quan trọng. Vai trò quan trọng." Noi_dung="Có ý nghĩa, tác dụng hoặc ảnh hưởng lớn, đáng được coi trọng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quan trọng hoá">
+  <Y_NGHIA Minh_hoa="Quan trọng hoá uấn đề." Noi_dung="Làm cho có vẻ quan trọng trong khi thật ra không có gì quan trọng cả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan trường">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Giới quan lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quan viên">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Người làm quan, phân biệt với những người dân thường (nói khái quát)." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người có địa vị ở làng xã, được miễn phu phen, tạp dịch dưới thời phong kiến, thực dân, phân biệt với những người dân đen (nói khái quát). Các quan uiên trong làng." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người chơi hát ä đào, trong quan hệ với các ä đào." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="đào chuốc rượu quan uiên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="quan yếu">
+  <Y_NGHIA Minh_hoa="Như quan trọng." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quàn">
+  <Y_NGHIA Minh_hoa="Linh cữu quàn tại nhà." Noi_dung="Đặt tạm linh cữu ở một nơi để làm lễ trước khi mai táng." />
+  <Y_NGHIA Minh_hoa="mới làm lô mai táng." Noi_dung="Chôn tạm một thời gian trước khi đưa đi mai táng, theo một phong tục thời trước. Xác quàn một tháng" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản,">
+  <Y_NGHIA Minh_hoa="Quản được lũ trẻ cũng đến mệt." Noi_dung="(khẩu ngữ). Trông coi, điều khiến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản,">
+  <Y_NGHIA Minh_hoa="Quản khốxanh." Noi_dung="Chức vụ trong quân đội thời thực dân Pháp, trên cấp đội." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Quản cơ (gọi tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(dùng có kèm ý phủ định). Tính đến và ngại. Không quản nắng mưa." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản bút">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cán để cắm ngòi bút vào mà viết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản ca">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Người điều khiển và huấn luyện một nhóm hát." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản chế">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Bắt kẻ phạm tội phải chịu một số ràng buộc về đi lại, làm ăn, cư trú (một hình phạt nhẹ, không giam giữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản cơ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Chức vụ trong quân đội thời phong kiến, chỉ huy một cơ lính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản đốc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người đứng đầu quản lí một phân xưởng hay một xưởng trong nhà máy, xí nghiệp. Quản đốc phân xưởng cơ điện." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản gia">
+  <Y_NGHIA Minh_hoa="Lão quản gia." Noi_dung="Người làm thuê trông coi việc nhà cho một gia đình giàu sang trong xã hội cũ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản giáo">
+  <Y_NGHIA Minh_hoa="Cán bộ quản giáo. Làm quản giáo ở trại giam." Noi_dung="Người trực tiếp quản lí và giáo dục phạm nhân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản lí cũng viết quản lý!">
+  <Y_NGHIA Minh_hoa="Quản lí hồ sơ. Quản lí uật tư." Noi_dung="Trông coi và giữ gìn theo những yêu cầu nhất định." />
+  <Y_NGHIA Minh_hoa="Quản lí lao động. Người quản lí II danh từ Sự quản lí. Cải tiến quản lí. Quản lí vĩ mô." Noi_dung="TỔ chức và điều khiến các hoạt động theo những yêu cầu nhất định." />
+  <Y_NGHIA Minh_hoa="Làm quản lí cho đơn vị." Noi_dung="Người quản lí công việc phục vụ ăn uống cho một tập thể." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản lí nhà nước cũng viết quản lý nhà nước">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tổ chức điều hành các hoạt động kinh tế - xã hội theo pháp luật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="quản lý">
+  <Y_NGHIA Minh_hoa="" Noi_dung="quản lí." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="quản lý nhà nước">
+  <Y_NGHIA Minh_hoa="" Noi_dung="quản lí nhà nước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản ngại">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(dùng có kèm ý phủ định). Ngại ngẩn, coi là đáng kế. Chẳng quản ngại gian lao uất vả. Nào quản ngại gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản thúc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Quản chế." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản trang">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Người quản lí nghĩa trang. Làm quản trang ở nghĩa trang liệt sĩ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quản trị">
+  <Y_NGHIA Minh_hoa="Ban: quán trị hợp tác xã. Hội đồng quản trị của công tỉ. Phòng quản trị." Noi_dung="(thường dùng phụ cho danh từ trong một số tổ hợp). Quản lí và điều hành công việc thường ngày (thường về sản xuất, kinh doanh hoặc về sinh hoạt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quản tượng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người trông nom và điều khiến voi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quán">
+  <Y_NGHIA Minh_hoa="Quán nước. Quán bán báo. Dọn quán bán hàng. quán cóc danh từ (Kug). Quán nhỏ, có tính chất tạm bợ. ," Noi_dung="Nhà nhỏ dùng để bán hàng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quán ngữ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tổ hợp từ cố định đã dùng lâu thành quen, nghĩa có thể suy ra từ nghĩa của các yếu tố hợp thành. &quot;Lên lớp&quot;, &quot;lên mặt&quot;, &quot;lên tiếng&quot; đều là những quán ngữ trong tiếng Việt. ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quán quân">
+  <Y_NGHIA Minh_hoa="Quán quân uề bơi lội. Chiếm giải quán quân." Noi_dung="(cũ). Người chiếm giải nhất trong một cuộc thi đấu thể thao đặc biệt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quán tính">
+  <Y_NGHIA Minh_hoa="Đã tắt máy, nhưng theo quán tính xe uẫn còn chạy thêm một quãng nữa." Noi_dung="(chuyên môn). Tính chất không tự thay đổi trạng thái chuyển động hoặc đứng yên của vật." />
+  <Y_NGHIA Minh_hoa="Giơ tay lên đỡ, theo quán tính." Noi_dung="Phản ứng đã trở thành tự nhiên, theo thói quen của cơ thể." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quán triệt">
+  <Y_NGHIA Minh_hoa="Quán triệt đường lối. Quán triệt phương châm." Noi_dung="Hiểu thấu đáo và thể hiện đây đủ trong hoạt động." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quán trọ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nhà trọ loại nhỏ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quán từ">
+  <Y_NGHIA Minh_hoa="Như mạo từ." Noi_dung="(Id.)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="quán xuyến">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trông coi, đảm đương được hết cả. Một mình quán xuyến công việc gia đình." />
+  <Y_NGHIA Minh_hoa="Tz tưởng nhân đạo quán xuyến trong toàn bộ tác phẩm." Noi_dung="(Quan điểm, tư tưởng) bao trùm và chỉ phối toàn bộ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="quang,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đồ dùng tết bằng những sợi dây bền để đặt vật gánh đi hoặc treo lên. Đôi quang mây." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="quang;">
+  <Y_NGHIA Minh_hoa="Trời quang mây tạnh. Đường quang, không một bóng cây. Phát quang*." Noi_dung="Sáng sủa, không bị che chắn ánh sáng mặt trời." />
+  </MUC_TU>
+ </GOC>

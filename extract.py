@@ -322,6 +322,7 @@ def main(args):
                         if len(ls_words) == 1:
                             n_o = int(img_path.split(os.path.sep)[-1].split('.')[0].split('-')[-1])
                             path_o = 'output/K6171-{:04}.docx'.format(n_o - 1)
+                            path_o = ''
                             if os.path.exists(path_o):
                                 if not isSaveO:
                                     d_o = Document(path_o)

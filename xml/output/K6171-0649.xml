@@ -1,0 +1,189 @@
+<GOC>
+ <MUC_TU Loai_tu="" Noi_dung="đi mà không được gì.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Công toi*. Toi tiền. Mất toi*." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="toi cơm">
+  <Y_NGHIA Minh_hoa="Nuôi nó chỉ toi cơm. Đỗ toi cơm! (tiếng mắng)." Noi_dung="(thông tục). Phí cả cơm đã ăn mà không được việc gì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="toi dịch">
+  <Y_NGHIA Minh_hoa="Phòng toi dịch cho gà." Noi_dung="Hiện tượng có dịch làm chết nhiều gia súc, gia cằm cùng một lúc (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="toi mạng">
+  <Y_NGHIA Minh_hoa="Tên cướp bị toi mạng. Đừng có đụng uào mà toi mạng." Noi_dung="(khẩu ngữ). Chết một cách vô ích (hàm ý coi khinh)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ) Thò ra bên ngoài vật bao bọc. Góc chăn tòi ra ngoài màn. Cây đã tòi nõn." />
+  <Y_NGHIA Minh_hoa="Mãi mới tòi ra được mấy đồng bạc. Hỏi một lúc lại tòi ra một chuyện." Noi_dung="Đưa ra, để lộ ra một cách bất đắc dĩ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tỏi">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây thân cỏ, củ có nhiều nhánh, vị cay, mùi hăng, dùng làm gia vị và làm thuốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="tỏi gà d">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đùi gà chặt ra (giống hình củ tỏi)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tỏi tây">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Cây thuộc loại tỏi, lá và củ lớn hơn, dùng làm gia vị." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="toiletx. toa lét.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tolar">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Đơn vị tiền tệ cơ bản của Slovenia." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tom">
+  <Y_NGHIA Minh_hoa="Tom tom tom chát." Noi_dung="(dùng đi đôi với chát). Từ mô phỏng tiếng trống chầu trong hát ä đào." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tom góp">
+  <Y_NGHIA Minh_hoa="Tom góp mãi mới đu." Noi_dung="(ít dùng). Như gom góp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tòm">
+  <Y_NGHIA Minh_hoa="Rơi tồm xuống giếng." Noi_dung="Từ mô phỏng tiếng như tiếng vật nặng rơi xuống nước. Nhảy tòm xuống sông." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòm tem">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thông tục). Gạ gẫm chuyện tình dục (nói về người đàn ông)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tòm tõm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="xem tõm (láy)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tõm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ mô phỏng tiếng vật nhỏ và nặng rơi gọn xuống nước. Quả sung chín rụng tõm xuống ao. /! Láy: tòm tõm (ý liên tiếp). ch nhái nhảy tòm tốõm xuống ao." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tóm">
+  <Y_NGHIA Minh_hoa="Tóm được con gà sống. Tóm lấy thời cơ (khẩu ngữ)." Noi_dung="Nắm chặt một cách mau lẹ để giữ lấy, để giữ lại." />
+  <Y_NGHIA Minh_hoa="Tóm gọn toán phí. Kẻ gian bị tóm." Noi_dung="(khẩu ngữ). Bắt giữ, bắt lấy." />
+  <Y_NGHIA Minh_hoa="Tóm lại bằng một câu cho dễ nhớ. Nói tóm lại." Noi_dung="Rút gọn, thu gọn lại cho dễ nắm điểm chính, ý chính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tóm cổ">
+  <Y_NGHIA Minh_hoa="Bắt giữ. Tên trộm bị tóm cổ. tóm lược động từ (và tính từ). Nêu lại những điểm chính, quan trọng nhất, bỏ qua các chỉ tiết, để có được cái nhìn tổng thể. Bán tóm lược thành tích. Tóm lược nội dung phim. Phát thanh uiên tóm lược các sự kiện lớn trong tuần." Noi_dung="(khẩu ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tóm tắt">
+  <Y_NGHIA Minh_hoa="Tóm tắt nội dung tác phẩm. Tóm tắt ý kiến. Trình bày tóm tắt." Noi_dung="Rút ngắn, thu gọn, chỉ nêu những điểm chính." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tóm tém">
+  <Y_NGHIA Minh_hoa="Cháu bé tóm tém tìm uú mẹ. Ông cụ tóm tếm cười." Noi_dung="Từ gợi tả dáng vẻ cử động đôi môi khẽ và liên tiếp như để thu lại, chúm lại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tóm thâu">
+  <Y_NGHIA Minh_hoa="Như thâu tóm." Noi_dung="(ít dùng)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="ton hót">
+  <Y_NGHIA Minh_hoa="Nghe được chuyện gì là đem ton hót ngay với chủ." Noi_dung="Nói cho biết một cách khéo léo nhằm tâng công, lấy lòng người đối thoại và làm hại người khác." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="ton tả (id.).">
+  <Y_NGHIA Minh_hoa="" Noi_dung="fong tả." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="ton ton">
+  <Y_NGHIA Minh_hoa="Ton ton chạy uề trước báo tin. Chân bước ton ton." Noi_dung="Từ gợi tả dáng đi, chạy nhanh với vẻ vội vàng, lật đật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="tòn ten">
+  <Y_NGHIA Minh_hoa="foòng teng." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tong">
+  <Y_NGHIA Minh_hoa="Chờ mất tong cả buổi. Làm dối trá, danh đdự đi tong." Noi_dung="(thông tục). Mất đứt đi, không còn tí gì. Chỉ một trận bão mà tong hết cơ nghiệp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tong tả">
+  <Y_NGHIA Minh_hoa="Hết giờ làm uiệc, tong tả bồ nhà với con." Noi_dung="Từ gợi tả dáng đi nhanh, vội." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tong teo">
+  <Y_NGHIA Minh_hoa="Gây đét. Ớm tong teo. Người tong teo, lòi xương sườn." Noi_dung="(phương ngữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tong tong,">
+  <Y_NGHIA Minh_hoa="Tong tong chạy trước dẫn đường. Vừa hỏi, đã tong tong trả lời." Noi_dung="(Id.). Nhanh nhảu, có vẻ sốt sắng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tong tong,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ gợi tả tiếng như tiếng nƯớỚc nhỏ nhanh, đều đều từ trên cao xuống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tong tổng">
+  <Y_NGHIA Minh_hoa="Vước muưa từ mái nhà nhỏ xuống tong tông." Noi_dung="Từ gợi tả tiếng như tiếng nước nhỏ liên tiếp từ trên cao xuống." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="xem" Noi_dung="tòng">
+  <Y_NGHIA Minh_hoa="chữ tòng." Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòng chỉnh">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Vào quân đội, đi chinh chiến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòng ngũ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Nhập ngũ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tòng phạm">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người cùng tham gia một hành động phạm pháp. 7 3 phạm bị" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="trừng trị nặng hơn tòng phạ.^.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòng phu">
+  <Y_NGHIA Minh_hoa="Xuất giá tòng phu. Đạo tòng phu." Noi_dung="Theo chồng, hoàn toàn phục tùng chồng (một nguyên tắc của lễ giáo phong kiến ràng buộc người phụ nữ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòng quân">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Vào quân đội." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòng quyền">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Ứng phó linh hoạt tuỳ theo hoàn cảnh, không cố chấp, không câu nệ. tòng sự động từ (cũ). Làm việc tại một công sở nào đó." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tòng tọc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). (Máy móc, xe cộ) cũ, hay hỏng, chạy xộc xệch. Chiếc xe đạp tòng tọc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tòng vong">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Theo vua lưu vong chạy ra sống ở nước ngoài." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tọng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(khẩu ngữ). Cho vào một nơi nào đó và dồn xuống cho thật đầy, thật chặt. Tọng gạo uào bao." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thông tục). Ăn một cách thô tục, tham lam, chỉ cốt cho được nhiều. Tọng đây dạ dày." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="toòng teng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Từ gợi tả trạng thái lủng lắng, dễ đu đưa qua lại. Gáz:h toòng teng uài mớ rau. Xách toòng teng cái túi nhỏ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tóp Ì">
+  <Y_NGHIA Minh_hoa="Quả dưa héo tóp đi. Lợn đói ăn tóp hẳn. ốm đến nỗi gầy tóp lại. Má tóp. I động từ Ép bên ngoài cho lỗ của một vật rỗng nhỏ lại; trái với nong. Tóp ống. Tóp khung xe đạp." Noi_dung="Ở trạng thái trở thành bé đi và nhăn nhúm, do khô héo hoặc do gầy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="topten">
+  <Y_NGHIA Minh_hoa="Được xếp uào topten năm 1998." Noi_dung="Mười sản phẩm, thứ, loại được bình chọn là đứng đầu về mặt chất lượng, được nhiều người ưa chuộng, hoan nghênh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="top Í">
+  <Y_NGHIA Minh_hoa="Quả dưa hép tóp đi. Lợn đói ăn tóp hẳn. Ốm đến nỗi gây tóp lại. Má tóp. \ động từ Ép bên ngoài cho lỗ của một vật rỗng nhỏ lại; trái với nong. Tóp ống. Tóp khung xe đạp." Noi_dung="Ở trạng thái trở thành bé đi và nhăn nhúm, do khô héo hoặc do gầy." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tóp mỡ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Phần còn lại của miếng mỡ lợn (bị tóp lại), sau khi đã rán lấy mỡ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tóp tép">
+  <Y_NGHIA Minh_hoa="Nhai trầu tóp tép. Cá đớp tóp tép uào chân bèo." Noi_dung="Từ mô phỏng tiếng như tiếng nhai thong thả vật mềm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tóp tọp">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như tợp (nhưng nghĩa mạnh hơn)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tọp">
+  <Y_NGHIA Minh_hoa="Gây tọp." Noi_dung="Ở trạng thái gầy tóp hẳn đi. Ớm mấy hôm, người tọp hẳn đi." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="topo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Topo học (nói tắt)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="topo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Thuộc về topo học. Các tính chất topo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="topo học">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ngành toán học nghiên cứu các tính chất còn được giữ nguyên của các hình qua các phép biến dạng không làm rách hình và không làm dính lại những bộ phận vốn không liền nhau của hình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tót">
+  <Y_NGHIA Minh_hoa="Leo tót lên cây. Xe chưa đỗ, đã nhảy tót xuống. Chạy tót về nhà." Noi_dung="(thường dùng phụ sau động từ). Di chuyển bằng động tác rất nhanh, gọn, đột ngột tới một nơi khác. Thoắt một cái đã tót đi đâu mất." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="tót vời">
+  <Y_NGHIA Minh_hoa="Tuyệt vời. Tài cao fÓt UỜI." Noi_dung="(cũ; văn chương)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tọt l">
+  <Y_NGHIA Minh_hoa="Chui tọt xuống đất. Chạy tọt uào buông. II phụ từ (d.; dùng phụ sau một số động từ). Bằng một động tác nhanh, mạnh, đột ngột. Vứt tọt xuống đất. Quăng tọt ra sân." Noi_dung="(thường dùng phụ sau động từ). Di chuyển bằng động tác rất nhanh, gọn vào nơi kín đáo. Con chuột tọt vào hang." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="totem cũng viết tôtem.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Động vật, cây, vật hoặc hiện tượng tự nhiên mà tộc người nguyên thuỷ tin là có mối liên hệ siêu tự nhiên, có sự gần gũi máu mủ với mình, mỗi tộc người coi totem là biểu tượng thiêng liêng của mình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="totem giáo cũng viết tôtem giáo.">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Tín ngưỡng totem, một hình thái tôn giáo nguyên thuỷ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="tô,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Địa tô (nói tắt). Nộp tô. Đấu tranh đòi giảm tô." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(phương ngữ)." Noi_dung="tô,d.">
+  <Y_NGHIA Minh_hoa="Tô canh." Noi_dung="Bát ô tô. Tô phở." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="tô,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="1 Dùng mực hoặc màu làm cho nổi thêm các đường nét, mảng màu đã có" />
+  </MUC_TU>
+ </GOC>

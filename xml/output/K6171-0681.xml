@@ -1,0 +1,147 @@
+<GOC>
+ <MUC_TU Loai_tu="xem" Noi_dung="trừng giới">
+  <Y_NGHIA Minh_hoa="" Noi_dung="nhà trừng giới." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trừng phạt">
+  <Y_NGHIA Minh_hoa="Trừng phạt kế cố tình ui phạm pháp luật. Đòn trừng phạt." Noi_dung="Dùng hình phạt trị kẻ có tội." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trừng trị">
+  <Y_NGHIA Minh_hoa="Trừng trị kẻ chủ mưu. Hành động kẻ cướp bị trừng trị đích đáng." Noi_dung="Dùng hình phạt đích đáng trị kẻ có tội lớn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trừng trộ">
+  <Y_NGHIA Minh_hoa="Bọn lính trừng trộ, quát tháo Âm" Noi_dung="Trừng mắt tỏ thái độ (nói khái quát)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="trừng trừng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thường dùng phụ cho động từ). Từ gợi tả lối nhìn thẳng và lâu không chớp mắt, thường biểu lộ sự ngạc nhiên hoặc căm giận. Nhìn trừng trừng. Mắt mở trừng trừng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trứng">
+  <Y_NGHIA Minh_hoa="Trứng chim. Trứng tằm. Cá để trứng. Gà ấp trứng." Noi_dung="Khối hình bầu dục hoặc hình cầu do một số động vật cái đẻ ra, sau có thể nở thành con." />
+  <Y_NGHIA Minh_hoa="một chục trứng. Món trứng rán." Noi_dung="Trứng gà hoặc trứng vịt (nói tắt). Mua" />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(chuyên môn). Tế bào sinh dục cái. Buồng trứng. Rụng trứng. Trứng đã thụ tỉnh." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trứng cá">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nốt nhỏ trông tựa trứng cá, thường thấy trên da mặt người đang tuổi dậy thì." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="trứng chọi với đá">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Ví trường hợp đối chọi không cân sức với một lực lượng mạnh hơn gấp bội, chắc chắn bị thất bại." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="trứng cuốc">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(Chuối) chín tới mức vỏ chuyển sang màu vàng sẫm và lốm đốm chấm nâu, trông tựa như màu vỏ trứng chim cuốc. Chuối tiêu trứng cuốc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="trứng để đầu đẳng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(thường nói như trứng để đầu đẳng). Ví tình thế rất hiểm nghèo, sự mất còn bị đe doạ từng giờ từng phút." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="trứng gà trứng vịt">
+  <Y_NGHIA Minh_hoa="Bây trẻ nhỏ lên năm, lên bảy, trứng gà trứng uịt." Noi_dung="Ví tình trạng suýt soát bằng nhau, không hơn kém nhau bao nhiêu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(khẩu ngữ)." Noi_dung="trứng khôn hơn rận">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Như trứng (mà đòn) khôn hơn uịt." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trứng lộn">
+  <Y_NGHIA Minh_hoa="Trứng uịt lộn." Noi_dung="Trứng vịt, trứng gà đã ấp dở, bắt đầu thành hình con, dùng để luộc làm món ăn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="trứng">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(mà đòi) khôn hơn vịt (khẩu ngữ). Ví trường hợp con cái, nói chung người ít tuổi, mà lại muốn tỏ ra khôn hơn cha mẹ, hơn người lớn tuổi (thường dùng để nói mỉa)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="(văn chương)." Noi_dung="trứng nước">
+  <Y_NGHIA Minh_hoa="Dạy bảo con từ khi còn trứng nước." Noi_dung="(Trẻ con) ở thời kì mới sinh ra chưa được bao lâu, đang còn non nớt, thơ dại, cần được chăm chút, giữ gìn." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trứng sáo">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tả màu xanh nhạt, trông tựa như màu vỏ trứng chim sáo (thường nói về vải, lụa). V4¡ xanh trứng sáo." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước">
+  <Y_NGHIA Minh_hoa="Nhìn trước ngó sau. Đằng trước. Trước mặt, sau lưng đều có người. Thẳng tới trước." Noi_dung="Phía những vị trí mà mắt nhìn thẳng có thể thấy được." />
+  <Y_NGHIA Minh_hoa="vị trí ở mặt chính của sự vật, thường bày ra cho người ta thấy. 4z; chụp đứng trước cây cổ thụ. Xe đỗ ngay trước nhà. Đi cổng trước." Noi_dung="Phía những vị trí không bị sự vật xác định nào đó che khuất, hoặc những" />
+  <Y_NGHIA Minh_hoa="vị trí tương đối gần vị trí lấy làm mốc hơn, tính từ vị trí mốc đó trở lại. Ngồi ở hàng ghế trước, gần sân khấu. A Khoảng của những thời điểm đã đến rồi, khi thời điểm lấy làm mốc nào đó còn chưa đến. Đi kịp trước khi trời mưa. Không chờ, ăn cơm trước. Được báo cho biết trước uài ngày. Hôm trước. Từ trước đến nay." Noi_dung="Phía những" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="kết từ" Noi_dung="trước">
+  <Y_NGHIA Minh_hoa="Trước cảnh đó, ai cũng thương tâm. Trước bằng chứng không thể chối cãi, nó phải nhận. Trước nguy hiểm, uẫn bình tĩnh. Đứng trước tình hình." Noi_dung="Từ biểu thị điều sắp nêu ra là thực tế, tình hình tác động trực tiếp, làm cho có thái độ, hoạt động, sự phản ứng được nói đến." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trước bạ">
+  <Y_NGHIA Minh_hoa="Sổ trước bạ. Thuế trước bạ." Noi_dung="(cũ; thường dùng sau danh từ trong một số tổ hợp). Ghi văn tự, khế Ước vào số sách của cơ quan chính quyên quản lí, để có được đầy đủ giá trị trước pháp luật." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước hết">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trước tất cả những cái khác, vì quan trọng hơn cả. Trước hết, phải xác định mục đích của công uiệc." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước kia">
+  <Y_NGHIA Minh_hoa="Trước kia khác, ngày nay khác." Noi_dung="Khoảng thời gian nói trong quá khứ, đối lập với ngày nay, sau này." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước mắt">
+  <Y_NGHIA Minh_hoa="Nhiệm uụ trước mắt. Trước mắt, uấn đề đó chưa đặt ra." Noi_dung="Hiện nay và trong thời gian ngắn sắp tới." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước nay">
+  <Y_NGHIA Minh_hoa="Chuyện trước nay chưa từng có." Noi_dung="Từ trước kia cho đến bây giờ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước nhất">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Như trước hết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước sau">
+  <Y_NGHIA Minh_hoa="Trước sau giữ vững lời nguyên. 4 Không trước thì sau, dù trước dù sau. Trước sau cũng phải làm." Noi_dung="3 (ít dùng). Cả phía trước, cả phía sau; khắp các phía. Nhìn trước sau chẳng thấy ai. 2 (cũ; văn chương). Cả về trước, cả về sau; đầu đuôi, cặn kẽ. Hỏi chuyện trước sau. 3 Trước cũng như sau, lúc nào cũng thế." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="trước sau như một">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trước cũng như sau, trong hoàn cảnh nào cũng không thay lòng đối dạ." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trước tác">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(cũ). Viết thành tác phẩm." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước tác">
+  <Y_NGHIA Minh_hoa="Trước tác của một uăn hào." Noi_dung="(trang trọng). Tác phẩm viết." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trước thuật">
+  <Y_NGHIA Minh_hoa="Viết sách (nói khái quát). Công uiệc trước thuật, dịch thuật." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trước tiên">
+  <Y_NGHIA Minh_hoa="Người uề đích trước tiên. Việc trước tiên cần phải làm." Noi_dung="Trước tất cả những người khác, việc khác; đầu tiên." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trườn">
+  <Y_NGHIA Minh_hoa="Con rắn trườn ra khỏi hang. Tân binh tập bò, tập trườn." Noi_dung="Nằm sấp áp sát mặt đất, dùng sức đẩy thân mình về phía trước." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="" Noi_dung="trương,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ph.).x. trang." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trương;">
+  <Y_NGHIA Minh_hoa="Ở trạng thái căng phình lên vì hút nhiều nước. Cơm trương. Chết trương. Trương phồnh phồnh." Noi_dung="cũng nói chương." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trương,">
+  <Y_NGHIA Minh_hoa="Giương. Trương buồm ra khơi. Trương cung. Trương mắt nhìn." Noi_dung="(cũ)." />
+  <Y_NGHIA Minh_hoa="cờ uà biểu ngữ." Noi_dung="Giương cao, căng rộng ra để trưng cho mọi người nhìn thấy. Đoàn tuần hành trương" />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trương mục">
+  <Y_NGHIA Minh_hoa="Mở trương mục trong ngân hàng." Noi_dung="Mục ghi số tiền gửi của một. người và sự thu chỉ của người đó tại ngân hàng." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trương tuần">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Người điều khiển tuần định ở thôn xã thời phong kiến, thực dân." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trường,">
+  <Y_NGHIA Minh_hoa="Trường đua*. Trường bắn&quot;." Noi_dung="(dùng trước đg., hạn chế trong một số tổ hợp). Khoảng đất rộng và bằng phẳng, chuyên dùng làm nơi tiến hành một loại hoạt động nhất định có đông người tham gia, thường là thi đấu hay luyện tập." />
+  <Y_NGHIA Minh_hoa="lợi. Có uy tín trên trường quốc tế." Noi_dung="(dùng trước một số danh từ). Nơi diễn ra các hoạt động chính trị, xã hội, v.v. sôi nổi. Trường ngôn luận. Trường danh" />
+  <Y_NGHIA Minh_hoa="Trường uận tốc. Trường nhiệt độ." Noi_dung="(chuyên môn). Khoảng không gian trong đó một đại lượng nào đó có một trị số xác định tại mọi điểm." />
+  <Y_NGHIA Minh_hoa="Trường hấp dẫn. Trường điện từ." Noi_dung="(chuyên môn). Dạng vật chất tồn tại trong một khoảng không gian mà vật nào trong đó cũng chịu tác dụng của một lực." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(chuyên môn). Vị trí được nằm riêng trong máy tính để lưu giữ các phần tử dữ liệu đặc biệt trên thiết bị nhớ ngoài hay nhớ trong." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trường,">
+  <Y_NGHIA Minh_hoa="Học sinh đến trường. Dưới mái trường. Trường đại học." Noi_dung="Như trường học (nhưng thường dùng với nghĩa cụ thể)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="tính từ" Noi_dung="trường,">
+  <Y_NGHIA Minh_hoa="" Noi_dung="(ít dùng). Có bề dài đo được bao nhiêu đó (thường nói về gỗ). Khúc gỗ trường" />
+  <Y_NGHIA Minh_hoa="" Noi_dung="thước, khoát thước." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="(kết hợp hạn chế). Dài. Giống lợn mình trường. Giọng hát rất trường." />
+  <Y_NGHIA Minh_hoa="Đường trường. Dặm trường. Mấy chục năm trường. Canh trường." Noi_dung="(Khoảng không gian, thời gian) có cảm giác rất dài, rất lâu." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trường bách nghệ">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Trường đào tạo nhân viên kĩ thuật sơ cấp thời thực dân Pháp." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trường bay">
+  <Y_NGHIA Minh_hoa="Sân bay." Noi_dung="(cũ)." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trường bắn">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Khu vực địa hình có thiết bị cần thiết chuyên dùng để bắn đạn thật." />
+  <Y_NGHIA Minh_hoa="" Noi_dung="Nơi bắn những người bị án tử hình." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="danh từ" Noi_dung="trường ca">
+  <Y_NGHIA Minh_hoa="" Noi_dung="Tác phẩm dài bằng thơ, có nội dung ý nghĩa xã hội rộng lớn. Bản trường ca." />
+  </MUC_TU>
+ <MUC_TU Loai_tu="động từ" Noi_dung="trường chỉnh">
+  <Y_NGHIA Minh_hoa="Vạn dặm trường chỉnh, đánh giặc cứu nước. Cuộc trường chính." Noi_dung="(văn chương). (Đoàn đông người) làm cuộc hành trình dài lâu vì mục đích lớn." />
+  </MUC_TU>
+ </GOC>
