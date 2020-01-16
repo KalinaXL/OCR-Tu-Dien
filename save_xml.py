@@ -262,7 +262,7 @@ def split_by_meaning(d, ls, is_has_digit = True):
         ls.append(('22', 1))
         for item in ls:
             if item[1] == 1:
-                if int(item[0]) > 1:
+                if item[0].isdigit() and int(item[0]) > 1:
                     s.append(n_tmp)
                     n_tmp = []
             else:
@@ -432,6 +432,7 @@ def parseimage(img_path, d, d_fn, clf, sc):
                     text = api.GetUTF8Text().strip()
                     if not text:
                         continue
+                    print(text)
                     if text[0] == '"':
                         text = text.replace('"', ' ', 2)
                     tus = split_word(row)
@@ -700,25 +701,25 @@ def main(args):
     for img_path in img_paths:
         start = time.time()
         count += 1
-        try:
-            img_name = img_path.split(os.path.sep)[-1]
-            output_path = os.path.join('xml', 'output', img_name.split('.')[0] + '.xml')
-            if '{}.xml'.format(img_name.split('.')[0]) in ls_output:
-                end = time.time()
-                print('[INFO] Existed {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
-                continue
-            ls_content, ls_typeword, ls_meaning = parseimage(img_path, d, d_fn, clf, sc)
-            root = ET.Element('GOC')
-            save_xml(root, ls_content, ls_typeword, ls_meaning)
-            format_xml(root)
-            tree = ET.ElementTree(root)
-            # output_path = "test_{}.xml".format(img_path.split(os.path.sep)[-1].split('.')[0])
-            tree.write(output_path, encoding = 'utf-8')
+        # try:
+        img_name = img_path.split(os.path.sep)[-1]
+        output_path = os.path.join('xml', 'output', img_name.split('.')[0] + '.xml')
+        if '{}.xml'.format(img_name.split('.')[0]) in ls_output:
             end = time.time()
-            print('[INFO] Processed {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
-        except:
-            end = time.time()
-            print('[INFO] Error !!! {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
+            print('[INFO] Existed {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
+            continue
+        ls_content, ls_typeword, ls_meaning = parseimage(img_path, d, d_fn, clf, sc)
+        root = ET.Element('GOC')
+        save_xml(root, ls_content, ls_typeword, ls_meaning)
+        format_xml(root)
+        tree = ET.ElementTree(root)
+        # output_path = "test_{}.xml".format(img_path.split(os.path.sep)[-1].split('.')[0])
+        tree.write(output_path, encoding = 'utf-8')
+        end = time.time()
+        print('[INFO] Processed {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
+        # except:
+        #     end = time.time()
+        #     print('[INFO] Error !!! {} image: {} - Time: {:.4f}'.format(count, img_name, end - start))
     print('[INFO] Finished.')
 if __name__ == "__main__":
     main(parseargument())
